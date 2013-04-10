@@ -21,294 +21,298 @@ WrapStyle: 0
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Spica - Main,Avenir LT Std,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
-Style: Spica - Offscreen,Avenir LT Std,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
-Style: Spica - Secondary,Avenir LT Std,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
-Style: Spica - Flashback,Avenir LT Std,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,-1,0,0,95,100,0,0,1,2,0,2,50,50,20,1
-Style: Spica - Italic,Avenir LT Std,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,-1,0,0,95,100,0,0,1,2,0,2,50,50,20,1
-Style: Spica - Notes,Avenir LT Std,24,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,8,50,50,20,1
-Style: Spica - Title,Cabin,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,0,2.5,2,10,10,148,1
-Style: Spica - Signs,Arial,25,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
+Style: Default,Avenir LT Std 55 Roman,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
+Style: Offscreen,Avenir LT Std 55 Roman,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
+Style: Secondary,Avenir LT Std 55 Roman,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
+Style: Flashback,Avenir LT Std 55 Roman,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,-1,0,0,95,100,0,0,1,2,0,2,50,50,20,1
+Style: Italic,Avenir LT Std 55 Roman,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,-1,0,0,95,100,0,0,1,2,0,2,50,50,20,1
+Style: Notes,Avenir LT Std 55 Roman,24,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,8,50,50,20,1
+Style: Title,Cabin,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,0,2.5,2,10,10,148,1
+Style: OP - English,Praxis LT Pro,28,&H00E0F0FB,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,20,1
+Style: OP - Kara,Praxis LT Pro,28,&H00E0F0FB,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,50,50,20,1
+Style: ED - English,Praxis LT Pro,28,&H00EBDDDF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,2,50,50,20,1
+Style: ED - Kara,Praxis LT Pro,28,&H00EBDDDF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,50,50,20,1
+Style: Signs,Avenir LT Std 55 Roman,25,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:52.02,0:01:53.90,Spica - Main,,0,0,90,,My dream!
-Dialogue: 0,0:01:53.90,0:01:56.86,Spica - Main,,0,0,90,,Year 1, Class 1, Kamogawa Asumi.
-Dialogue: 0,0:01:57.20,0:02:01.91,Spica - Main,,0,0,90,,My dream is to become a rocket driver!
-Dialogue: 0,0:02:01.91,0:02:06.91,Spica - Main,,0,0,90,,That's because I've heard that the Earth is very\Npretty when you look at it from space.
-Dialogue: 0,0:02:06.91,0:02:11.42,Spica - Main,,0,0,90,,So I want to become a rocket driver and go into space!
-Dialogue: 0,0:02:11.63,0:02:15.42,Spica - Main,,0,0,90,,I want to take people to all sorts of different planets!
-Dialogue: 0,0:02:16.13,0:02:19.43,Spica - Main,,0,0,90,,And when they're on my rocket...
-Dialogue: 0,0:02:19.43,0:02:23.97,Spica - Main,,0,0,90,,my dad and Lion-san will get special free rides!
-Dialogue: 0,0:02:24.35,0:02:26.02,Spica - Main,,0,0,90,,The end!
-Dialogue: 0,0:02:27.23,0:02:32.19,Spica - Title,,0,0,90,,Even Underwater, There Is Space
-Dialogue: 0,0:02:40.20,0:02:42.16,Spica - Main,,0,0,90,,I'm here at last!
-Dialogue: 0,0:02:42.16,0:02:45.24,Spica - Main,,0,0,90,,This is my dream, the world of the moon.
-Dialogue: 0,0:02:45.24,0:02:46.54,Spica - Offscreen,,0,0,90,,Oumi-kun.
-Dialogue: 0,0:02:50.08,0:02:53.67,Spica - Main,,0,0,90,,A24-21, Oumi Kei-kun.
-Dialogue: 0,0:02:53.67,0:02:55.09,Spica - Main,,0,0,90,,Y-Yes.
-Dialogue: 0,0:02:56.84,0:02:59.13,Spica - Main,,0,0,90,,Were you taking a nap standing up or something?
-Dialogue: 0,0:02:59.13,0:03:02.01,Spica - Main,,0,0,90,,N-No, I'm sorry.
-Dialogue: 0,0:03:07.52,0:03:08.89,Spica - Main,,0,0,90,,What is it?
-Dialogue: 0,0:03:08.89,0:03:10.27,Spica - Main,,0,0,90,,Nothing.
-Dialogue: 0,0:03:11.02,0:03:12.31,Spica - Main,,0,0,90,,What's up with her...
-Dialogue: 0,0:03:12.31,0:03:15.81,Spica - Main,,0,0,90,,Now, type in your number using this keyboard.
-Dialogue: 0,0:03:18.44,0:03:20.19,Spica - Main,,0,0,90,,Good, okay.
-Dialogue: 0,0:03:20.86,0:03:21.70,Spica - Main,,0,0,90,,Next person!
-Dialogue: 0,0:03:21.70,0:03:23.11,Spica - Main,,0,0,90,,Y-Yes.
-Dialogue: 0,0:03:23.11,0:03:27.41,Spica - Main,,0,0,90,,A24-22, Kamogawa Asumi.
-Dialogue: 0,0:03:27.41,0:03:31.91,Spica - Main,,0,0,90,,Are they even going to have a space suit that fits a 143 cm tall dummy?
-Dialogue: 0,0:04:06.91,0:04:09.91,Spica - Offscreen,,0,0,90,,What are you so depressed about, Asumi?
-Dialogue: 0,0:04:11.71,0:04:15.58,Spica - Main,,0,0,90,,Today was just a size fitting, so don't worry about it.
-Dialogue: 0,0:04:15.58,0:04:19.00,Spica - Main,,0,0,90,,The underwater zero-gravity exercise is later, right?
-Dialogue: 0,0:04:19.00,0:04:20.30,Spica - Main,,0,0,90,,That's right, but...
-Dialogue: 0,0:04:20.71,0:04:24.63,Spica - Main,,0,0,90,,Don't worry about it! They're special-ordering\None for you, after all.
-Dialogue: 0,0:04:24.63,0:04:27.76,Spica - Main,,0,0,90,,We're just getting hand-me-downs from the government.
-Dialogue: 0,0:04:27.76,0:04:29.26,Spica - Main,,0,0,90,,Yeah, but...
-Dialogue: 0,0:04:29.26,0:04:32.27,Spica - Offscreen,,0,0,90,,Don't just brood over it forever!
-Dialogue: 0,0:04:32.93,0:04:35.69,Spica - Main,,0,0,90,,But, those two...
-Dialogue: 0,0:04:39.19,0:04:41.65,Spica - Offscreen,,0,0,90,,Even now, when I think about it...
-Dialogue: 0,0:04:46.03,0:04:49.12,Spica - Main,,0,0,90,,How long are you guys gonna keep laughing about it?!
-Dialogue: 0,0:04:50.91,0:04:52.62,Spica - Offscreen,,0,0,90,,Sorry sorry.
-Dialogue: 0,0:04:52.62,0:04:56.42,Spica - Main,,0,0,90,,eat a lot of different things...
-Dialogue: 0,0:04:52.62,0:04:56.42,Spica - Main,,0,0,90,,Instead of always eating rice balls
-Dialogue: 0,0:04:56.42,0:04:59.00,Spica - Main,,0,0,90,,...and get bigger by the time you go to space.
-Dialogue: 0,0:04:59.67,0:05:03.96,Spica - Main,,0,0,90,,But I think it could be safer to be small.
-Dialogue: 0,0:05:03.97,0:05:04.63,Spica - Main,,0,0,90,,Huh?
-Dialogue: 0,0:05:04.80,0:05:07.55,Spica - Main,,0,0,90,,When you actually perform an EVA...
-Dialogue: 0,0:05:07.55,0:05:13.02,Spica - Main,,0,0,90,,it's better to slightly lower the chances\Nof hitting meteoroids or debris.
-Dialogue: 0,0:05:13.02,0:05:14.18,Spica - Main,,0,0,90,,I see...
-Dialogue: 0,0:05:14.18,0:05:18.60,Spica - Main,,0,0,90,,Huh? What's a mete... metero-something?
-Dialogue: 0,0:05:18.61,0:05:21.61,Spica - Main,,0,0,90,,Meteoroids and debris, Kei-chan.
-Dialogue: 0,0:05:25.99,0:05:31.66,Spica - Offscreen,,0,0,90,,objects in the void of space.
-Dialogue: 0,0:05:25.99,0:05:31.66,Spica - Offscreen,,0,0,90,,Meteoroids are very small celestial
-Dialogue: 0,0:05:31.66,0:05:33.70,Spica - Offscreen,,0,0,90,,which sometimes become meteorites.
-Dialogue: 0,0:05:35.04,0:05:40.58,Spica - Offscreen,,0,0,90,,And debris is what you call the trash-like stuff that people leave behind in space.
-Dialogue: 0,0:05:40.59,0:05:43.80,Spica - Offscreen,,0,0,90,,Starting with Sputnik which launched in 1957...
-Dialogue: 0,0:05:43.80,0:05:46.88,Spica - Offscreen,,0,0,90,,the upper half of the rockets used for launching satellites...
-Dialogue: 0,0:05:46.88,0:05:52.64,Spica - Offscreen,,0,0,90,,used-up satellites, broken pieces, paint fragments...
-Dialogue: 0,0:05:52.64,0:05:55.10,Spica - Offscreen,,0,0,90,,even gloves dropped by astronauts...
-Dialogue: 0,0:05:55.10,0:05:58.19,Spica - Offscreen,,0,0,90,,Large amounts of garbage are floating in space.
-Dialogue: 0,0:05:58.19,0:06:02.44,Spica - Main,,0,0,90,,I see. There are garbage problems even in space.
-Dialogue: 0,0:06:02.44,0:06:08.20,Spica - Main,,0,0,90,,I can understand meteorites being dangerous\Nbut what's so dangerous about debris?
-Dialogue: 0,0:06:08.20,0:06:13.53,Spica - Main,,0,0,90,,Debris flies around in all different directions\Naround the Earth at high speeds.
-Dialogue: 0,0:06:14.74,0:06:18.75,Spica - Main,,0,0,90,,If you get hit by this debris during an EVA...
-Dialogue: 0,0:06:19.21,0:06:20.50,Spica - Main,,0,0,90,,If you get hit?
-Dialogue: 0,0:06:21.58,0:06:22.50,Spica - Main,,0,0,90,,Bang!
-Dialogue: 0,0:06:23.34,0:06:25.25,Spica - Main,,0,0,90,,Cut it out, already!
-Dialogue: 0,0:06:25.26,0:06:29.59,Spica - Main,,0,0,90,,Well, it just goes to show that there are all sorts\Nof dangers if we make it out into space.
-Dialogue: 0,0:06:29.59,0:06:33.43,Spica - Main,,0,0,90,,Huh? What are we supposed to\Ndo it something happens, then?
-Dialogue: 0,0:06:33.43,0:06:37.27,Spica - Main,,0,0,90,,Asumi, don't ever leave me behind!
-Dialogue: 0,0:06:37.27,0:06:38.64,Spica - Main,,0,0,90,,Yeah, of course.
-Dialogue: 0,0:06:38.64,0:06:43.19,Spica - Main,,0,0,90,,Moron, it's space. We won't have\Ntime to be looking after others.
-Dialogue: 0,0:06:43.19,0:06:45.36,Spica - Main,,0,0,90,,I won't be asking you for help!
-Dialogue: 0,0:06:45.36,0:06:51.91,Spica - Main,,0,0,90,,Well, if the time comes, well probably\Nonly protect our highest priority.
-Dialogue: 0,0:06:53.62,0:07:01.96,Spica - Main,,0,0,90,,But I hope I won't run away from those I have to\Nprotect because of my fears and weaknesses.
-Dialogue: 0,0:07:05.59,0:07:10.30,Spica - Main,,0,0,90,,So even impudent guys like you have their fears, huh?
-Dialogue: 0,0:07:10.30,0:07:11.51,Spica - Main,,0,0,90,,Well, yeah.
-Dialogue: 0,0:07:11.51,0:07:13.22,Spica - Main,,0,0,90,,What are they?
-Dialogue: 0,0:07:14.01,0:07:15.43,Spica - Main,,0,0,90,,My eyebrows, I think.
-Dialogue: 0,0:07:15.43,0:07:17.14,Spica - Main,,0,0,90,,Is that why you shaved them?
-Dialogue: 0,0:07:17.14,0:07:19.10,Spica - Main,,0,0,90,,How would that be the reason?
-Dialogue: 0,0:07:36.62,0:07:40.08,Spica - Offscreen,,0,0,90,,Geez, we won't get to class on time!
-Dialogue: 0,0:07:52.30,0:07:54.01,Spica - Main,,0,0,90,,It's mysterious.
-Dialogue: 0,0:07:54.59,0:07:56.55,Spica - Main,,0,0,90,,I don't really like exercise...
-Dialogue: 0,0:07:56.55,0:08:00.10,Spica - Main,,0,0,90,,but whenever I hear the word "pool"\Nsomehow I always get excited!
-Dialogue: 0,0:08:00.10,0:08:01.68,Spica - Main,,0,0,90,,Y-Yeah.
-Dialogue: 0,0:08:04.31,0:08:06.90,Spica - Main,,0,0,90,,If we weren't wearing this, it would be the best...
-Dialogue: 0,0:08:07.36,0:08:08.90,Spica - Offscreen,,0,0,90,,Hey Kei-chan...
-Dialogue: 0,0:08:09.69,0:08:12.19,Spica - Main,,0,0,90,,Can you pull up the zipper on the back?
-Dialogue: 0,0:08:12.20,0:08:13.78,Spica - Main,,0,0,90,,Your back...
-Dialogue: 0,0:08:14.24,0:08:16.20,Spica - Main,,0,0,90,,What are you doing, Asumi?
-Dialogue: 0,0:08:16.20,0:08:18.20,Spica - Main,,0,0,90,,You put it on backward.
-Dialogue: 0,0:08:20.29,0:08:22.96,Spica - Main,,0,0,90,,We're gonna be late, Asumi! Let's hurry!
-Dialogue: 0,0:08:23.79,0:08:24.79,Spica - Main,,0,0,90,,Okay!
-Dialogue: 0,0:08:30.13,0:08:31.63,Spica - Offscreen,,0,0,90,,How unusual.
-Dialogue: 0,0:08:33.72,0:08:38.30,Spica - Main,,0,0,90,,You're always smiling so much that it's sickening.\Nno matter what class you're in.
-Dialogue: 0,0:08:38.93,0:08:40.56,Spica - Main,,0,0,90,,You think so?
-Dialogue: 0,0:08:40.56,0:08:43.06,Spica - Main,,0,0,90,,I'm the same as usual.
-Dialogue: 0,0:08:47.61,0:08:54.95,Spica - Main,,0,0,90,,meters wearing a flight suit and shoes.
-Dialogue: 0,0:08:47.61,0:08:54.95,Spica - Main,,0,0,90,,For this training lesson, you will swim one hundred
-Dialogue: 0,0:08:56.16,0:08:59.49,Spica - Main,,0,0,90,,Think of yourself as the only one you can depend on in space.
-Dialogue: 0,0:08:59.49,0:09:03.00,Spica - Main,,0,0,90,,No matter what happens, don't trouble your teammates!
-Dialogue: 0,0:09:03.54,0:09:08.29,Spica - Main,,0,0,90,,Keep in mind that this is training for\Nsuch a situation, so do it seriously.
-Dialogue: 0,0:09:08.29,0:09:09.34,Spica - Secondary,,0,0,90,,Yes!
-Dialogue: 0,0:09:10.25,0:09:12.17,Spica - Offscreen,,0,0,90,,Damn that devil instructor!
-Dialogue: 0,0:09:12.17,0:09:17.09,Spica - Main,,0,0,90,,because my form was a little off!
-Dialogue: 0,0:09:12.17,0:09:17.09,Spica - Main,,0,0,90,,He didn't have to work me so hard just
-Dialogue: 0,0:09:17.59,0:09:19.80,Spica - Offscreen,,0,0,90,,If it's for your safety it's only natural.
-Dialogue: 0,0:09:20.68,0:09:24.89,Spica - Main,,0,0,90,,I'd rather you train more,\Ninstead of complaining so much.
-Dialogue: 0,0:09:24.89,0:09:27.19,Spica - Offscreen,,0,0,90,,Hey just what do you mean by that?
-Dialogue: 0,0:09:27.65,0:09:31.19,Spica - Main,,0,0,90,,It means that I'd never want to go into space with you.
-Dialogue: 0,0:09:31.19,0:09:33.19,Spica - Main,,0,0,90,,That's my line.
-Dialogue: 0,0:09:33.19,0:09:36.74,Spica - Main,,0,0,90,,I'd rather die than go with you!
-Dialogue: 0,0:09:37.28,0:09:42.20,Spica - Main,,0,0,90,,If anything happens Asumi will be there to save me!
-Dialogue: 0,0:09:43.79,0:09:49.08,Spica - Main,,0,0,90,,Kamogawa-san, if you don't stop being\Nnice you'll eventually lose your life.
-Dialogue: 0,0:09:50.17,0:09:54.13,Spica - Offscreen,,0,0,90,,Sacrificing yourself for someone else is foolish.
-Dialogue: 0,0:09:54.55,0:10:00.05,Spica - Main,,0,0,90,,to save a twisted person like you!
-Dialogue: 0,0:09:54.55,0:10:00.05,Spica - Main,,0,0,90,,I'll tell you there's no one who'd want
-Dialogue: 0,0:10:00.05,0:10:00.84,Spica - Main,,0,0,90,,Kei-chan!
-Dialogue: 0,0:10:01.30,0:10:04.10,Spica - Main,,0,0,90,,I can protect myself on my own.
-Dialogue: 0,0:10:04.10,0:10:07.10,Spica - Main,,0,0,90,,It really is irritating watching all of you.
-Dialogue: 0,0:10:07.81,0:10:09.19,Spica - Main,,0,0,90,,Marika-chan!
-Dialogue: 0,0:10:09.98,0:10:12.65,Spica - Main,,0,0,90,,I can understand what you're saying, but...
-Dialogue: 0,0:10:13.69,0:10:17.19,Spica - Main,,0,0,90,,But, you can't go to space alone.
-Dialogue: 0,0:10:21.28,0:10:25.74,Spica - Offscreen,,0,0,90,,intoxicated with just getting in this school.
-Dialogue: 0,0:10:21.28,0:10:25.74,Spica - Offscreen,,0,0,90,,I don't want to be told that by someone who s
-Dialogue: 0,0:10:25.75,0:10:28.46,Spica - Main,,0,0,90,,I'm not intoxicated...
-Dialogue: 0,0:10:35.30,0:10:37.30,Spica - Offscreen,,0,0,90,,Ukita Marika, right?
-Dialogue: 0,0:10:37.30,0:10:38.26,Spica - Offscreen,,0,0,90,,I've heard of her.
-Dialogue: 0,0:10:39.26,0:10:43.10,Spica - Main,,0,0,90,,You sure know a lot when it comes to girls, you playboy.
-Dialogue: 0,0:10:43.10,0:10:44.30,Spica - Main,,0,0,90,,Well, sure...
-Dialogue: 0,0:10:44.31,0:10:45.68,Spica - Main,,0,0,90,,What's a playboy?
-Dialogue: 0,0:10:46.31,0:10:49.10,Spica - Main,,0,0,90,,You don't need to know about that.
-Dialogue: 0,0:10:49.64,0:10:54.36,Spica - Main,,0,0,90,,To tell you the truth, her father and\Nmy grandfather know each other.
-Dialogue: 0,0:10:54.36,0:10:59.53,Spica - Main,,0,0,90,,I've only heard her name before, but\NI didn't think we'd be classmates.
-Dialogue: 0,0:11:00.78,0:11:03.87,Spica - Main,,0,0,90,,I thought she was far older.
-Dialogue: 0,0:11:05.24,0:11:09.91,Spica - Main,,0,0,90,,The one donating the most to this\Nschool is her father, you know.
-Dialogue: 0,0:11:10.58,0:11:13.00,Spica - Offscreen,,0,0,90,,Wow, that's amazing!
-Dialogue: 0,0:11:13.00,0:11:15.71,Spica - Main,,0,0,90,,Big deal, it's just a little donation.
-Dialogue: 0,0:11:15.71,0:11:16.88,Spica - Offscreen,,0,0,90,,Yeah.
-Dialogue: 0,0:11:17.76,0:11:19.51,Spica - Main,,0,0,90,,But it was hundreds of millions of yen.
-Dialogue: 0,0:11:19.51,0:11:21.34,Spica - Offscreen,,0,0,90,,Hundreds of millions?!
-Dialogue: 0,0:11:53.71,0:11:55.96,Spica - Flashback,,0,0,90,,You can't go to space alone.
-Dialogue: 0,0:12:02.22,0:12:04.89,Spica - Offscreen,,0,0,90,,You alone?
-Dialogue: 0,0:12:02.22,0:12:04.89,Spica - Offscreen,,0,0,90,,Hey hey girl!
-Dialogue: 0,0:12:05.55,0:12:07.39,Spica - Main,,0,0,90,,Wanna go karaoke together?
-Dialogue: 0,0:12:09.56,0:12:12.27,Spica - Main,,0,0,90,,It's all right! C'mon, let's go!
-Dialogue: 0,0:12:12.69,0:12:13.98,Spica - Main,,0,0,90,,Don't touch me!
-Dialogue: 0,0:12:15.31,0:12:16.44,Spica - Main,,0,0,90,,What the hell?
-Dialogue: 0,0:12:16.44,0:12:18.57,Spica - Main,,0,0,90,,Stop putting on airs.
-Dialogue: 0,0:12:18.57,0:12:20.23,Spica - Offscreen,,0,0,90,,Hey you guys!
-Dialogue: 0,0:12:20.24,0:12:24.20,Spica - Main,,0,0,90,,If you rough up a girl, I'll call the police.
-Dialogue: 0,0:12:24.99,0:12:28.03,Spica - Main,,0,0,90,,What the hell? We just asked her out for karaoke.
-Dialogue: 0,0:12:28.03,0:12:29.16,Spica - Main,,0,0,90,,Let's go.
-Dialogue: 0,0:12:29.16,0:12:32.62,Spica - Main,,0,0,90,,Huh? Aren't you a Space School student?
-Dialogue: 0,0:12:33.50,0:12:35.58,Spica - Main,,0,0,90,,I knew it!
-Dialogue: 0,0:12:35.58,0:12:39.55,Spica - Main,,0,0,90,,because you were worried about Asumi!
-Dialogue: 0,0:12:35.58,0:12:39.55,Spica - Main,,0,0,90,,You came to the dorm the day of the entrance ceremony
-Dialogue: 0,0:12:40.63,0:12:43.13,Spica - Main,,0,0,90,,What are you doing at a place like this?
-Dialogue: 0,0:12:43.13,0:12:46.93,Spica - Main,,0,0,90,,to be done with her part-time Job?
-Dialogue: 0,0:12:43.13,0:12:46.93,Spica - Main,,0,0,90,,Ah, could you be waiting for Asumi-chan
-Dialogue: 0,0:12:49.14,0:12:51.10,Spica - Main,,0,0,90,,See, over there? There she is!
-Dialogue: 0,0:12:52.52,0:12:58.19,Spica - Main,,0,0,90,,be a little longer before she gets out.
-Dialogue: 0,0:12:52.52,0:12:58.19,Spica - Main,,0,0,90,,She always works real late so I think it ll
-Dialogue: 0,0:12:56.10,0:12:58.19,Spica - Offscreen,,0,0,90,,Are you ready to order?
-Dialogue: 0,0:12:58.98,0:13:02.19,Spica - Main,,0,0,90,,It's amazing that she can continue to work on top of school...
-Comment: 0,0:13:09.18,0:13:19.15,Spica - Title,,0,0,0,,Eyecatch
-Dialogue: 0,0:13:20.80,0:13:22.88,Spica - Offscreen,,0,0,90,,Ah, I give up...
-Dialogue: 0,0:13:22.88,0:13:25.13,Spica - Offscreen,,0,0,90,,What's wrong, Ooyama-sensei?
-Dialogue: 0,0:13:25.13,0:13:29.76,Spica - Main,,0,0,90,,I special ordered a space suit for a\Nstudent that couldn't fit into one.
-Dialogue: 0,0:13:29.76,0:13:32.81,Spica - Main,,0,0,90,,It seems like it will cost more money than I expected.
-Dialogue: 0,0:13:33.39,0:13:38.35,Spica - Main,,0,0,90,,The government official's purse strings\Nare tight, so there's nothing I can do.
-Dialogue: 0,0:13:38.98,0:13:40.86,Spica - Main,,0,0,90,,If that's it, it's simple.
-Dialogue: 0,0:13:40.86,0:13:42.19,Spica - Main,,0,0,90,,Huh?
-Dialogue: 0,0:13:47.11,0:13:48.95,Spica - Offscreen,,0,0,90,,Well, let's go home!
-Dialogue: 0,0:13:48.95,0:13:51.37,Spica - Offscreen,,0,0,90,,I still have something to do, so...
-Dialogue: 0,0:13:51.37,0:13:53.66,Spica - Main,,0,0,90,,Huh? You have work today, too?
-Dialogue: 0,0:13:53.66,0:13:56.41,Spica - Main,,0,0,90,,Um, no, that's not it...
-Dialogue: 0,0:13:57.42,0:13:59.04,Spica - Main,,0,0,90,,Well, whatever.
-Dialogue: 0,0:13:59.04,0:14:00.46,Spica - Main,,0,0,90,,I'll go on ahead!
-Dialogue: 0,0:14:00.46,0:14:02.54,Spica - Main,,0,0,90,,Yeah, see you tomorrow!
-Dialogue: 0,0:14:27.28,0:14:36.00,Spica - Flashback,,0,0,90,,I hope I won't run away from those I have to protect because of my fears and weaknesses.
-Dialogue: 0,0:14:36.71,0:14:40.25,Spica - Main,,0,0,90,,I wonder if I can do it as well, Lion-san...
-Dialogue: 0,0:14:57.68,0:14:58.93,Spica - Offscreen,,0,0,90,,Worried about her?
-Dialogue: 0,0:15:00.15,0:15:05.15,Spica - Main,,0,0,90,,but the truth is she's scared of water.
-Dialogue: 0,0:15:00.15,0:15:05.15,Spica - Main,,0,0,90,,Kamogawa's swimming like that
-Dialogue: 0,0:15:06.23,0:15:13.20,Spica - Offscreen,,0,0,90,,When she was small, she almost drowned in a river.
-Dialogue: 0,0:15:13.70,0:15:16.20,Spica - Main,,0,0,90,,I think she's still pretty scared...
-Dialogue: 0,0:15:16.20,0:15:18.91,Spica - Main,,0,0,90,,...so I'm not sure what's gotten in to her.
-Dialogue: 0,0:15:25.38,0:15:30.38,Spica - Offscreen,,0,0,90,,She's a stupid dummy that doesn't have any\Ncommon sense, and that can't be helped...
-Dialogue: 0,0:15:31.30,0:15:33.14,Spica - Main,,0,0,90,,But don't bully her so much, okay?
-Dialogue: 0,0:15:34.14,0:15:36.39,Spica - Main,,0,0,90,,it's not like I was bullying...
-Dialogue: 0,0:16:10.22,0:16:11.55,Spica - Offscreen,,0,0,90,,That dummy!
-Dialogue: 0,0:16:12.38,0:16:15.18,Spica - Main,,0,0,90,,Trying so hard when she can't swim that well!
-Dialogue: 0,0:16:19.27,0:16:21.31,Spica - Offscreen,,0,0,90,,That is all for next month's budget distribution.
-Dialogue: 0,0:16:19.27,0:16:22.77,Spica - Signs,,0,0,90,,Space Astronaut Training Course
-Dialogue: 0,0:16:20.02,0:16:21.06,Spica - Signs,,0,0,90,,Space Astronaut
-Dialogue: 0,0:16:21.43,0:16:21.73,Spica - Offscreen,,0,0,90,,Staff Meeting\NThat is all for next month's budget distribution.
-Dialogue: 0,0:16:21.89,0:16:23.73,Spica - Offscreen,,0,0,90,,That is all for next month's budget distribution.
-Dialogue: 0,0:16:22.27,0:16:22.77,Spica - Signs,,0,0,90,,Staff Meeting
-Dialogue: 0,0:16:31.24,0:16:34.45,Spica - Main,,0,0,90,,If you would kindly accept and cooperate...
-Dialogue: 0,0:16:34.45,0:16:35.86,Spica - Main,,0,0,90,,What did you say?!
-Dialogue: 0,0:16:35.87,0:16:37.45,Spica - Main,,0,0,90,,You can't be serious!
-Dialogue: 0,0:16:37.45,0:16:42.33,Spica - Main,,0,0,90,,this unpleasantly high expense?
-Dialogue: 0,0:16:37.45,0:16:42.33,Spica - Main,,0,0,90,,Wait, Ooyama-sensei, what is
-Dialogue: 0,0:16:42.33,0:16:47.08,Spica - Main,,0,0,90,,suit that I mentioned before.
-Dialogue: 0,0:16:42.33,0:16:47.08,Spica - Main,,0,0,90,,it is the price of the additional space
-Dialogue: 0,0:16:47.09,0:16:48.50,Spica - Main,,0,0,90,,Additional?
-Dialogue: 0,0:16:48.50,0:16:52.51,Spica - Main,,0,0,90,,Kamogawa Asumi, Mr. Principal.
-Dialogue: 0,0:16:48.50,0:16:52.51,Spica - Main,,0,0,90,,This is about the student named
-Dialogue: 0,0:16:52.51,0:16:54.51,Spica - Main,,0,0,90,,About the size being wrong.
-Dialogue: 0,0:16:54.51,0:16:58.89,Spica - Main,,0,0,90,,Ah... but this expense for just one student...
-Dialogue: 0,0:16:58.89,0:17:01.81,Spica - Main,,0,0,90,,Isn't there some way to cut the cost?
-Dialogue: 0,0:17:01.81,0:17:06.23,Spica - Main,,0,0,90,,It is a suit that provides life support, so it's not so easily...
-Dialogue: 0,0:17:06.90,0:17:08.52,Spica - Main,,0,0,90,,May I make a suggestion?
-Dialogue: 0,0:17:09.11,0:17:11.03,Spica - Main,,0,0,90,,What is it, Sano-sensei?
-Dialogue: 0,0:17:12.74,0:17:18.24,Spica - Main,,0,0,90,,Kamogawa Asumi leave the school.
-Dialogue: 0,0:17:12.74,0:17:18.24,Spica - Main,,0,0,90,,I believe that it would be best to make
-Dialogue: 0,0:17:19.12,0:17:20.45,Spica - Main,,0,0,90,,S-Sano-sensei!
-Dialogue: 0,0:17:20.45,0:17:22.91,Spica - Main,,0,0,90,,What are you saying all of a sudden?
-Dialogue: 0,0:17:28.59,0:17:29.92,Spica - Main,,0,0,90,,Kamogawa!
-Dialogue: 0,0:17:52.11,0:17:55.74,Spica - Italic,,0,0,90,,Back then, it would've been better\NIf I'd just had a little courage.
-Dialogue: 0,0:18:01.99,0:18:06.21,Spica - Italic,,0,0,90,,If I was still my weak self, I wouldn't have awoken to it.
-Dialogue: 0,0:18:10.17,0:18:13.84,Spica - Main,,0,0,90,,little one, I'll tell you something interesting.
-Dialogue: 0,0:18:13.84,0:18:16.01,Spica - Main,,0,0,90,,Something interesting?
-Dialogue: 0,0:18:16.01,0:18:16.72,Spica - Main,,0,0,90,,Yes.
-Dialogue: 0,0:18:20.80,0:18:24.39,Spica - Offscreen,,0,0,90,,When you're in the water and you look ahead...
-Dialogue: 0,0:18:28.10,0:18:29.90,Spica - Offscreen,,0,0,90,,You can see the stars.
-Dialogue: 0,0:18:44.91,0:18:46.00,Spica - Main,,0,0,90,,Marika-chan...
-Dialogue: 0,0:18:46.75,0:18:48.91,Spica - Main,,0,0,90,,Hey hold on to this!
-Dialogue: 0,0:18:55.09,0:18:57.30,Spica - Main,,0,0,90,,Really... you dummy...
-Dialogue: 0,0:19:01.85,0:19:05.01,Spica - Main,,0,0,90,,Marika-chan, you came to save me.
-Dialogue: 0,0:19:08.02,0:19:12.60,Spica - Main,,0,0,90,,I wonder if I would be able to save you, too?
-Dialogue: 0,0:19:13.36,0:19:16.82,Spica - Main,,0,0,90,,I have to get much, much stronger, right?
-Dialogue: 0,0:19:16.82,0:19:21.20,Spica - Main,,0,0,90,,I have to get stronger so I can\Ndo more things without falling.
-Dialogue: 0,0:19:24.20,0:19:26.74,Spica - Main,,0,0,90,,Here, dry yourself off.
-Dialogue: 0,0:19:26.75,0:19:28.25,Spica - Main,,0,0,90,,Do you have a change of clothes?
-Dialogue: 0,0:19:28.79,0:19:29.71,Spica - Main,,0,0,90,,Yes.
-Dialogue: 0,0:19:31.79,0:19:37.80,Spica - Main,,0,0,90,,To begin with, this budget is within expected\Nboundaries, except in Kamogawa's case.
-Dialogue: 0,0:19:37.80,0:19:42.13,Spica - Main,,0,0,90,,In this case, wouldn't having her leave be the best answer?
-Dialogue: 0,0:19:42.14,0:19:46.68,Spica - Main,,0,0,90,,Don't say stupid things! There's no way we can do that!
-Dialogue: 0,0:19:46.68,0:19:50.52,Spica - Main,,0,0,90,,It will become the responsibility of\Nthe school that admitted her.
-Dialogue: 0,0:19:50.52,0:19:56.07,Spica - Main,,0,0,90,,If we have her leave of her own accord,\Nthere would be no problem, would there?
-Dialogue: 0,0:19:59.15,0:20:01.99,Spica - Main,,0,0,90,,So that's what he meant by it being simple...
-Dialogue: 0,0:20:01.99,0:20:08.12,Spica - Main,,0,0,90,,It is the first year for the {space}astronaut course,\Nso we have a rather large number of students...
-Dialogue: 0,0:20:08.12,0:20:11.33,Spica - Main,,0,0,90,,...but next year will only have ten students overall.
-Dialogue: 0,0:20:11.33,0:20:16.75,Spica - Main,,0,0,90,,size of space suit will be needed.
-Dialogue: 0,0:20:11.33,0:20:16.75,Spica - Main,,0,0,90,,In this case, it is unlikely that this
-Dialogue: 0,0:20:17.88,0:20:25.01,Spica - Main,,0,0,90,,is the only one under 160 cm of height.
-Dialogue: 0,0:20:17.88,0:20:25.01,Spica - Main,,0,0,90,,looking at our students now, Kamogawa
-Dialogue: 0,0:20:25.55,0:20:29.56,Spica - Offscreen,,0,0,90,,Her academic performance is only slightly above average.
-Dialogue: 0,0:20:29.56,0:20:32.39,Spica - Offscreen,,0,0,90,,Even it she continues training...
-Dialogue: 0,0:20:32.39,0:20:37.06,Spica - Offscreen,,0,0,90,,the chances of her distinguishing herself from the other\Nstudents and being able to go to space are exceedingly low.
-Dialogue: 0,0:20:37.07,0:20:39.61,Spica - Main,,0,0,90,,To use this much money for such a student—
-Dialogue: 0,0:20:39.61,0:20:41.49,Spica - Offscreen,,0,0,90,,Wait a moment.
-Dialogue: 0,0:20:43.24,0:20:47.20,Spica - Main,,0,0,90,,Are body size and grades that important for going to space?
-Dialogue: 0,0:20:48.16,0:20:51.66,Spica - Main,,0,0,90,,That would be no different than the\Ntraining we've had up until now.
-Dialogue: 0,0:20:51.66,0:20:55.83,Spica - Offscreen,,0,0,90,,Having a student leave because of the school s\Nfinancial circumstances is out of the question!
-Dialogue: 0,0:20:56.54,0:21:01.80,Spica - Main,,0,0,90,,Getting ordinary children to try and become\Nastronauts as a natural goal...
-Dialogue: 0,0:21:01.80,0:21:07.93,Spica - Main,,0,0,90,,Having space be a more accessible thing\Nthat is closer to people's lives...
-Dialogue: 0,0:21:07.93,0:21:12.02,Spica - Offscreen,,0,0,90,,Are these not what the Space School is trying to accomplish?
-Dialogue: 0,0:21:25.24,0:21:27.99,Spica - Main,,0,0,90,,It's just as Shiomi-sensei says.
-Dialogue: 0,0:21:27.99,0:21:32.83,Spica - Main,,0,0,90,,The budget will be very tight, but\Nit's for the future of this student.
-Dialogue: 0,0:21:33.46,0:21:36.54,Spica - Main,,0,0,90,,Let us all cooperate and pull through this.
-Dialogue: 0,0:21:40.34,0:21:41.75,Spica - Main,,0,0,90,,Shiomi-sensei.
-Dialogue: 0,0:21:41.76,0:21:44.21,Spica - Main,,0,0,90,,Hm? Do you need something?
-Dialogue: 0,0:21:44.88,0:21:48.93,Spica - Main,,0,0,90,,I heard that you pushed for the\Nadmission of Kamogawa Asumi.
-Dialogue: 0,0:21:49.76,0:21:52.72,Spica - Main,,0,0,90,,Why do you back that particular student so much?
-Dialogue: 0,0:21:56.02,0:21:57.19,Spica - Offscreen,,0,0,90,,It's her eyes.
-Dialogue: 0,0:21:58.31,0:22:03.23,Spica - Main,,0,0,90,,She has the eyes that you've lost. That's all.
-Dialogue: 0,0:22:15.16,0:22:20.92,Spica - Flashback,,0,0,90,,Since I was small, it's always been my\Ndream to become an {space}astronaut.
-Dialogue: 0,0:22:23.21,0:22:28.30,Spica - Main,,0,0,90,,My friends from long ago used to talk\Nabout space with eyes like that...
-Dialogue: 0,0:22:33.77,0:22:35.35,Spica - Offscreen,,0,0,90,,Sano-sensei.
-Dialogue: 0,0:22:40.69,0:22:45.23,Spica - Main,,0,0,90,,Try not to make things difficult. Just stay calm.
-Dialogue: 0,0:22:45.24,0:22:49.07,Spica - Main,,0,0,90,,What you just said, about one's own accord...
-Dialogue: 0,0:24:34.18,0:24:36.80,Spica - Title,,0,0,90,,Preview
-Dialogue: 0,0:24:34.51,0:24:36.80,Spica - Main,,0,0,90,,Sano-sensei's words pierced my heart.
-Dialogue: 0,0:24:36.81,0:24:40.81,Spica - Main,,0,0,90,,He said there's no way that I'd be\Nchosen to become an astronaut.
-Dialogue: 0,0:24:40.81,0:24:41.89,Spica - Main,,0,0,90,,Why?
-Dialogue: 0,0:24:41.89,0:24:45.98,Spica - Main,,0,0,90,,What does he mean, just because I m\NKamogawa Tomorou's daughter?
-Dialogue: 0,0:24:45.98,0:24:50.73,Spica - Main,,0,0,90,,It even gets Kei-chan angry. I return to Yuigahama alone.
-Dialogue: 0,0:24:50.74,0:24:53.24,Spica - Main,,0,0,90,,I don't know what to do anymore.
-Dialogue: 0,0:24:53.24,0:24:57.24,Spica - Main,,0,0,90,,Next time on Twin Spica. Wounded Wings.
+Dialogue: 0,0:01:52.02,0:01:53.90,Default,,0,0,90,,My dream!
+Dialogue: 0,0:01:53.90,0:01:56.86,Default,,0,0,90,,Year 1, Class 1, Kamogawa Asumi.
+Dialogue: 0,0:01:57.20,0:02:01.91,Default,,0,0,90,,My dream is to become a rocket driver!
+Dialogue: 0,0:02:01.91,0:02:06.91,Default,,0,0,90,,That's because I've heard that the Earth is very\Npretty when you look at it from space.
+Dialogue: 0,0:02:06.91,0:02:11.42,Default,,0,0,90,,So I want to become a rocket driver and go into space!
+Dialogue: 0,0:02:11.63,0:02:15.42,Default,,0,0,90,,I want to take people to all sorts of different planets!
+Dialogue: 0,0:02:16.13,0:02:19.43,Default,,0,0,90,,And when they're on my rocket...
+Dialogue: 0,0:02:19.43,0:02:23.97,Default,,0,0,90,,my dad and Lion-san will get special free rides!
+Dialogue: 0,0:02:24.35,0:02:26.02,Default,,0,0,90,,The end!
+Dialogue: 0,0:02:27.23,0:02:32.19,Title,,0,0,90,,Even Underwater, There Is Space
+Dialogue: 0,0:02:40.20,0:02:42.16,Default,,0,0,90,,I'm here at last!
+Dialogue: 0,0:02:42.16,0:02:45.24,Default,,0,0,90,,This is my dream, the world of the moon.
+Dialogue: 0,0:02:45.24,0:02:46.54,Offscreen,,0,0,90,,Oumi-kun.
+Dialogue: 0,0:02:50.08,0:02:53.67,Default,,0,0,90,,A24-21, Oumi Kei-kun.
+Dialogue: 0,0:02:53.67,0:02:55.09,Default,,0,0,90,,Y-Yes.
+Dialogue: 0,0:02:56.84,0:02:59.13,Default,,0,0,90,,Were you taking a nap standing up or something?
+Dialogue: 0,0:02:59.13,0:03:02.01,Default,,0,0,90,,N-No, I'm sorry.
+Dialogue: 0,0:03:07.52,0:03:08.89,Default,,0,0,90,,What is it?
+Dialogue: 0,0:03:08.89,0:03:10.27,Default,,0,0,90,,Nothing.
+Dialogue: 0,0:03:11.02,0:03:12.31,Default,,0,0,90,,What's up with her...
+Dialogue: 0,0:03:12.31,0:03:15.81,Default,,0,0,90,,Now, type in your number using this keyboard.
+Dialogue: 0,0:03:18.44,0:03:20.19,Default,,0,0,90,,Good, okay.
+Dialogue: 0,0:03:20.86,0:03:21.70,Default,,0,0,90,,Next person!
+Dialogue: 0,0:03:21.70,0:03:23.11,Default,,0,0,90,,Y-Yes.
+Dialogue: 0,0:03:23.11,0:03:27.41,Default,,0,0,90,,A24-22, Kamogawa Asumi.
+Dialogue: 0,0:03:27.41,0:03:31.91,Default,,0,0,90,,Are they even going to have a space suit that fits a 143 cm tall dummy?
+Dialogue: 0,0:04:06.91,0:04:09.91,Offscreen,,0,0,90,,What are you so depressed about, Asumi?
+Dialogue: 0,0:04:11.71,0:04:15.58,Default,,0,0,90,,Today was just a size fitting, so don't worry about it.
+Dialogue: 0,0:04:15.58,0:04:19.00,Default,,0,0,90,,The underwater zero-gravity exercise is later, right?
+Dialogue: 0,0:04:19.00,0:04:20.30,Default,,0,0,90,,That's right, but...
+Dialogue: 0,0:04:20.71,0:04:24.63,Default,,0,0,90,,Don't worry about it! They're special-ordering\None for you, after all.
+Dialogue: 0,0:04:24.63,0:04:27.76,Default,,0,0,90,,We're just getting hand-me-downs from the government.
+Dialogue: 0,0:04:27.76,0:04:29.26,Default,,0,0,90,,Yeah, but...
+Dialogue: 0,0:04:29.26,0:04:32.27,Offscreen,,0,0,90,,Don't just brood over it forever!
+Dialogue: 0,0:04:32.93,0:04:35.69,Default,,0,0,90,,But, those two...
+Dialogue: 0,0:04:39.19,0:04:41.65,Offscreen,,0,0,90,,Even now, when I think about it...
+Dialogue: 0,0:04:46.03,0:04:49.12,Default,,0,0,90,,How long are you guys gonna keep laughing about it?!
+Dialogue: 0,0:04:50.91,0:04:52.62,Offscreen,,0,0,90,,Sorry sorry.
+Dialogue: 0,0:04:52.62,0:04:56.42,Default,,0,0,90,,eat a lot of different things...
+Dialogue: 0,0:04:52.62,0:04:56.42,Default,,0,0,90,,Instead of always eating rice balls
+Dialogue: 0,0:04:56.42,0:04:59.00,Default,,0,0,90,,...and get bigger by the time you go to space.
+Dialogue: 0,0:04:59.67,0:05:03.96,Default,,0,0,90,,But I think it could be safer to be small.
+Dialogue: 0,0:05:03.97,0:05:04.63,Default,,0,0,90,,Huh?
+Dialogue: 0,0:05:04.80,0:05:07.55,Default,,0,0,90,,When you actually perform an EVA...
+Dialogue: 0,0:05:07.55,0:05:13.02,Default,,0,0,90,,it's better to slightly lower the chances\Nof hitting meteoroids or debris.
+Dialogue: 0,0:05:13.02,0:05:14.18,Default,,0,0,90,,I see...
+Dialogue: 0,0:05:14.18,0:05:18.60,Default,,0,0,90,,Huh? What's a mete... metero-something?
+Dialogue: 0,0:05:18.61,0:05:21.61,Default,,0,0,90,,Meteoroids and debris, Kei-chan.
+Dialogue: 0,0:05:25.99,0:05:31.66,Offscreen,,0,0,90,,objects in the void of space.
+Dialogue: 0,0:05:25.99,0:05:31.66,Offscreen,,0,0,90,,Meteoroids are very small celestial
+Dialogue: 0,0:05:31.66,0:05:33.70,Offscreen,,0,0,90,,which sometimes become meteorites.
+Dialogue: 0,0:05:35.04,0:05:40.58,Offscreen,,0,0,90,,And debris is what you call the trash-like stuff that people leave behind in space.
+Dialogue: 0,0:05:40.59,0:05:43.80,Offscreen,,0,0,90,,Starting with Sputnik which launched in 1957...
+Dialogue: 0,0:05:43.80,0:05:46.88,Offscreen,,0,0,90,,the upper half of the rockets used for launching satellites...
+Dialogue: 0,0:05:46.88,0:05:52.64,Offscreen,,0,0,90,,used-up satellites, broken pieces, paint fragments...
+Dialogue: 0,0:05:52.64,0:05:55.10,Offscreen,,0,0,90,,even gloves dropped by astronauts...
+Dialogue: 0,0:05:55.10,0:05:58.19,Offscreen,,0,0,90,,Large amounts of garbage are floating in space.
+Dialogue: 0,0:05:58.19,0:06:02.44,Default,,0,0,90,,I see. There are garbage problems even in space.
+Dialogue: 0,0:06:02.44,0:06:08.20,Default,,0,0,90,,I can understand meteorites being dangerous\Nbut what's so dangerous about debris?
+Dialogue: 0,0:06:08.20,0:06:13.53,Default,,0,0,90,,Debris flies around in all different directions\Naround the Earth at high speeds.
+Dialogue: 0,0:06:14.74,0:06:18.75,Default,,0,0,90,,If you get hit by this debris during an EVA...
+Dialogue: 0,0:06:19.21,0:06:20.50,Default,,0,0,90,,If you get hit?
+Dialogue: 0,0:06:21.58,0:06:22.50,Default,,0,0,90,,Bang!
+Dialogue: 0,0:06:23.34,0:06:25.25,Default,,0,0,90,,Cut it out, already!
+Dialogue: 0,0:06:25.26,0:06:29.59,Default,,0,0,90,,Well, it just goes to show that there are all sorts\Nof dangers if we make it out into space.
+Dialogue: 0,0:06:29.59,0:06:33.43,Default,,0,0,90,,Huh? What are we supposed to\Ndo it something happens, then?
+Dialogue: 0,0:06:33.43,0:06:37.27,Default,,0,0,90,,Asumi, don't ever leave me behind!
+Dialogue: 0,0:06:37.27,0:06:38.64,Default,,0,0,90,,Yeah, of course.
+Dialogue: 0,0:06:38.64,0:06:43.19,Default,,0,0,90,,Moron, it's space. We won't have\Ntime to be looking after others.
+Dialogue: 0,0:06:43.19,0:06:45.36,Default,,0,0,90,,I won't be asking you for help!
+Dialogue: 0,0:06:45.36,0:06:51.91,Default,,0,0,90,,Well, if the time comes, well probably\Nonly protect our highest priority.
+Dialogue: 0,0:06:53.62,0:07:01.96,Default,,0,0,90,,But I hope I won't run away from those I have to\Nprotect because of my fears and weaknesses.
+Dialogue: 0,0:07:05.59,0:07:10.30,Default,,0,0,90,,So even impudent guys like you have their fears, huh?
+Dialogue: 0,0:07:10.30,0:07:11.51,Default,,0,0,90,,Well, yeah.
+Dialogue: 0,0:07:11.51,0:07:13.22,Default,,0,0,90,,What are they?
+Dialogue: 0,0:07:14.01,0:07:15.43,Default,,0,0,90,,My eyebrows, I think.
+Dialogue: 0,0:07:15.43,0:07:17.14,Default,,0,0,90,,Is that why you shaved them?
+Dialogue: 0,0:07:17.14,0:07:19.10,Default,,0,0,90,,How would that be the reason?
+Dialogue: 0,0:07:36.62,0:07:40.08,Offscreen,,0,0,90,,Geez, we won't get to class on time!
+Dialogue: 0,0:07:52.30,0:07:54.01,Default,,0,0,90,,It's mysterious.
+Dialogue: 0,0:07:54.59,0:07:56.55,Default,,0,0,90,,I don't really like exercise...
+Dialogue: 0,0:07:56.55,0:08:00.10,Default,,0,0,90,,but whenever I hear the word "pool"\Nsomehow I always get excited!
+Dialogue: 0,0:08:00.10,0:08:01.68,Default,,0,0,90,,Y-Yeah.
+Dialogue: 0,0:08:04.31,0:08:06.90,Default,,0,0,90,,If we weren't wearing this, it would be the best...
+Dialogue: 0,0:08:07.36,0:08:08.90,Offscreen,,0,0,90,,Hey Kei-chan...
+Dialogue: 0,0:08:09.69,0:08:12.19,Default,,0,0,90,,Can you pull up the zipper on the back?
+Dialogue: 0,0:08:12.20,0:08:13.78,Default,,0,0,90,,Your back...
+Dialogue: 0,0:08:14.24,0:08:16.20,Default,,0,0,90,,What are you doing, Asumi?
+Dialogue: 0,0:08:16.20,0:08:18.20,Default,,0,0,90,,You put it on backward.
+Dialogue: 0,0:08:20.29,0:08:22.96,Default,,0,0,90,,We're gonna be late, Asumi! Let's hurry!
+Dialogue: 0,0:08:23.79,0:08:24.79,Default,,0,0,90,,Okay!
+Dialogue: 0,0:08:30.13,0:08:31.63,Offscreen,,0,0,90,,How unusual.
+Dialogue: 0,0:08:33.72,0:08:38.30,Default,,0,0,90,,You're always smiling so much that it's sickening.\Nno matter what class you're in.
+Dialogue: 0,0:08:38.93,0:08:40.56,Default,,0,0,90,,You think so?
+Dialogue: 0,0:08:40.56,0:08:43.06,Default,,0,0,90,,I'm the same as usual.
+Dialogue: 0,0:08:47.61,0:08:54.95,Default,,0,0,90,,meters wearing a flight suit and shoes.
+Dialogue: 0,0:08:47.61,0:08:54.95,Default,,0,0,90,,For this training lesson, you will swim one hundred
+Dialogue: 0,0:08:56.16,0:08:59.49,Default,,0,0,90,,Think of yourself as the only one you can depend on in space.
+Dialogue: 0,0:08:59.49,0:09:03.00,Default,,0,0,90,,No matter what happens, don't trouble your teammates!
+Dialogue: 0,0:09:03.54,0:09:08.29,Default,,0,0,90,,Keep in mind that this is training for\Nsuch a situation, so do it seriously.
+Dialogue: 0,0:09:08.29,0:09:09.34,Secondary,,0,0,90,,Yes!
+Dialogue: 0,0:09:10.25,0:09:12.17,Offscreen,,0,0,90,,Damn that devil instructor!
+Dialogue: 0,0:09:12.17,0:09:17.09,Default,,0,0,90,,because my form was a little off!
+Dialogue: 0,0:09:12.17,0:09:17.09,Default,,0,0,90,,He didn't have to work me so hard just
+Dialogue: 0,0:09:17.59,0:09:19.80,Offscreen,,0,0,90,,If it's for your safety it's only natural.
+Dialogue: 0,0:09:20.68,0:09:24.89,Default,,0,0,90,,I'd rather you train more,\Ninstead of complaining so much.
+Dialogue: 0,0:09:24.89,0:09:27.19,Offscreen,,0,0,90,,Hey just what do you mean by that?
+Dialogue: 0,0:09:27.65,0:09:31.19,Default,,0,0,90,,It means that I'd never want to go into space with you.
+Dialogue: 0,0:09:31.19,0:09:33.19,Default,,0,0,90,,That's my line.
+Dialogue: 0,0:09:33.19,0:09:36.74,Default,,0,0,90,,I'd rather die than go with you!
+Dialogue: 0,0:09:37.28,0:09:42.20,Default,,0,0,90,,If anything happens Asumi will be there to save me!
+Dialogue: 0,0:09:43.79,0:09:49.08,Default,,0,0,90,,Kamogawa-san, if you don't stop being\Nnice you'll eventually lose your life.
+Dialogue: 0,0:09:50.17,0:09:54.13,Offscreen,,0,0,90,,Sacrificing yourself for someone else is foolish.
+Dialogue: 0,0:09:54.55,0:10:00.05,Default,,0,0,90,,to save a twisted person like you!
+Dialogue: 0,0:09:54.55,0:10:00.05,Default,,0,0,90,,I'll tell you there's no one who'd want
+Dialogue: 0,0:10:00.05,0:10:00.84,Default,,0,0,90,,Kei-chan!
+Dialogue: 0,0:10:01.30,0:10:04.10,Default,,0,0,90,,I can protect myself on my own.
+Dialogue: 0,0:10:04.10,0:10:07.10,Default,,0,0,90,,It really is irritating watching all of you.
+Dialogue: 0,0:10:07.81,0:10:09.19,Default,,0,0,90,,Marika-chan!
+Dialogue: 0,0:10:09.98,0:10:12.65,Default,,0,0,90,,I can understand what you're saying, but...
+Dialogue: 0,0:10:13.69,0:10:17.19,Default,,0,0,90,,But, you can't go to space alone.
+Dialogue: 0,0:10:21.28,0:10:25.74,Offscreen,,0,0,90,,intoxicated with just getting in this school.
+Dialogue: 0,0:10:21.28,0:10:25.74,Offscreen,,0,0,90,,I don't want to be told that by someone who s
+Dialogue: 0,0:10:25.75,0:10:28.46,Default,,0,0,90,,I'm not intoxicated...
+Dialogue: 0,0:10:35.30,0:10:37.30,Offscreen,,0,0,90,,Ukita Marika, right?
+Dialogue: 0,0:10:37.30,0:10:38.26,Offscreen,,0,0,90,,I've heard of her.
+Dialogue: 0,0:10:39.26,0:10:43.10,Default,,0,0,90,,You sure know a lot when it comes to girls, you playboy.
+Dialogue: 0,0:10:43.10,0:10:44.30,Default,,0,0,90,,Well, sure...
+Dialogue: 0,0:10:44.31,0:10:45.68,Default,,0,0,90,,What's a playboy?
+Dialogue: 0,0:10:46.31,0:10:49.10,Default,,0,0,90,,You don't need to know about that.
+Dialogue: 0,0:10:49.64,0:10:54.36,Default,,0,0,90,,To tell you the truth, her father and\Nmy grandfather know each other.
+Dialogue: 0,0:10:54.36,0:10:59.53,Default,,0,0,90,,I've only heard her name before, but\NI didn't think we'd be classmates.
+Dialogue: 0,0:11:00.78,0:11:03.87,Default,,0,0,90,,I thought she was far older.
+Dialogue: 0,0:11:05.24,0:11:09.91,Default,,0,0,90,,The one donating the most to this\Nschool is her father, you know.
+Dialogue: 0,0:11:10.58,0:11:13.00,Offscreen,,0,0,90,,Wow, that's amazing!
+Dialogue: 0,0:11:13.00,0:11:15.71,Default,,0,0,90,,Big deal, it's just a little donation.
+Dialogue: 0,0:11:15.71,0:11:16.88,Offscreen,,0,0,90,,Yeah.
+Dialogue: 0,0:11:17.76,0:11:19.51,Default,,0,0,90,,But it was hundreds of millions of yen.
+Dialogue: 0,0:11:19.51,0:11:21.34,Offscreen,,0,0,90,,Hundreds of millions?!
+Dialogue: 0,0:11:53.71,0:11:55.96,Flashback,,0,0,90,,You can't go to space alone.
+Dialogue: 0,0:12:02.22,0:12:04.89,Offscreen,,0,0,90,,You alone?
+Dialogue: 0,0:12:02.22,0:12:04.89,Offscreen,,0,0,90,,Hey hey girl!
+Dialogue: 0,0:12:05.55,0:12:07.39,Default,,0,0,90,,Wanna go karaoke together?
+Dialogue: 0,0:12:09.56,0:12:12.27,Default,,0,0,90,,It's all right! C'mon, let's go!
+Dialogue: 0,0:12:12.69,0:12:13.98,Default,,0,0,90,,Don't touch me!
+Dialogue: 0,0:12:15.31,0:12:16.44,Default,,0,0,90,,What the hell?
+Dialogue: 0,0:12:16.44,0:12:18.57,Default,,0,0,90,,Stop putting on airs.
+Dialogue: 0,0:12:18.57,0:12:20.23,Offscreen,,0,0,90,,Hey you guys!
+Dialogue: 0,0:12:20.24,0:12:24.20,Default,,0,0,90,,If you rough up a girl, I'll call the police.
+Dialogue: 0,0:12:24.99,0:12:28.03,Default,,0,0,90,,What the hell? We just asked her out for karaoke.
+Dialogue: 0,0:12:28.03,0:12:29.16,Default,,0,0,90,,Let's go.
+Dialogue: 0,0:12:29.16,0:12:32.62,Default,,0,0,90,,Huh? Aren't you a Space School student?
+Dialogue: 0,0:12:33.50,0:12:35.58,Default,,0,0,90,,I knew it!
+Dialogue: 0,0:12:35.58,0:12:39.55,Default,,0,0,90,,because you were worried about Asumi!
+Dialogue: 0,0:12:35.58,0:12:39.55,Default,,0,0,90,,You came to the dorm the day of the entrance ceremony
+Dialogue: 0,0:12:40.63,0:12:43.13,Default,,0,0,90,,What are you doing at a place like this?
+Dialogue: 0,0:12:43.13,0:12:46.93,Default,,0,0,90,,to be done with her part-time Job?
+Dialogue: 0,0:12:43.13,0:12:46.93,Default,,0,0,90,,Ah, could you be waiting for Asumi-chan
+Dialogue: 0,0:12:49.14,0:12:51.10,Default,,0,0,90,,See, over there? There she is!
+Dialogue: 0,0:12:52.52,0:12:58.19,Default,,0,0,90,,be a little longer before she gets out.
+Dialogue: 0,0:12:52.52,0:12:58.19,Default,,0,0,90,,She always works real late so I think it ll
+Dialogue: 0,0:12:56.10,0:12:58.19,Offscreen,,0,0,90,,Are you ready to order?
+Dialogue: 0,0:12:58.98,0:13:02.19,Default,,0,0,90,,It's amazing that she can continue to work on top of school...
+Comment: 0,0:13:09.18,0:13:19.15,Title,,0,0,0,,Eyecatch
+Dialogue: 0,0:13:20.80,0:13:22.88,Offscreen,,0,0,90,,Ah, I give up...
+Dialogue: 0,0:13:22.88,0:13:25.13,Offscreen,,0,0,90,,What's wrong, Ooyama-sensei?
+Dialogue: 0,0:13:25.13,0:13:29.76,Default,,0,0,90,,I special ordered a space suit for a\Nstudent that couldn't fit into one.
+Dialogue: 0,0:13:29.76,0:13:32.81,Default,,0,0,90,,It seems like it will cost more money than I expected.
+Dialogue: 0,0:13:33.39,0:13:38.35,Default,,0,0,90,,The government official's purse strings\Nare tight, so there's nothing I can do.
+Dialogue: 0,0:13:38.98,0:13:40.86,Default,,0,0,90,,If that's it, it's simple.
+Dialogue: 0,0:13:40.86,0:13:42.19,Default,,0,0,90,,Huh?
+Dialogue: 0,0:13:47.11,0:13:48.95,Offscreen,,0,0,90,,Well, let's go home!
+Dialogue: 0,0:13:48.95,0:13:51.37,Offscreen,,0,0,90,,I still have something to do, so...
+Dialogue: 0,0:13:51.37,0:13:53.66,Default,,0,0,90,,Huh? You have work today, too?
+Dialogue: 0,0:13:53.66,0:13:56.41,Default,,0,0,90,,Um, no, that's not it...
+Dialogue: 0,0:13:57.42,0:13:59.04,Default,,0,0,90,,Well, whatever.
+Dialogue: 0,0:13:59.04,0:14:00.46,Default,,0,0,90,,I'll go on ahead!
+Dialogue: 0,0:14:00.46,0:14:02.54,Default,,0,0,90,,Yeah, see you tomorrow!
+Dialogue: 0,0:14:27.28,0:14:36.00,Flashback,,0,0,90,,I hope I won't run away from those I have to protect because of my fears and weaknesses.
+Dialogue: 0,0:14:36.71,0:14:40.25,Default,,0,0,90,,I wonder if I can do it as well, Lion-san...
+Dialogue: 0,0:14:57.68,0:14:58.93,Offscreen,,0,0,90,,Worried about her?
+Dialogue: 0,0:15:00.15,0:15:05.15,Default,,0,0,90,,but the truth is she's scared of water.
+Dialogue: 0,0:15:00.15,0:15:05.15,Default,,0,0,90,,Kamogawa's swimming like that
+Dialogue: 0,0:15:06.23,0:15:13.20,Offscreen,,0,0,90,,When she was small, she almost drowned in a river.
+Dialogue: 0,0:15:13.70,0:15:16.20,Default,,0,0,90,,I think she's still pretty scared...
+Dialogue: 0,0:15:16.20,0:15:18.91,Default,,0,0,90,,...so I'm not sure what's gotten in to her.
+Dialogue: 0,0:15:25.38,0:15:30.38,Offscreen,,0,0,90,,She's a stupid dummy that doesn't have any\Ncommon sense, and that can't be helped...
+Dialogue: 0,0:15:31.30,0:15:33.14,Default,,0,0,90,,But don't bully her so much, okay?
+Dialogue: 0,0:15:34.14,0:15:36.39,Default,,0,0,90,,it's not like I was bullying...
+Dialogue: 0,0:16:10.22,0:16:11.55,Offscreen,,0,0,90,,That dummy!
+Dialogue: 0,0:16:12.38,0:16:15.18,Default,,0,0,90,,Trying so hard when she can't swim that well!
+Dialogue: 0,0:16:19.27,0:16:21.31,Offscreen,,0,0,90,,That is all for next month's budget distribution.
+Dialogue: 0,0:16:19.27,0:16:22.77,Signs,,0,0,90,,Space Astronaut Training Course
+Dialogue: 0,0:16:20.02,0:16:21.06,Signs,,0,0,90,,Space Astronaut
+Dialogue: 0,0:16:21.43,0:16:21.73,Offscreen,,0,0,90,,Staff Meeting\NThat is all for next month's budget distribution.
+Dialogue: 0,0:16:21.89,0:16:23.73,Offscreen,,0,0,90,,That is all for next month's budget distribution.
+Dialogue: 0,0:16:22.27,0:16:22.77,Signs,,0,0,90,,Staff Meeting
+Dialogue: 0,0:16:31.24,0:16:34.45,Default,,0,0,90,,If you would kindly accept and cooperate...
+Dialogue: 0,0:16:34.45,0:16:35.86,Default,,0,0,90,,What did you say?!
+Dialogue: 0,0:16:35.87,0:16:37.45,Default,,0,0,90,,You can't be serious!
+Dialogue: 0,0:16:37.45,0:16:42.33,Default,,0,0,90,,this unpleasantly high expense?
+Dialogue: 0,0:16:37.45,0:16:42.33,Default,,0,0,90,,Wait, Ooyama-sensei, what is
+Dialogue: 0,0:16:42.33,0:16:47.08,Default,,0,0,90,,suit that I mentioned before.
+Dialogue: 0,0:16:42.33,0:16:47.08,Default,,0,0,90,,it is the price of the additional space
+Dialogue: 0,0:16:47.09,0:16:48.50,Default,,0,0,90,,Additional?
+Dialogue: 0,0:16:48.50,0:16:52.51,Default,,0,0,90,,Kamogawa Asumi, Mr. Principal.
+Dialogue: 0,0:16:48.50,0:16:52.51,Default,,0,0,90,,This is about the student named
+Dialogue: 0,0:16:52.51,0:16:54.51,Default,,0,0,90,,About the size being wrong.
+Dialogue: 0,0:16:54.51,0:16:58.89,Default,,0,0,90,,Ah... but this expense for just one student...
+Dialogue: 0,0:16:58.89,0:17:01.81,Default,,0,0,90,,Isn't there some way to cut the cost?
+Dialogue: 0,0:17:01.81,0:17:06.23,Default,,0,0,90,,It is a suit that provides life support, so it's not so easily...
+Dialogue: 0,0:17:06.90,0:17:08.52,Default,,0,0,90,,May I make a suggestion?
+Dialogue: 0,0:17:09.11,0:17:11.03,Default,,0,0,90,,What is it, Sano-sensei?
+Dialogue: 0,0:17:12.74,0:17:18.24,Default,,0,0,90,,Kamogawa Asumi leave the school.
+Dialogue: 0,0:17:12.74,0:17:18.24,Default,,0,0,90,,I believe that it would be best to make
+Dialogue: 0,0:17:19.12,0:17:20.45,Default,,0,0,90,,S-Sano-sensei!
+Dialogue: 0,0:17:20.45,0:17:22.91,Default,,0,0,90,,What are you saying all of a sudden?
+Dialogue: 0,0:17:28.59,0:17:29.92,Default,,0,0,90,,Kamogawa!
+Dialogue: 0,0:17:52.11,0:17:55.74,Italic,,0,0,90,,Back then, it would've been better\NIf I'd just had a little courage.
+Dialogue: 0,0:18:01.99,0:18:06.21,Italic,,0,0,90,,If I was still my weak self, I wouldn't have awoken to it.
+Dialogue: 0,0:18:10.17,0:18:13.84,Default,,0,0,90,,little one, I'll tell you something interesting.
+Dialogue: 0,0:18:13.84,0:18:16.01,Default,,0,0,90,,Something interesting?
+Dialogue: 0,0:18:16.01,0:18:16.72,Default,,0,0,90,,Yes.
+Dialogue: 0,0:18:20.80,0:18:24.39,Offscreen,,0,0,90,,When you're in the water and you look ahead...
+Dialogue: 0,0:18:28.10,0:18:29.90,Offscreen,,0,0,90,,You can see the stars.
+Dialogue: 0,0:18:44.91,0:18:46.00,Default,,0,0,90,,Marika-chan...
+Dialogue: 0,0:18:46.75,0:18:48.91,Default,,0,0,90,,Hey hold on to this!
+Dialogue: 0,0:18:55.09,0:18:57.30,Default,,0,0,90,,Really... you dummy...
+Dialogue: 0,0:19:01.85,0:19:05.01,Default,,0,0,90,,Marika-chan, you came to save me.
+Dialogue: 0,0:19:08.02,0:19:12.60,Default,,0,0,90,,I wonder if I would be able to save you, too?
+Dialogue: 0,0:19:13.36,0:19:16.82,Default,,0,0,90,,I have to get much, much stronger, right?
+Dialogue: 0,0:19:16.82,0:19:21.20,Default,,0,0,90,,I have to get stronger so I can\Ndo more things without falling.
+Dialogue: 0,0:19:24.20,0:19:26.74,Default,,0,0,90,,Here, dry yourself off.
+Dialogue: 0,0:19:26.75,0:19:28.25,Default,,0,0,90,,Do you have a change of clothes?
+Dialogue: 0,0:19:28.79,0:19:29.71,Default,,0,0,90,,Yes.
+Dialogue: 0,0:19:31.79,0:19:37.80,Default,,0,0,90,,To begin with, this budget is within expected\Nboundaries, except in Kamogawa's case.
+Dialogue: 0,0:19:37.80,0:19:42.13,Default,,0,0,90,,In this case, wouldn't having her leave be the best answer?
+Dialogue: 0,0:19:42.14,0:19:46.68,Default,,0,0,90,,Don't say stupid things! There's no way we can do that!
+Dialogue: 0,0:19:46.68,0:19:50.52,Default,,0,0,90,,It will become the responsibility of\Nthe school that admitted her.
+Dialogue: 0,0:19:50.52,0:19:56.07,Default,,0,0,90,,If we have her leave of her own accord,\Nthere would be no problem, would there?
+Dialogue: 0,0:19:59.15,0:20:01.99,Default,,0,0,90,,So that's what he meant by it being simple...
+Dialogue: 0,0:20:01.99,0:20:08.12,Default,,0,0,90,,It is the first year for the {space}astronaut course,\Nso we have a rather large number of students...
+Dialogue: 0,0:20:08.12,0:20:11.33,Default,,0,0,90,,...but next year will only have ten students overall.
+Dialogue: 0,0:20:11.33,0:20:16.75,Default,,0,0,90,,size of space suit will be needed.
+Dialogue: 0,0:20:11.33,0:20:16.75,Default,,0,0,90,,In this case, it is unlikely that this
+Dialogue: 0,0:20:17.88,0:20:25.01,Default,,0,0,90,,is the only one under 160 cm of height.
+Dialogue: 0,0:20:17.88,0:20:25.01,Default,,0,0,90,,looking at our students now, Kamogawa
+Dialogue: 0,0:20:25.55,0:20:29.56,Offscreen,,0,0,90,,Her academic performance is only slightly above average.
+Dialogue: 0,0:20:29.56,0:20:32.39,Offscreen,,0,0,90,,Even it she continues training...
+Dialogue: 0,0:20:32.39,0:20:37.06,Offscreen,,0,0,90,,the chances of her distinguishing herself from the other\Nstudents and being able to go to space are exceedingly low.
+Dialogue: 0,0:20:37.07,0:20:39.61,Default,,0,0,90,,To use this much money for such a student—
+Dialogue: 0,0:20:39.61,0:20:41.49,Offscreen,,0,0,90,,Wait a moment.
+Dialogue: 0,0:20:43.24,0:20:47.20,Default,,0,0,90,,Are body size and grades that important for going to space?
+Dialogue: 0,0:20:48.16,0:20:51.66,Default,,0,0,90,,That would be no different than the\Ntraining we've had up until now.
+Dialogue: 0,0:20:51.66,0:20:55.83,Offscreen,,0,0,90,,Having a student leave because of the school s\Nfinancial circumstances is out of the question!
+Dialogue: 0,0:20:56.54,0:21:01.80,Default,,0,0,90,,Getting ordinary children to try and become\Nastronauts as a natural goal...
+Dialogue: 0,0:21:01.80,0:21:07.93,Default,,0,0,90,,Having space be a more accessible thing\Nthat is closer to people's lives...
+Dialogue: 0,0:21:07.93,0:21:12.02,Offscreen,,0,0,90,,Are these not what the Space School is trying to accomplish?
+Dialogue: 0,0:21:25.24,0:21:27.99,Default,,0,0,90,,It's just as Shiomi-sensei says.
+Dialogue: 0,0:21:27.99,0:21:32.83,Default,,0,0,90,,The budget will be very tight, but\Nit's for the future of this student.
+Dialogue: 0,0:21:33.46,0:21:36.54,Default,,0,0,90,,Let us all cooperate and pull through this.
+Dialogue: 0,0:21:40.34,0:21:41.75,Default,,0,0,90,,Shiomi-sensei.
+Dialogue: 0,0:21:41.76,0:21:44.21,Default,,0,0,90,,Hm? Do you need something?
+Dialogue: 0,0:21:44.88,0:21:48.93,Default,,0,0,90,,I heard that you pushed for the\Nadmission of Kamogawa Asumi.
+Dialogue: 0,0:21:49.76,0:21:52.72,Default,,0,0,90,,Why do you back that particular student so much?
+Dialogue: 0,0:21:56.02,0:21:57.19,Offscreen,,0,0,90,,It's her eyes.
+Dialogue: 0,0:21:58.31,0:22:03.23,Default,,0,0,90,,She has the eyes that you've lost. That's all.
+Dialogue: 0,0:22:15.16,0:22:20.92,Flashback,,0,0,90,,Since I was small, it's always been my\Ndream to become an {space}astronaut.
+Dialogue: 0,0:22:23.21,0:22:28.30,Default,,0,0,90,,My friends from long ago used to talk\Nabout space with eyes like that...
+Dialogue: 0,0:22:33.77,0:22:35.35,Offscreen,,0,0,90,,Sano-sensei.
+Dialogue: 0,0:22:40.69,0:22:45.23,Default,,0,0,90,,Try not to make things difficult. Just stay calm.
+Dialogue: 0,0:22:45.24,0:22:49.07,Default,,0,0,90,,What you just said, about one's own accord...
+Dialogue: 0,0:24:34.18,0:24:36.80,Title,,0,0,90,,Preview
+Dialogue: 0,0:24:34.51,0:24:36.80,Default,,0,0,90,,Sano-sensei's words pierced my heart.
+Dialogue: 0,0:24:36.81,0:24:40.81,Default,,0,0,90,,He said there's no way that I'd be\Nchosen to become an astronaut.
+Dialogue: 0,0:24:40.81,0:24:41.89,Default,,0,0,90,,Why?
+Dialogue: 0,0:24:41.89,0:24:45.98,Default,,0,0,90,,What does he mean, just because I m\NKamogawa Tomorou's daughter?
+Dialogue: 0,0:24:45.98,0:24:50.73,Default,,0,0,90,,It even gets Kei-chan angry. I return to Yuigahama alone.
+Dialogue: 0,0:24:50.74,0:24:53.24,Default,,0,0,90,,I don't know what to do anymore.
+Dialogue: 0,0:24:53.24,0:24:57.24,Default,,0,0,90,,Next time on Twin Spica. Wounded Wings.

@@ -21,265 +21,269 @@ WrapStyle: 0
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Spica - Main,Avenir LT Std,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
-Style: Spica - Offscreen,Avenir LT Std,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
-Style: Spica - Secondary,Avenir LT Std,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
-Style: Spica - Flashback,Avenir LT Std,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,-1,0,0,95,100,0,0,1,2,0,2,50,50,20,1
-Style: Spica - Italic,Avenir LT Std,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,-1,0,0,95,100,0,0,1,2,0,2,50,50,20,1
-Style: Spica - Notes,Avenir LT Std,24,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,8,50,50,20,1
-Style: Spica - Title,Cabin,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,0,2.5,2,10,10,148,1
-Style: Spica - Signs,Arial,25,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
+Style: Default,Avenir LT Std 55 Roman,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
+Style: Offscreen,Avenir LT Std 55 Roman,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
+Style: Secondary,Avenir LT Std 55 Roman,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
+Style: Flashback,Avenir LT Std 55 Roman,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,-1,0,0,95,100,0,0,1,2,0,2,50,50,20,1
+Style: Italic,Avenir LT Std 55 Roman,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,-1,0,0,95,100,0,0,1,2,0,2,50,50,20,1
+Style: Notes,Avenir LT Std 55 Roman,24,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,8,50,50,20,1
+Style: Title,Cabin,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,0,2.5,2,10,10,148,1
+Style: OP - English,Praxis LT Pro,28,&H00E0F0FB,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,20,1
+Style: OP - Kara,Praxis LT Pro,28,&H00E0F0FB,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,50,50,20,1
+Style: ED - English,Praxis LT Pro,28,&H00EBDDDF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,2,50,50,20,1
+Style: ED - Kara,Praxis LT Pro,28,&H00EBDDDF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,50,50,20,1
+Style: Signs,Avenir LT Std 55 Roman,25,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:52.02,0:01:56.03,Spica - Main,,0,0,90,,On a spring night, Virgo is spread out widely.
-Dialogue: 0,0:01:57.03,0:02:01.28,Spica - Main,,0,0,90,,My favorite star, Spica, is this Alpha star.
-Dialogue: 0,0:02:01.95,0:02:06.54,Spica - Main,,0,0,90,,If you stretch this line from the Great\NDipper, there's the North Star.
-Dialogue: 0,0:02:06.54,0:02:11.21,Spica - Main,,0,0,90,,And if you pull the handle of the ladle...
-Dialogue: 0,0:02:11.21,0:02:15.17,Spica - Main,,0,0,90,,there's the star of the cow herder, Arcturus, then Spica!
-Dialogue: 0,0:02:16.17,0:02:20.30,Spica - Main,,0,0,90,,This line is called the Great Arc of Spring.
-Dialogue: 0,0:02:20.93,0:02:25.81,Spica - Main,,0,0,90,,During the cherry blossom season, try looking for it in the south sky!
-Dialogue: 0,0:02:27.27,0:02:32.27,Spica - Title,,0,0,90,,Preview
-Dialogue: 0,0:02:42.32,0:02:45.03,Spica - Main,,0,0,90,,Hey, what's up there?
-Dialogue: 0,0:02:46.58,0:02:50.71,Spica - Main,,0,0,90,,Group lists for the marathon practice the day after tomorrow.
-Dialogue: 0,0:02:50.71,0:02:51.83,Spica - Main,,0,0,90,,Marathon?
-Dialogue: 0,0:02:53.59,0:02:56.30,Spica - Main,,0,0,90,,It's that devil instructor again, huh?
-Dialogue: 0,0:02:56.30,0:02:59.72,Spica - Main,,0,0,90,,But why do they have to take the\Ntrouble of splitting us into groups?
-Dialogue: 0,0:02:59.72,0:03:04.01,Spica - Main,,0,0,90,,Seems like we're going to split into two\Ngroups and go there on a microbus.
-Dialogue: 0,0:03:04.01,0:03:08.22,Spica - Main,,0,0,90,,They say it's training to run in actual outside terrain.
-Dialogue: 0,0:03:09.60,0:03:14.10,Spica - Main,,0,0,90,,We take the trouble to go out and run till we drop again?!
-Dialogue: 0,0:03:15.86,0:03:17.57,Spica - Main,,0,0,90,,Don't be happy about it, you dummy!
-Dialogue: 0,0:03:18.15,0:03:19.57,Spica - Main,,0,0,90,,Let's see...
-Dialogue: 0,0:03:19.57,0:03:22.95,Spica - Main,,0,0,90,,No way! I'm separate from Asumi!
-Dialogue: 0,0:03:22.95,0:03:26.62,Spica - Main,,0,0,90,,Good things don't happen by being together with her.
-Dialogue: 0,0:03:28.56,0:03:31.60,Spica - Signs,,0,0,0,,Marathon Plan\NB Co\NUkita Marika\NKamogawa Asumi
-Dialogue: 0,0:03:29.16,0:03:31.62,Spica - Offscreen,,0,0,90,,I'm with Marika-chan.
-Dialogue: 0,0:03:32.12,0:03:36.75,Spica - Main,,0,0,90,,Asumi we may be separated, but we're friends forever, right?
-Dialogue: 0,0:03:36.75,0:03:37.54,Spica - Main,,0,0,90,,Yeah.
-Dialogue: 0,0:03:37.55,0:03:39.59,Spica - Main,,0,0,90,,You exaggerate too much all the time.
-Dialogue: 0,0:03:39.59,0:03:43.72,Spica - Main,,0,0,90,,Of all the people, I had to be with Fucchii!
-Dialogue: 0,0:03:43.72,0:03:45.30,Spica - Main,,0,0,90,,Fucchii?
-Dialogue: 0,0:03:45.30,0:03:47.18,Spica - Main,,0,0,90,,Who's that?
-Dialogue: 0,0:03:47.18,0:03:50.60,Spica - Main,,0,0,90,,Who? Isn't that what you're called?
-Dialogue: 0,0:03:50.60,0:03:51.52,Spica - Main,,0,0,90,,Huh?
-Dialogue: 0,0:03:51.52,0:03:54.31,Spica - Main,,0,0,90,,Shuu's always calling you that.
-Dialogue: 0,0:03:54.44,0:03:56.19,Spica - Main,,0,0,90,,That guy...
-Dialogue: 0,0:03:56.19,0:03:58.52,Spica - Main,,0,0,90,,Fucchii's a pretty good name, don't you think?
-Dialogue: 0,0:03:58.53,0:03:59.53,Spica - Main,,0,0,90,,Yep.
-Dialogue: 0,0:03:59.53,0:04:04.70,Spica - Main,,0,0,90,,They sure still are a noisy crowd.
-Dialogue: 0,0:03:59.53,0:04:01.65,Spica - Offscreen,,0,0,90,,You're not the one to decide, dummy.
-Dialogue: 0,0:04:01.65,0:04:04.70,Spica - Offscreen,,0,0,90,,You shouldn't take what Shuu says seriously...
-Dialogue: 0,0:04:16.46,0:04:20.05,Spica - Main,,0,0,90,,Whether here or there, you're popular, little seagull.
-Dialogue: 0,0:04:20.46,0:04:23.22,Spica - Main,,0,0,90,,Asumi says it's all right, so it's fine, don't you think?
-Dialogue: 0,0:04:23.22,0:04:23.80,Spica - Main,,0,0,90,,Yeah.
-Dialogue: 0,0:04:23.80,0:04:26.89,Spica - Main,,0,0,90,,I told you, don't decide for me.
-Dialogue: 0,0:04:27.47,0:04:31.43,Spica - Main,,0,0,90,,Don't hit my Asumi, okay, Fucchii?
-Dialogue: 0,0:04:31.43,0:04:34.31,Spica - Main,,0,0,90,,I told you, who said I was Fucchii?!
-Dialogue: 0,0:04:34.31,0:04:38.52,Spica - Main,,0,0,90,,Huh? Asumi your name's up there too.
-Dialogue: 0,0:04:38.52,0:04:39.40,Spica - Offscreen,,0,0,90,,Huh?
-Dialogue: 0,0:04:39.40,0:04:40.52,Spica - Offscreen,,0,0,90,,Look...
-Dialogue: 0,0:04:40.53,0:04:43.32,Spica - Signs,,0,0,90,,
-Dialogue: 0,0:04:57.67,0:04:58.75,Spica - Offscreen,,0,0,90,,Excuse me.
-Dialogue: 0,0:05:01.46,0:05:03.17,Spica - Offscreen,,0,0,90,,Sano-sensei...
-Dialogue: 0,0:05:04.13,0:05:08.14,Spica - Main,,0,0,90,,U-Um, it said "summons" on the bulletin board...
-Dialogue: 0,0:05:08.80,0:05:11.35,Spica - Main,,0,0,90,,I'm sorry for calling you all the way out here.
-Dialogue: 0,0:05:11.35,0:05:14.81,Spica - Main,,0,0,90,,Huh? So you called me, Sano-sensei?
-Dialogue: 0,0:05:22.90,0:05:24.74,Spica - Main,,0,0,90,,Let's talk someplace else.
-Dialogue: 0,0:05:40.00,0:05:41.71,Spica - Main,,0,0,90,,Ah, Ooyama-sensei.
-Dialogue: 0,0:05:41.71,0:05:46.30,Spica - Main,,0,0,90,,There's a summons out for Kamogawa Asumi,\Nbut did anything happen?
-Dialogue: 0,0:05:46.30,0:05:49.97,Spica - Main,,0,0,90,,Well, I don't know, but is something wrong?
-Dialogue: 0,0:05:50.26,0:05:53.68,Spica - Main,,0,0,90,,No, I'm just worried about her.
-Dialogue: 0,0:06:04.73,0:06:06.49,Spica - Main,,0,0,90,,Um, was it something I did?
-Dialogue: 0,0:06:11.37,0:06:14.24,Spica - Main,,0,0,90,,Do you know the distance to space?
-Dialogue: 0,0:06:14.24,0:06:15.20,Spica - Main,,0,0,90,,Huh?
-Dialogue: 0,0:06:15.20,0:06:17.91,Spica - Main,,0,0,90,,Counting by time, it takes less than ten minutes.
-Dialogue: 0,0:06:17.91,0:06:21.58,Spica - Main,,0,0,90,,A shuttle's orbit is at an altitude of at most 350 km.
-Dialogue: 0,0:06:21.58,0:06:24.46,Spica - Main,,0,0,90,,Much closer than other foreign countries.
-Dialogue: 0,0:06:25.21,0:06:26.30,Spica - Main,,0,0,90,,Yes...
-Dialogue: 0,0:06:26.30,0:06:29.26,Spica - Main,,0,0,90,,But it doesn't mean that anyone can go.
-Dialogue: 0,0:06:29.26,0:06:30.93,Spica - Main,,0,0,90,,Do you know why?
-Dialogue: 0,0:06:30.93,0:06:33.60,Spica - Main,,0,0,90,,That is because the gravity gets in the way...
-Dialogue: 0,0:06:33.60,0:06:34.56,Spica - Offscreen,,0,0,90,,Wrong!
-Dialogue: 0,0:06:35.06,0:06:39.48,Spica - Main,,0,0,90,,You cannot go to space unless you are chosen to do so.
-Dialogue: 0,0:06:41.65,0:06:46.90,Spica - Main,,0,0,90,,Do you seriously think you can become an {space}astronaut?
-Dialogue: 0,0:06:48.07,0:06:49.78,Spica - Main,,0,0,90,,What do you mean?
-Dialogue: 0,0:06:55.54,0:06:58.20,Spica - Main,,0,0,90,,Even if you work hard...
-Dialogue: 0,0:07:02.38,0:07:06.92,Spica - Main,,0,0,90,,there is no way that you will be chosen\Nto become an {space}astronaut.
-Dialogue: 0,0:07:06.92,0:07:09.51,Spica - Main,,0,0,90,,Why are you suddenly telling me this?
-Dialogue: 0,0:07:09.51,0:07:13.51,Spica - Main,,0,0,90,,Um, could I have been doing something wrong?
-Dialogue: 0,0:07:13.51,0:07:17.26,Spica - Main,,0,0,90,,Umm... then I'll fix it, so...
-Dialogue: 0,0:07:17.81,0:07:20.39,Spica - Main,,0,0,90,,Fix it? How?
-Dialogue: 0,0:07:20.39,0:07:22.23,Spica - Main,,0,0,90,,I mean, that is...
-Dialogue: 0,0:07:22.23,0:07:24.81,Spica - Offscreen,,0,0,90,,Whatever you do, it's impossible.
-Dialogue: 0,0:07:25.73,0:07:31.15,Spica - Main,,0,0,90,,That's because you are Kamogawa Tomorou's daughter.
-Dialogue: 0,0:07:35.62,0:07:37.79,Spica - Main,,0,0,90,,Asumi's really late.
-Dialogue: 0,0:07:39.41,0:07:40.95,Spica - Main,,0,0,90,,Hey Asumi!
-Dialogue: 0,0:07:40.96,0:07:44.63,Spica - Main,,0,0,90,,You'll have to buy me an ice cream!
-Dialogue: 0,0:07:40.96,0:07:44.63,Spica - Main,,0,0,90,,Geez, I waited for pretty long.
-Dialogue: 0,0:07:48.05,0:07:49.00,Spica - Offscreen,,0,0,90,,Asumi?
-Dialogue: 0,0:07:49.51,0:07:52.68,Spica - Main,,0,0,90,,I-I brought you your bag, see?
-Dialogue: 0,0:08:02.10,0:08:03.48,Spica - Main,,0,0,90,,Asumi...
-Dialogue: 0,0:08:12.82,0:08:14.53,Spica - Main,,0,0,90,,Asumi-chan, are you there?
-Dialogue: 0,0:08:14.53,0:08:16.91,Spica - Main,,0,0,90,,Would you like to have supper with me?
-Dialogue: 0,0:08:17.53,0:08:19.24,Spica - Main,,0,0,90,,Is she at work?
-Dialogue: 0,0:08:24.58,0:08:26.00,Spica - Italic,,0,0,90,,Dad...
-Dialogue: 0,0:08:27.34,0:08:31.17,Spica - Italic,,0,0,90,,Dad, who had his head down everyday...
-Dialogue: 0,0:08:32.42,0:08:35.63,Spica - Italic,,0,0,90,,Dad, who always came home with a tired face...
-Dialogue: 0,0:08:37.05,0:08:39.81,Spica - Italic,,0,0,90,,Dad, who sometimes laughed sadly...
-Dialogue: 0,0:08:41.18,0:08:44.31,Spica - Italic,,0,0,90,,That was all because of that?
-Dialogue: 0,0:08:59.20,0:09:01.04,Spica - Italic,,0,0,90,,I don't want to go.
-Dialogue: 0,0:09:01.04,0:09:03.66,Spica - Italic,,0,0,90,,Even if I go, I can't do anything.
-Dialogue: 0,0:09:11.30,0:09:14.55,Spica - Main,,0,0,90,,Even a person like you skips class, I see.
-Dialogue: 0,0:09:25.31,0:09:29.98,Spica - Main,,0,0,90,,Next is your favorite class of astronomy right? Come on.
-Dialogue: 0,0:09:31.11,0:09:32.32,Spica - Main,,0,0,90,,We're going.
-Dialogue: 0,0:09:33.74,0:09:36.20,Spica - Offscreen,,0,0,90,,It becomes like this...
-Dialogue: 0,0:09:38.20,0:09:39.87,Spica - Offscreen,,0,0,90,,Kamogawa-kun,
-Dialogue: 0,0:09:40.83,0:09:42.03,Spica - Main,,0,0,90,,Asumi!
-Dialogue: 0,0:09:43.20,0:09:46.46,Spica - Main,,0,0,90,,Kamogawa-kun, are you awake?
-Dialogue: 0,0:09:48.12,0:09:49.96,Spica - Offscreen,,0,0,90,,Stop daydreaming!
-Dialogue: 0,0:09:49.96,0:09:51.09,Spica - Main,,0,0,90,,Y-Yes.
-Dialogue: 0,0:09:51.09,0:09:56.01,Spica - Offscreen,,0,0,90,,Therefore, take the distance between two stars and calculate...
-Dialogue: 0,0:09:56.63,0:10:01.10,Spica - Main,,0,0,90,,Hey we're going to have zero-gravity training\Nin a jumbo jet in the fall, right?
-Dialogue: 0,0:10:02.68,0:10:06.56,Spica - Main,,0,0,90,,That's what I've been looking forward to the most!
-Dialogue: 0,0:10:06.56,0:10:10.98,Spica - Main,,0,0,90,,Do you know what the other name for that training is?
-Dialogue: 0,0:10:12.48,0:10:13.82,Spica - Main,,0,0,90,,Asumi!
-Dialogue: 0,0:10:13.82,0:10:16.53,Spica - Main,,0,0,90,,Oh, sorry, what were you talking about?
-Dialogue: 0,0:10:16.53,0:10:17.90,Spica - Main,,0,0,90,,Nothing!
-Dialogue: 0,0:10:27.41,0:10:30.87,Spica - Main,,0,0,90,,Asumi, you're acting weird!
-Dialogue: 0,0:10:30.88,0:10:32.71,Spica - Offscreen,,0,0,90,,What happened?
-Dialogue: 0,0:10:33.46,0:10:35.71,Spica - Main,,0,0,90,,You can tell me anything!
-Dialogue: 0,0:10:35.71,0:10:38.55,Spica - Main,,0,0,90,,I'm worried about you!
-Dialogue: 0,0:10:38.55,0:10:42.01,Spica - Main,,0,0,90,,It something's bothering you, talk to me about it!
-Dialogue: 0,0:10:42.01,0:10:45.06,Spica - Main,,0,0,90,,Talking might make things better!
-Dialogue: 0,0:10:45.06,0:10:48.52,Spica - Offscreen,,0,0,90,,Hey, what happened, Asumi?
-Dialogue: 0,0:10:49.27,0:10:52.56,Spica - Main,,0,0,90,,I'm sorry for getting you worried, Kei-chan.
-Dialogue: 0,0:10:52.56,0:10:55.23,Spica - Main,,0,0,90,,But I'm all right... really...
-Dialogue: 0,0:10:55.23,0:10:56.28,Spica - Offscreen,,0,0,90,,But...
-Dialogue: 0,0:10:56.28,0:10:59.03,Spica - Main,,0,0,90,,It has nothing to do with you, so...
-Dialogue: 0,0:11:05.91,0:11:07.12,Spica - Main,,0,0,90,,Idiot!
-Dialogue: 0,0:11:08.16,0:11:14.17,Spica - Main,,0,0,90,,Even if you think you're troubled by yourself, that can hurt people!
-Dialogue: 0,0:11:14.71,0:11:18.17,Spica - Offscreen,,0,0,90,,You're the one who said we would all go to space together!
-Dialogue: 0,0:11:18.17,0:11:21.38,Spica - Main,,0,0,90,,What do you mean it has nothing to do with me?!
-Dialogue: 0,0:11:23.01,0:11:25.51,Spica - Main,,0,0,90,,We're friends because we can tell each other everything right?
-Dialogue: 0,0:11:25.51,0:11:28.06,Spica - Main,,0,0,90,,What's up with you? Hiding in your own shell!
-Dialogue: 0,0:11:28.06,0:11:31.81,Spica - Offscreen,,0,0,90,,I hate you when you're gloomy!
-Dialogue: 0,0:11:32.77,0:11:33.94,Spica - Offscreen,,0,0,90,,Idiot!
-Dialogue: 0,0:11:45.83,0:11:47.62,Spica - Italic,,0,0,90,,What's wrong with her?
-Comment: 0,0:12:05.20,0:12:15.21,Spica - Title,,0,0,0,,Eyecatch
-Dialogue: 0,0:12:15.90,0:12:17.90,Spica - Offscreen,,0,0,90,,It's almost time to go!
-Dialogue: 0,0:12:17.90,0:12:19.90,Spica - Offscreen,,0,0,90,,Hurry and get on the bus!
-Dialogue: 0,0:12:22.70,0:12:25.53,Spica - Main,,0,0,90,,Huh? That dummy's not with you today?
-Dialogue: 0,0:12:25.53,0:12:26.53,Spica - Main,,0,0,90,,I don't know.
-Dialogue: 0,0:12:26.53,0:12:28.33,Spica - Main,,0,0,90,,What? Did you have a fight with her or something?
-Dialogue: 0,0:12:28.33,0:12:29.16,Spica - Main,,0,0,90,,Leave me alone.
-Dialogue: 0,0:12:29.16,0:12:29.99,Spica - Offscreen,,0,0,90,,Excuse me...
-Dialogue: 0,0:12:31.66,0:12:33.91,Spica - Main,,0,0,90,,Have you seen Kamogawa-san?
-Dialogue: 0,0:12:34.33,0:12:36.63,Spica - Main,,0,0,90,,She still hasn't come?
-Dialogue: 0,0:12:36.63,0:12:39.88,Spica - Main,,0,0,90,,She isn't on the bus, even though it's time.
-Dialogue: 0,0:12:39.88,0:12:43.80,Spica - Main,,0,0,90,,When I called the dorm, they said\Nshe left in the morning as usual...
-Dialogue: 0,0:12:44.43,0:12:50.06,Spica - Offscreen,,0,0,90,,intention of going to school again.
-Dialogue: 0,0:12:44.43,0:12:50.06,Spica - Offscreen,,0,0,90,,Maybe Kamogawa-san has no
-Dialogue: 0,0:12:53.44,0:12:55.02,Spica - Italic,,0,0,90,,It's my fault...
-Dialogue: 0,0:12:55.02,0:12:57.31,Spica - Italic,,0,0,90,,It's because I said all that...
-Dialogue: 0,0:12:58.23,0:13:01.73,Spica - Flashback,,0,0,90,,I hate you when you're gloomy!
-Dialogue: 0,0:13:01.74,0:13:03.24,Spica - Flashback,,0,0,90,,Idiot!
-Dialogue: 0,0:13:05.66,0:13:06.66,Spica - Main,,0,0,90,,Hey!
-Dialogue: 0,0:13:07.07,0:13:09.41,Spica - Main,,0,0,90,,I'm going to look for her!
-Dialogue: 0,0:13:11.37,0:13:13.58,Spica - Main,,0,0,90,,What's with her? Really...
-Dialogue: 0,0:13:25.93,0:13:30.01,Spica - Flashback,,0,0,90,,Do you seriously think you can become an {space}astronaut?
-Dialogue: 0,0:13:31.97,0:13:37.64,Spica - Flashback,,0,0,90,,Even if you try hard, you won't be allowed to go.
-Dialogue: 0,0:13:39.86,0:13:42.15,Spica - Flashback,,0,0,90,,That is because your...
-Dialogue: 0,0:13:43.11,0:13:44.94,Spica - Flashback,,0,0,90,,Your father...
-Dialogue: 0,0:13:48.45,0:13:52.20,Spica - Flashback,,0,0,90,,Your father was the one that caused the Shishigou to crash!
-Dialogue: 0,0:14:13.85,0:14:17.60,Spica - Italic,,0,0,90,,I can't ask Lion-san, can I?
-Dialogue: 0,0:14:19.06,0:14:22.31,Spica - Italic,,0,0,90,,If he was related to that accident or not...
-Dialogue: 0,0:14:26.49,0:14:32.32,Spica - Italic,,0,0,90,,If Dad was the cause of the Shishigou's crash.
-Dialogue: 0,0:14:39.92,0:14:43.54,Spica - Main,,0,0,90,,For crying out loud, what are you guys doing?
-Dialogue: 0,0:14:43.55,0:14:45.67,Spica - Main,,0,0,90,,All of you...
-Dialogue: 0,0:14:45.67,0:14:47.92,Spica - Main,,0,0,90,,I don't know who wasn't there...
-Dialogue: 0,0:14:47.92,0:14:52.18,Spica - Main,,0,0,90,,but it wouldn't be a good reason to skip the outside marathon.
-Dialogue: 0,0:14:52.93,0:14:56.68,Spica - Main,,0,0,90,,Before worrying about others, worry about yourselves.
-Dialogue: 0,0:14:57.48,0:15:01.10,Spica - Main,,0,0,90,,When you're listening to someone,\Ndon't put your hands in your pockets!
-Dialogue: 0,0:15:01.10,0:15:02.60,Spica - Main,,0,0,90,,Ow!
-Dialogue: 0,0:15:03.02,0:15:07.48,Spica - Main,,0,0,90,,Well, well... isn't that enough, Nishida-sensei?
-Dialogue: 0,0:15:08.03,0:15:11.07,Spica - Offscreen,,0,0,90,,very practice has a make-up day right?
-Dialogue: 0,0:15:11.07,0:15:14.49,Spica - Main,,0,0,90,,You sure are lenient toward the students, Sano-sensei.
-Dialogue: 0,0:15:15.20,0:15:19.41,Spica - Main,,0,0,90,,I will contact Kamogawa's house for you.
-Dialogue: 0,0:15:20.33,0:15:22.75,Spica - Offscreen,,0,0,90,,None of you have to worry about it.
-Dialogue: 0,0:15:24.00,0:15:27.50,Spica - Main,,0,0,90,,You all should go straight home for now.
-Dialogue: 0,0:15:27.51,0:15:29.30,Spica - Main,,0,0,90,,Yes.
-Dialogue: 0,0:15:33.76,0:15:36.60,Spica - Main,,0,0,90,,That teacher gives me a bad feeling...
-Dialogue: 0,0:15:36.60,0:15:40.81,Spica - Main,,0,0,90,,I agree. That guy hit me with his fist!
-Dialogue: 0,0:15:40.81,0:15:44.31,Spica - Main,,0,0,90,,Well, not that teacher...
-Dialogue: 0,0:15:45.07,0:15:46.82,Spica - Offscreen,,0,0,90,,That Sano-sensei...
-Dialogue: 0,0:15:48.23,0:15:53.91,Spica - Main,,0,0,90,,Kamogawa-san that was missing?
-Dialogue: 0,0:15:48.23,0:15:53.91,Spica - Main,,0,0,90,,How did he know that it was
-Dialogue: 0,0:16:00.71,0:16:03.42,Spica - Main,,0,0,90,,Did he put the key somewhere else?
-Dialogue: 0,0:16:11.01,0:16:15.18,Spica - Italic,,0,0,90,,He told me about how he was a rocket engineer.
-Dialogue: 0,0:16:15.18,0:16:18.81,Spica - Italic,,0,0,90,,I never really heard a lot about Dad.
-Dialogue: 0,0:16:20.02,0:16:23.77,Spica - Italic,,0,0,90,,What if what Sano-sensei said was true?
-Dialogue: 0,0:16:24.35,0:16:26.90,Spica - Italic,,0,0,90,,What should I do?
-Dialogue: 0,0:16:27.82,0:16:31.94,Spica - Italic,,0,0,90,,Am I really not allowed to go to space?
-Dialogue: 0,0:16:40.16,0:16:44.50,Spica - Main,,0,0,90,,Dad always forgets to check the mall.
-Dialogue: 0,0:16:45.25,0:16:46.88,Spica - Main,,0,0,90,,There's one for me.
-Dialogue: 0,0:16:47.38,0:16:49.13,Spica - Main,,0,0,90,,I wonder who it's from...
-Dialogue: 0,0:16:51.38,0:16:53.05,Spica - Main,,0,0,90,,Suzunari-sensei!
-Dialogue: 0,0:16:55.80,0:16:56.72,Spica - Main,,0,0,90,,Today?
-Dialogue: 0,0:17:04.23,0:17:06.10,Spica - Flashback,,0,0,90,,Hey Lion-san!
-Dialogue: 0,0:17:06.73,0:17:11.61,Spica - Flashback,,0,0,90,,You still can't forget Suzunari-sensei, right?
-Dialogue: 0,0:17:24.96,0:17:26.96,Spica - Flashback,,0,0,90,,Huh? What's that?
-Dialogue: 0,0:17:27.88,0:17:31.17,Spica - Flashback,,0,0,90,,You sure got something stylish there, kiddo.
-Dialogue: 0,0:17:32.26,0:17:36.26,Spica - Flashback,,0,0,90,,Are you gonna a play a song for your lover over there?
-Dialogue: 0,0:17:42.43,0:17:44.89,Spica - Flashback,,0,0,90,,It's good to be young.
-Dialogue: 0,0:17:49.73,0:17:53.78,Spica - Flashback,,0,0,90,,You don't have to keep laughing at me because I'm off tune.
-Dialogue: 0,0:17:53.78,0:17:57.95,Spica - Flashback,,0,0,90,,Someday I'm going to teach music at an elementary school!
-Dialogue: 0,0:17:59.28,0:18:02.41,Spica - Flashback,,0,0,90,,Really? Me too!
-Dialogue: 0,0:18:02.41,0:18:05.33,Spica - Flashback,,0,0,90,,That's my favorite song too!
-Dialogue: 0,0:18:45.50,0:18:46.83,Spica - Main,,0,0,90,,Lion-san...
-Dialogue: 0,0:18:47.41,0:18:50.42,Spica - Main,,0,0,90,,What is it, little one? I see you skipped school.
-Dialogue: 0,0:18:50.42,0:18:52.67,Spica - Main,,0,0,90,,Lion-san, I...
-Dialogue: 0,0:18:52.67,0:18:55.71,Spica - Main,,0,0,90,,If you don't hurry back, you'll mice the last train.
-Dialogue: 0,0:18:58.63,0:19:01.14,Spica - Main,,0,0,90,,Well, Lion-san...
-Dialogue: 0,0:19:04.85,0:19:06.18,Spica - Italic,,0,0,90,,You're crying?
-Dialogue: 0,0:19:12.23,0:19:15.69,Spica - Offscreen,,0,0,90,,I'm sorry!
-Dialogue: 0,0:19:15.69,0:19:19.11,Spica - Main,,0,0,90,,Lion-san, I'm sorry!
-Dialogue: 0,0:19:19.78,0:19:22.16,Spica - Main,,0,0,90,,Why are you apologizing, little one?
-Dialogue: 0,0:19:22.95,0:19:24.91,Spica - Main,,0,0,90,,It might have been Dad...
-Dialogue: 0,0:19:26.12,0:19:31.08,Spica - Main,,0,0,90,,It might have been Dad who caused the Shishigou accident.
-Dialogue: 0,0:19:32.33,0:19:33.58,Spica - Main,,0,0,90,,Little one...
-Dialogue: 0,0:19:34.17,0:19:40.63,Spica - Main,,0,0,90,,been you standing next to Suzunari-sensei!
-Dialogue: 0,0:19:34.17,0:19:40.63,Spica - Main,,0,0,90,,If that accident hadn't happened, it would have
-Dialogue: 0,0:19:43.22,0:19:44.43,Spica - Offscreen,,0,0,90,,I was prepared for it.
-Dialogue: 0,0:19:45.31,0:19:48.27,Spica - Offscreen,,0,0,90,,From the moment I became an {space}astronaut.
-Dialogue: 0,0:19:49.68,0:19:52.35,Spica - Main,,0,0,90,,it's nothing you have to worry about, little one.
-Dialogue: 0,0:19:53.65,0:19:59.07,Spica - Main,,0,0,90,,No one actually knows the real cause of that accident.
-Dialogue: 0,0:19:59.86,0:20:04.03,Spica - Main,,0,0,90,,Of course, it's not an accident that\Nhappened because of one person.
-Dialogue: 0,0:20:07.29,0:20:12.46,Spica - Main,,0,0,90,,But everyone who was part of Shishigou felt responsible for it.
-Dialogue: 0,0:20:13.38,0:20:17.96,Spica - Main,,0,0,90,,Everyone's trying their best to regain what they have lost.
-Dialogue: 0,0:20:19.13,0:20:22.93,Spica - Offscreen,,0,0,90,,Your father is just one of those people.
-Dialogue: 0,0:20:28.85,0:20:32.56,Spica - Main,,0,0,90,,You love the stars more than anything...
-Dialogue: 0,0:20:32.56,0:20:34.85,Spica - Main,,0,0,90,,...and longed for space more than anyone else.
-Dialogue: 0,0:20:36.06,0:20:40.73,Spica - Main,,0,0,90,,That's all you have to think about, little one.
-Dialogue: 0,0:20:40.74,0:20:42.95,Spica - Main,,0,0,90,,The truth of the past isn't needed.
-Dialogue: 0,0:20:43.57,0:20:45.95,Spica - Offscreen,,0,0,90,,Your strong feelings are enough.
-Dialogue: 0,0:20:48.62,0:20:50.70,Spica - Main,,0,0,90,,But you loved her right?
-Dialogue: 0,0:20:50.70,0:20:55.00,Spica - Main,,0,0,90,,You've always, always loved sensei, right?
-Dialogue: 0,0:20:55.83,0:20:59.63,Spica - Main,,0,0,90,,You can't even tell her your feelings anymore...
-Dialogue: 0,0:20:59.63,0:21:02.38,Spica - Main,,0,0,90,,You can't tell her that you love her...
-Dialogue: 0,0:21:21.53,0:21:25.95,Spica - Main,,0,0,90,,Little one, do you know what this song is?
-Dialogue: 0,0:21:27.41,0:21:30.91,Spica - Main,,0,0,90,,It's called "Look up at the stars in the night."
-Dialogue: 0,0:21:30.91,0:21:32.58,Spica - Main,,0,0,90,,It's a good song right?
-Dialogue: 0,0:21:32.58,0:21:35.25,Spica - Main,,0,0,90,,It's the first song that I learned on this harmonica.
-Dialogue: 0,0:22:02.73,0:22:05.40,Spica - Flashback,,0,0,90,,Really? Me too!
-Dialogue: 0,0:22:06.07,0:22:08.41,Spica - Flashback,,0,0,90,,That's my favorite song too!
-Dialogue: 0,0:22:17.25,0:22:19.50,Spica - Offscreen,,0,0,90,,Yuuko-sensei, one more!
-Dialogue: 0,0:22:20.96,0:22:22.71,Spica - Offscreen,,0,0,90,,I'm taking it!
-Dialogue: 0,0:22:25.67,0:22:27.13,Spica - Main,,0,0,90,,Sensei?
-Dialogue: 0,0:22:33.47,0:22:35.77,Spica - Main,,0,0,90,,I can hear that song...
-Dialogue: 0,0:22:48.32,0:22:53.16,Spica - Offscreen,,0,0,90,,I think I'll try going to Tokyo as well...
-Dialogue: 0,0:24:34.22,0:24:39.97,Spica - Title,,0,0,90,,Preview
-Dialogue: 0,0:24:34.51,0:24:39.97,Spica - Main,,0,0,90,,Kasane-chan... that name is a memory that moves my heart.
-Dialogue: 0,0:24:39.97,0:24:42.73,Spica - Main,,0,0,90,,Why can't people be honest?
-Dialogue: 0,0:24:42.73,0:24:49.02,Spica - Main,,0,0,90,,The memory of hurting a friend still envelopes my feelings.
-Dialogue: 0,0:24:49.03,0:24:52.99,Spica - Main,,0,0,90,,Please look at the stars when you're feeling sad, Kasane-chan!
-Dialogue: 0,0:24:52.99,0:25:00.08,Spica - Main,,0,0,90,,Next time on Twin Spica: Our Star, The leaf Star.
+Dialogue: 0,0:01:52.02,0:01:56.03,Default,,0,0,90,,On a spring night, Virgo is spread out widely.
+Dialogue: 0,0:01:57.03,0:02:01.28,Default,,0,0,90,,My favorite star, Spica, is this Alpha star.
+Dialogue: 0,0:02:01.95,0:02:06.54,Default,,0,0,90,,If you stretch this line from the Great\NDipper, there's the North Star.
+Dialogue: 0,0:02:06.54,0:02:11.21,Default,,0,0,90,,And if you pull the handle of the ladle...
+Dialogue: 0,0:02:11.21,0:02:15.17,Default,,0,0,90,,there's the star of the cow herder, Arcturus, then Spica!
+Dialogue: 0,0:02:16.17,0:02:20.30,Default,,0,0,90,,This line is called the Great Arc of Spring.
+Dialogue: 0,0:02:20.93,0:02:25.81,Default,,0,0,90,,During the cherry blossom season, try looking for it in the south sky!
+Dialogue: 0,0:02:27.27,0:02:32.27,Title,,0,0,90,,Preview
+Dialogue: 0,0:02:42.32,0:02:45.03,Default,,0,0,90,,Hey, what's up there?
+Dialogue: 0,0:02:46.58,0:02:50.71,Default,,0,0,90,,Group lists for the marathon practice the day after tomorrow.
+Dialogue: 0,0:02:50.71,0:02:51.83,Default,,0,0,90,,Marathon?
+Dialogue: 0,0:02:53.59,0:02:56.30,Default,,0,0,90,,It's that devil instructor again, huh?
+Dialogue: 0,0:02:56.30,0:02:59.72,Default,,0,0,90,,But why do they have to take the\Ntrouble of splitting us into groups?
+Dialogue: 0,0:02:59.72,0:03:04.01,Default,,0,0,90,,Seems like we're going to split into two\Ngroups and go there on a microbus.
+Dialogue: 0,0:03:04.01,0:03:08.22,Default,,0,0,90,,They say it's training to run in actual outside terrain.
+Dialogue: 0,0:03:09.60,0:03:14.10,Default,,0,0,90,,We take the trouble to go out and run till we drop again?!
+Dialogue: 0,0:03:15.86,0:03:17.57,Default,,0,0,90,,Don't be happy about it, you dummy!
+Dialogue: 0,0:03:18.15,0:03:19.57,Default,,0,0,90,,Let's see...
+Dialogue: 0,0:03:19.57,0:03:22.95,Default,,0,0,90,,No way! I'm separate from Asumi!
+Dialogue: 0,0:03:22.95,0:03:26.62,Default,,0,0,90,,Good things don't happen by being together with her.
+Dialogue: 0,0:03:28.56,0:03:31.60,Signs,,0,0,0,,Marathon Plan\NB Co\NUkita Marika\NKamogawa Asumi
+Dialogue: 0,0:03:29.16,0:03:31.62,Offscreen,,0,0,90,,I'm with Marika-chan.
+Dialogue: 0,0:03:32.12,0:03:36.75,Default,,0,0,90,,Asumi we may be separated, but we're friends forever, right?
+Dialogue: 0,0:03:36.75,0:03:37.54,Default,,0,0,90,,Yeah.
+Dialogue: 0,0:03:37.55,0:03:39.59,Default,,0,0,90,,You exaggerate too much all the time.
+Dialogue: 0,0:03:39.59,0:03:43.72,Default,,0,0,90,,Of all the people, I had to be with Fucchii!
+Dialogue: 0,0:03:43.72,0:03:45.30,Default,,0,0,90,,Fucchii?
+Dialogue: 0,0:03:45.30,0:03:47.18,Default,,0,0,90,,Who's that?
+Dialogue: 0,0:03:47.18,0:03:50.60,Default,,0,0,90,,Who? Isn't that what you're called?
+Dialogue: 0,0:03:50.60,0:03:51.52,Default,,0,0,90,,Huh?
+Dialogue: 0,0:03:51.52,0:03:54.31,Default,,0,0,90,,Shuu's always calling you that.
+Dialogue: 0,0:03:54.44,0:03:56.19,Default,,0,0,90,,That guy...
+Dialogue: 0,0:03:56.19,0:03:58.52,Default,,0,0,90,,Fucchii's a pretty good name, don't you think?
+Dialogue: 0,0:03:58.53,0:03:59.53,Default,,0,0,90,,Yep.
+Dialogue: 0,0:03:59.53,0:04:04.70,Default,,0,0,90,,They sure still are a noisy crowd.
+Dialogue: 0,0:03:59.53,0:04:01.65,Offscreen,,0,0,90,,You're not the one to decide, dummy.
+Dialogue: 0,0:04:01.65,0:04:04.70,Offscreen,,0,0,90,,You shouldn't take what Shuu says seriously...
+Dialogue: 0,0:04:16.46,0:04:20.05,Default,,0,0,90,,Whether here or there, you're popular, little seagull.
+Dialogue: 0,0:04:20.46,0:04:23.22,Default,,0,0,90,,Asumi says it's all right, so it's fine, don't you think?
+Dialogue: 0,0:04:23.22,0:04:23.80,Default,,0,0,90,,Yeah.
+Dialogue: 0,0:04:23.80,0:04:26.89,Default,,0,0,90,,I told you, don't decide for me.
+Dialogue: 0,0:04:27.47,0:04:31.43,Default,,0,0,90,,Don't hit my Asumi, okay, Fucchii?
+Dialogue: 0,0:04:31.43,0:04:34.31,Default,,0,0,90,,I told you, who said I was Fucchii?!
+Dialogue: 0,0:04:34.31,0:04:38.52,Default,,0,0,90,,Huh? Asumi your name's up there too.
+Dialogue: 0,0:04:38.52,0:04:39.40,Offscreen,,0,0,90,,Huh?
+Dialogue: 0,0:04:39.40,0:04:40.52,Offscreen,,0,0,90,,Look...
+Dialogue: 0,0:04:40.53,0:04:43.32,Signs,,0,0,90,,
+Dialogue: 0,0:04:57.67,0:04:58.75,Offscreen,,0,0,90,,Excuse me.
+Dialogue: 0,0:05:01.46,0:05:03.17,Offscreen,,0,0,90,,Sano-sensei...
+Dialogue: 0,0:05:04.13,0:05:08.14,Default,,0,0,90,,U-Um, it said "summons" on the bulletin board...
+Dialogue: 0,0:05:08.80,0:05:11.35,Default,,0,0,90,,I'm sorry for calling you all the way out here.
+Dialogue: 0,0:05:11.35,0:05:14.81,Default,,0,0,90,,Huh? So you called me, Sano-sensei?
+Dialogue: 0,0:05:22.90,0:05:24.74,Default,,0,0,90,,Let's talk someplace else.
+Dialogue: 0,0:05:40.00,0:05:41.71,Default,,0,0,90,,Ah, Ooyama-sensei.
+Dialogue: 0,0:05:41.71,0:05:46.30,Default,,0,0,90,,There's a summons out for Kamogawa Asumi,\Nbut did anything happen?
+Dialogue: 0,0:05:46.30,0:05:49.97,Default,,0,0,90,,Well, I don't know, but is something wrong?
+Dialogue: 0,0:05:50.26,0:05:53.68,Default,,0,0,90,,No, I'm just worried about her.
+Dialogue: 0,0:06:04.73,0:06:06.49,Default,,0,0,90,,Um, was it something I did?
+Dialogue: 0,0:06:11.37,0:06:14.24,Default,,0,0,90,,Do you know the distance to space?
+Dialogue: 0,0:06:14.24,0:06:15.20,Default,,0,0,90,,Huh?
+Dialogue: 0,0:06:15.20,0:06:17.91,Default,,0,0,90,,Counting by time, it takes less than ten minutes.
+Dialogue: 0,0:06:17.91,0:06:21.58,Default,,0,0,90,,A shuttle's orbit is at an altitude of at most 350 km.
+Dialogue: 0,0:06:21.58,0:06:24.46,Default,,0,0,90,,Much closer than other foreign countries.
+Dialogue: 0,0:06:25.21,0:06:26.30,Default,,0,0,90,,Yes...
+Dialogue: 0,0:06:26.30,0:06:29.26,Default,,0,0,90,,But it doesn't mean that anyone can go.
+Dialogue: 0,0:06:29.26,0:06:30.93,Default,,0,0,90,,Do you know why?
+Dialogue: 0,0:06:30.93,0:06:33.60,Default,,0,0,90,,That is because the gravity gets in the way...
+Dialogue: 0,0:06:33.60,0:06:34.56,Offscreen,,0,0,90,,Wrong!
+Dialogue: 0,0:06:35.06,0:06:39.48,Default,,0,0,90,,You cannot go to space unless you are chosen to do so.
+Dialogue: 0,0:06:41.65,0:06:46.90,Default,,0,0,90,,Do you seriously think you can become an {space}astronaut?
+Dialogue: 0,0:06:48.07,0:06:49.78,Default,,0,0,90,,What do you mean?
+Dialogue: 0,0:06:55.54,0:06:58.20,Default,,0,0,90,,Even if you work hard...
+Dialogue: 0,0:07:02.38,0:07:06.92,Default,,0,0,90,,there is no way that you will be chosen\Nto become an {space}astronaut.
+Dialogue: 0,0:07:06.92,0:07:09.51,Default,,0,0,90,,Why are you suddenly telling me this?
+Dialogue: 0,0:07:09.51,0:07:13.51,Default,,0,0,90,,Um, could I have been doing something wrong?
+Dialogue: 0,0:07:13.51,0:07:17.26,Default,,0,0,90,,Umm... then I'll fix it, so...
+Dialogue: 0,0:07:17.81,0:07:20.39,Default,,0,0,90,,Fix it? How?
+Dialogue: 0,0:07:20.39,0:07:22.23,Default,,0,0,90,,I mean, that is...
+Dialogue: 0,0:07:22.23,0:07:24.81,Offscreen,,0,0,90,,Whatever you do, it's impossible.
+Dialogue: 0,0:07:25.73,0:07:31.15,Default,,0,0,90,,That's because you are Kamogawa Tomorou's daughter.
+Dialogue: 0,0:07:35.62,0:07:37.79,Default,,0,0,90,,Asumi's really late.
+Dialogue: 0,0:07:39.41,0:07:40.95,Default,,0,0,90,,Hey Asumi!
+Dialogue: 0,0:07:40.96,0:07:44.63,Default,,0,0,90,,You'll have to buy me an ice cream!
+Dialogue: 0,0:07:40.96,0:07:44.63,Default,,0,0,90,,Geez, I waited for pretty long.
+Dialogue: 0,0:07:48.05,0:07:49.00,Offscreen,,0,0,90,,Asumi?
+Dialogue: 0,0:07:49.51,0:07:52.68,Default,,0,0,90,,I-I brought you your bag, see?
+Dialogue: 0,0:08:02.10,0:08:03.48,Default,,0,0,90,,Asumi...
+Dialogue: 0,0:08:12.82,0:08:14.53,Default,,0,0,90,,Asumi-chan, are you there?
+Dialogue: 0,0:08:14.53,0:08:16.91,Default,,0,0,90,,Would you like to have supper with me?
+Dialogue: 0,0:08:17.53,0:08:19.24,Default,,0,0,90,,Is she at work?
+Dialogue: 0,0:08:24.58,0:08:26.00,Italic,,0,0,90,,Dad...
+Dialogue: 0,0:08:27.34,0:08:31.17,Italic,,0,0,90,,Dad, who had his head down everyday...
+Dialogue: 0,0:08:32.42,0:08:35.63,Italic,,0,0,90,,Dad, who always came home with a tired face...
+Dialogue: 0,0:08:37.05,0:08:39.81,Italic,,0,0,90,,Dad, who sometimes laughed sadly...
+Dialogue: 0,0:08:41.18,0:08:44.31,Italic,,0,0,90,,That was all because of that?
+Dialogue: 0,0:08:59.20,0:09:01.04,Italic,,0,0,90,,I don't want to go.
+Dialogue: 0,0:09:01.04,0:09:03.66,Italic,,0,0,90,,Even if I go, I can't do anything.
+Dialogue: 0,0:09:11.30,0:09:14.55,Default,,0,0,90,,Even a person like you skips class, I see.
+Dialogue: 0,0:09:25.31,0:09:29.98,Default,,0,0,90,,Next is your favorite class of astronomy right? Come on.
+Dialogue: 0,0:09:31.11,0:09:32.32,Default,,0,0,90,,We're going.
+Dialogue: 0,0:09:33.74,0:09:36.20,Offscreen,,0,0,90,,It becomes like this...
+Dialogue: 0,0:09:38.20,0:09:39.87,Offscreen,,0,0,90,,Kamogawa-kun,
+Dialogue: 0,0:09:40.83,0:09:42.03,Default,,0,0,90,,Asumi!
+Dialogue: 0,0:09:43.20,0:09:46.46,Default,,0,0,90,,Kamogawa-kun, are you awake?
+Dialogue: 0,0:09:48.12,0:09:49.96,Offscreen,,0,0,90,,Stop daydreaming!
+Dialogue: 0,0:09:49.96,0:09:51.09,Default,,0,0,90,,Y-Yes.
+Dialogue: 0,0:09:51.09,0:09:56.01,Offscreen,,0,0,90,,Therefore, take the distance between two stars and calculate...
+Dialogue: 0,0:09:56.63,0:10:01.10,Default,,0,0,90,,Hey we're going to have zero-gravity training\Nin a jumbo jet in the fall, right?
+Dialogue: 0,0:10:02.68,0:10:06.56,Default,,0,0,90,,That's what I've been looking forward to the most!
+Dialogue: 0,0:10:06.56,0:10:10.98,Default,,0,0,90,,Do you know what the other name for that training is?
+Dialogue: 0,0:10:12.48,0:10:13.82,Default,,0,0,90,,Asumi!
+Dialogue: 0,0:10:13.82,0:10:16.53,Default,,0,0,90,,Oh, sorry, what were you talking about?
+Dialogue: 0,0:10:16.53,0:10:17.90,Default,,0,0,90,,Nothing!
+Dialogue: 0,0:10:27.41,0:10:30.87,Default,,0,0,90,,Asumi, you're acting weird!
+Dialogue: 0,0:10:30.88,0:10:32.71,Offscreen,,0,0,90,,What happened?
+Dialogue: 0,0:10:33.46,0:10:35.71,Default,,0,0,90,,You can tell me anything!
+Dialogue: 0,0:10:35.71,0:10:38.55,Default,,0,0,90,,I'm worried about you!
+Dialogue: 0,0:10:38.55,0:10:42.01,Default,,0,0,90,,It something's bothering you, talk to me about it!
+Dialogue: 0,0:10:42.01,0:10:45.06,Default,,0,0,90,,Talking might make things better!
+Dialogue: 0,0:10:45.06,0:10:48.52,Offscreen,,0,0,90,,Hey, what happened, Asumi?
+Dialogue: 0,0:10:49.27,0:10:52.56,Default,,0,0,90,,I'm sorry for getting you worried, Kei-chan.
+Dialogue: 0,0:10:52.56,0:10:55.23,Default,,0,0,90,,But I'm all right... really...
+Dialogue: 0,0:10:55.23,0:10:56.28,Offscreen,,0,0,90,,But...
+Dialogue: 0,0:10:56.28,0:10:59.03,Default,,0,0,90,,It has nothing to do with you, so...
+Dialogue: 0,0:11:05.91,0:11:07.12,Default,,0,0,90,,Idiot!
+Dialogue: 0,0:11:08.16,0:11:14.17,Default,,0,0,90,,Even if you think you're troubled by yourself, that can hurt people!
+Dialogue: 0,0:11:14.71,0:11:18.17,Offscreen,,0,0,90,,You're the one who said we would all go to space together!
+Dialogue: 0,0:11:18.17,0:11:21.38,Default,,0,0,90,,What do you mean it has nothing to do with me?!
+Dialogue: 0,0:11:23.01,0:11:25.51,Default,,0,0,90,,We're friends because we can tell each other everything right?
+Dialogue: 0,0:11:25.51,0:11:28.06,Default,,0,0,90,,What's up with you? Hiding in your own shell!
+Dialogue: 0,0:11:28.06,0:11:31.81,Offscreen,,0,0,90,,I hate you when you're gloomy!
+Dialogue: 0,0:11:32.77,0:11:33.94,Offscreen,,0,0,90,,Idiot!
+Dialogue: 0,0:11:45.83,0:11:47.62,Italic,,0,0,90,,What's wrong with her?
+Comment: 0,0:12:05.20,0:12:15.21,Title,,0,0,0,,Eyecatch
+Dialogue: 0,0:12:15.90,0:12:17.90,Offscreen,,0,0,90,,It's almost time to go!
+Dialogue: 0,0:12:17.90,0:12:19.90,Offscreen,,0,0,90,,Hurry and get on the bus!
+Dialogue: 0,0:12:22.70,0:12:25.53,Default,,0,0,90,,Huh? That dummy's not with you today?
+Dialogue: 0,0:12:25.53,0:12:26.53,Default,,0,0,90,,I don't know.
+Dialogue: 0,0:12:26.53,0:12:28.33,Default,,0,0,90,,What? Did you have a fight with her or something?
+Dialogue: 0,0:12:28.33,0:12:29.16,Default,,0,0,90,,Leave me alone.
+Dialogue: 0,0:12:29.16,0:12:29.99,Offscreen,,0,0,90,,Excuse me...
+Dialogue: 0,0:12:31.66,0:12:33.91,Default,,0,0,90,,Have you seen Kamogawa-san?
+Dialogue: 0,0:12:34.33,0:12:36.63,Default,,0,0,90,,She still hasn't come?
+Dialogue: 0,0:12:36.63,0:12:39.88,Default,,0,0,90,,She isn't on the bus, even though it's time.
+Dialogue: 0,0:12:39.88,0:12:43.80,Default,,0,0,90,,When I called the dorm, they said\Nshe left in the morning as usual...
+Dialogue: 0,0:12:44.43,0:12:50.06,Offscreen,,0,0,90,,intention of going to school again.
+Dialogue: 0,0:12:44.43,0:12:50.06,Offscreen,,0,0,90,,Maybe Kamogawa-san has no
+Dialogue: 0,0:12:53.44,0:12:55.02,Italic,,0,0,90,,It's my fault...
+Dialogue: 0,0:12:55.02,0:12:57.31,Italic,,0,0,90,,It's because I said all that...
+Dialogue: 0,0:12:58.23,0:13:01.73,Flashback,,0,0,90,,I hate you when you're gloomy!
+Dialogue: 0,0:13:01.74,0:13:03.24,Flashback,,0,0,90,,Idiot!
+Dialogue: 0,0:13:05.66,0:13:06.66,Default,,0,0,90,,Hey!
+Dialogue: 0,0:13:07.07,0:13:09.41,Default,,0,0,90,,I'm going to look for her!
+Dialogue: 0,0:13:11.37,0:13:13.58,Default,,0,0,90,,What's with her? Really...
+Dialogue: 0,0:13:25.93,0:13:30.01,Flashback,,0,0,90,,Do you seriously think you can become an {space}astronaut?
+Dialogue: 0,0:13:31.97,0:13:37.64,Flashback,,0,0,90,,Even if you try hard, you won't be allowed to go.
+Dialogue: 0,0:13:39.86,0:13:42.15,Flashback,,0,0,90,,That is because your...
+Dialogue: 0,0:13:43.11,0:13:44.94,Flashback,,0,0,90,,Your father...
+Dialogue: 0,0:13:48.45,0:13:52.20,Flashback,,0,0,90,,Your father was the one that caused the Shishigou to crash!
+Dialogue: 0,0:14:13.85,0:14:17.60,Italic,,0,0,90,,I can't ask Lion-san, can I?
+Dialogue: 0,0:14:19.06,0:14:22.31,Italic,,0,0,90,,If he was related to that accident or not...
+Dialogue: 0,0:14:26.49,0:14:32.32,Italic,,0,0,90,,If Dad was the cause of the Shishigou's crash.
+Dialogue: 0,0:14:39.92,0:14:43.54,Default,,0,0,90,,For crying out loud, what are you guys doing?
+Dialogue: 0,0:14:43.55,0:14:45.67,Default,,0,0,90,,All of you...
+Dialogue: 0,0:14:45.67,0:14:47.92,Default,,0,0,90,,I don't know who wasn't there...
+Dialogue: 0,0:14:47.92,0:14:52.18,Default,,0,0,90,,but it wouldn't be a good reason to skip the outside marathon.
+Dialogue: 0,0:14:52.93,0:14:56.68,Default,,0,0,90,,Before worrying about others, worry about yourselves.
+Dialogue: 0,0:14:57.48,0:15:01.10,Default,,0,0,90,,When you're listening to someone,\Ndon't put your hands in your pockets!
+Dialogue: 0,0:15:01.10,0:15:02.60,Default,,0,0,90,,Ow!
+Dialogue: 0,0:15:03.02,0:15:07.48,Default,,0,0,90,,Well, well... isn't that enough, Nishida-sensei?
+Dialogue: 0,0:15:08.03,0:15:11.07,Offscreen,,0,0,90,,very practice has a make-up day right?
+Dialogue: 0,0:15:11.07,0:15:14.49,Default,,0,0,90,,You sure are lenient toward the students, Sano-sensei.
+Dialogue: 0,0:15:15.20,0:15:19.41,Default,,0,0,90,,I will contact Kamogawa's house for you.
+Dialogue: 0,0:15:20.33,0:15:22.75,Offscreen,,0,0,90,,None of you have to worry about it.
+Dialogue: 0,0:15:24.00,0:15:27.50,Default,,0,0,90,,You all should go straight home for now.
+Dialogue: 0,0:15:27.51,0:15:29.30,Default,,0,0,90,,Yes.
+Dialogue: 0,0:15:33.76,0:15:36.60,Default,,0,0,90,,That teacher gives me a bad feeling...
+Dialogue: 0,0:15:36.60,0:15:40.81,Default,,0,0,90,,I agree. That guy hit me with his fist!
+Dialogue: 0,0:15:40.81,0:15:44.31,Default,,0,0,90,,Well, not that teacher...
+Dialogue: 0,0:15:45.07,0:15:46.82,Offscreen,,0,0,90,,That Sano-sensei...
+Dialogue: 0,0:15:48.23,0:15:53.91,Default,,0,0,90,,Kamogawa-san that was missing?
+Dialogue: 0,0:15:48.23,0:15:53.91,Default,,0,0,90,,How did he know that it was
+Dialogue: 0,0:16:00.71,0:16:03.42,Default,,0,0,90,,Did he put the key somewhere else?
+Dialogue: 0,0:16:11.01,0:16:15.18,Italic,,0,0,90,,He told me about how he was a rocket engineer.
+Dialogue: 0,0:16:15.18,0:16:18.81,Italic,,0,0,90,,I never really heard a lot about Dad.
+Dialogue: 0,0:16:20.02,0:16:23.77,Italic,,0,0,90,,What if what Sano-sensei said was true?
+Dialogue: 0,0:16:24.35,0:16:26.90,Italic,,0,0,90,,What should I do?
+Dialogue: 0,0:16:27.82,0:16:31.94,Italic,,0,0,90,,Am I really not allowed to go to space?
+Dialogue: 0,0:16:40.16,0:16:44.50,Default,,0,0,90,,Dad always forgets to check the mall.
+Dialogue: 0,0:16:45.25,0:16:46.88,Default,,0,0,90,,There's one for me.
+Dialogue: 0,0:16:47.38,0:16:49.13,Default,,0,0,90,,I wonder who it's from...
+Dialogue: 0,0:16:51.38,0:16:53.05,Default,,0,0,90,,Suzunari-sensei!
+Dialogue: 0,0:16:55.80,0:16:56.72,Default,,0,0,90,,Today?
+Dialogue: 0,0:17:04.23,0:17:06.10,Flashback,,0,0,90,,Hey Lion-san!
+Dialogue: 0,0:17:06.73,0:17:11.61,Flashback,,0,0,90,,You still can't forget Suzunari-sensei, right?
+Dialogue: 0,0:17:24.96,0:17:26.96,Flashback,,0,0,90,,Huh? What's that?
+Dialogue: 0,0:17:27.88,0:17:31.17,Flashback,,0,0,90,,You sure got something stylish there, kiddo.
+Dialogue: 0,0:17:32.26,0:17:36.26,Flashback,,0,0,90,,Are you gonna a play a song for your lover over there?
+Dialogue: 0,0:17:42.43,0:17:44.89,Flashback,,0,0,90,,It's good to be young.
+Dialogue: 0,0:17:49.73,0:17:53.78,Flashback,,0,0,90,,You don't have to keep laughing at me because I'm off tune.
+Dialogue: 0,0:17:53.78,0:17:57.95,Flashback,,0,0,90,,Someday I'm going to teach music at an elementary school!
+Dialogue: 0,0:17:59.28,0:18:02.41,Flashback,,0,0,90,,Really? Me too!
+Dialogue: 0,0:18:02.41,0:18:05.33,Flashback,,0,0,90,,That's my favorite song too!
+Dialogue: 0,0:18:45.50,0:18:46.83,Default,,0,0,90,,Lion-san...
+Dialogue: 0,0:18:47.41,0:18:50.42,Default,,0,0,90,,What is it, little one? I see you skipped school.
+Dialogue: 0,0:18:50.42,0:18:52.67,Default,,0,0,90,,Lion-san, I...
+Dialogue: 0,0:18:52.67,0:18:55.71,Default,,0,0,90,,If you don't hurry back, you'll mice the last train.
+Dialogue: 0,0:18:58.63,0:19:01.14,Default,,0,0,90,,Well, Lion-san...
+Dialogue: 0,0:19:04.85,0:19:06.18,Italic,,0,0,90,,You're crying?
+Dialogue: 0,0:19:12.23,0:19:15.69,Offscreen,,0,0,90,,I'm sorry!
+Dialogue: 0,0:19:15.69,0:19:19.11,Default,,0,0,90,,Lion-san, I'm sorry!
+Dialogue: 0,0:19:19.78,0:19:22.16,Default,,0,0,90,,Why are you apologizing, little one?
+Dialogue: 0,0:19:22.95,0:19:24.91,Default,,0,0,90,,It might have been Dad...
+Dialogue: 0,0:19:26.12,0:19:31.08,Default,,0,0,90,,It might have been Dad who caused the Shishigou accident.
+Dialogue: 0,0:19:32.33,0:19:33.58,Default,,0,0,90,,Little one...
+Dialogue: 0,0:19:34.17,0:19:40.63,Default,,0,0,90,,been you standing next to Suzunari-sensei!
+Dialogue: 0,0:19:34.17,0:19:40.63,Default,,0,0,90,,If that accident hadn't happened, it would have
+Dialogue: 0,0:19:43.22,0:19:44.43,Offscreen,,0,0,90,,I was prepared for it.
+Dialogue: 0,0:19:45.31,0:19:48.27,Offscreen,,0,0,90,,From the moment I became an {space}astronaut.
+Dialogue: 0,0:19:49.68,0:19:52.35,Default,,0,0,90,,it's nothing you have to worry about, little one.
+Dialogue: 0,0:19:53.65,0:19:59.07,Default,,0,0,90,,No one actually knows the real cause of that accident.
+Dialogue: 0,0:19:59.86,0:20:04.03,Default,,0,0,90,,Of course, it's not an accident that\Nhappened because of one person.
+Dialogue: 0,0:20:07.29,0:20:12.46,Default,,0,0,90,,But everyone who was part of Shishigou felt responsible for it.
+Dialogue: 0,0:20:13.38,0:20:17.96,Default,,0,0,90,,Everyone's trying their best to regain what they have lost.
+Dialogue: 0,0:20:19.13,0:20:22.93,Offscreen,,0,0,90,,Your father is just one of those people.
+Dialogue: 0,0:20:28.85,0:20:32.56,Default,,0,0,90,,You love the stars more than anything...
+Dialogue: 0,0:20:32.56,0:20:34.85,Default,,0,0,90,,...and longed for space more than anyone else.
+Dialogue: 0,0:20:36.06,0:20:40.73,Default,,0,0,90,,That's all you have to think about, little one.
+Dialogue: 0,0:20:40.74,0:20:42.95,Default,,0,0,90,,The truth of the past isn't needed.
+Dialogue: 0,0:20:43.57,0:20:45.95,Offscreen,,0,0,90,,Your strong feelings are enough.
+Dialogue: 0,0:20:48.62,0:20:50.70,Default,,0,0,90,,But you loved her right?
+Dialogue: 0,0:20:50.70,0:20:55.00,Default,,0,0,90,,You've always, always loved sensei, right?
+Dialogue: 0,0:20:55.83,0:20:59.63,Default,,0,0,90,,You can't even tell her your feelings anymore...
+Dialogue: 0,0:20:59.63,0:21:02.38,Default,,0,0,90,,You can't tell her that you love her...
+Dialogue: 0,0:21:21.53,0:21:25.95,Default,,0,0,90,,Little one, do you know what this song is?
+Dialogue: 0,0:21:27.41,0:21:30.91,Default,,0,0,90,,It's called "Look up at the stars in the night."
+Dialogue: 0,0:21:30.91,0:21:32.58,Default,,0,0,90,,It's a good song right?
+Dialogue: 0,0:21:32.58,0:21:35.25,Default,,0,0,90,,It's the first song that I learned on this harmonica.
+Dialogue: 0,0:22:02.73,0:22:05.40,Flashback,,0,0,90,,Really? Me too!
+Dialogue: 0,0:22:06.07,0:22:08.41,Flashback,,0,0,90,,That's my favorite song too!
+Dialogue: 0,0:22:17.25,0:22:19.50,Offscreen,,0,0,90,,Yuuko-sensei, one more!
+Dialogue: 0,0:22:20.96,0:22:22.71,Offscreen,,0,0,90,,I'm taking it!
+Dialogue: 0,0:22:25.67,0:22:27.13,Default,,0,0,90,,Sensei?
+Dialogue: 0,0:22:33.47,0:22:35.77,Default,,0,0,90,,I can hear that song...
+Dialogue: 0,0:22:48.32,0:22:53.16,Offscreen,,0,0,90,,I think I'll try going to Tokyo as well...
+Dialogue: 0,0:24:34.22,0:24:39.97,Title,,0,0,90,,Preview
+Dialogue: 0,0:24:34.51,0:24:39.97,Default,,0,0,90,,Kasane-chan... that name is a memory that moves my heart.
+Dialogue: 0,0:24:39.97,0:24:42.73,Default,,0,0,90,,Why can't people be honest?
+Dialogue: 0,0:24:42.73,0:24:49.02,Default,,0,0,90,,The memory of hurting a friend still envelopes my feelings.
+Dialogue: 0,0:24:49.03,0:24:52.99,Default,,0,0,90,,Please look at the stars when you're feeling sad, Kasane-chan!
+Dialogue: 0,0:24:52.99,0:25:00.08,Default,,0,0,90,,Next time on Twin Spica: Our Star, The leaf Star.

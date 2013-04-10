@@ -21,271 +21,275 @@ WrapStyle: 0
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Spica - Main,Avenir LT Std,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
-Style: Spica - Offscreen,Avenir LT Std,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
-Style: Spica - Secondary,Avenir LT Std,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
-Style: Spica - Flashback,Avenir LT Std,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,-1,0,0,95,100,0,0,1,2,0,2,50,50,20,1
-Style: Spica - Italic,Avenir LT Std,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,-1,0,0,95,100,0,0,1,2,0,2,50,50,20,1
-Style: Spica - Notes,Avenir LT Std,24,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,8,50,50,20,1
-Style: Spica - Title,Cabin,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,0,2.5,2,10,10,148,1
-Style: Spica - Signs,Arial,25,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
+Style: Default,Avenir LT Std 55 Roman,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
+Style: Offscreen,Avenir LT Std 55 Roman,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
+Style: Secondary,Avenir LT Std 55 Roman,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
+Style: Flashback,Avenir LT Std 55 Roman,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,-1,0,0,95,100,0,0,1,2,0,2,50,50,20,1
+Style: Italic,Avenir LT Std 55 Roman,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,-1,0,0,95,100,0,0,1,2,0,2,50,50,20,1
+Style: Notes,Avenir LT Std 55 Roman,24,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,8,50,50,20,1
+Style: Title,Cabin,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,0,2.5,2,10,10,148,1
+Style: OP - English,Praxis LT Pro,28,&H00E0F0FB,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,20,1
+Style: OP - Kara,Praxis LT Pro,28,&H00E0F0FB,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,50,50,20,1
+Style: ED - English,Praxis LT Pro,28,&H00EBDDDF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,2,50,50,20,1
+Style: ED - Kara,Praxis LT Pro,28,&H00EBDDDF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,50,50,20,1
+Style: Signs,Avenir LT Std 55 Roman,25,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:58.61,0:02:00.24,Spica - Main,,0,0,90,,Mom.
-Dialogue: 0,0:02:01.41,0:02:03.70,Spica - Main,,0,0,90,,It's me, Asumi.
-Dialogue: 0,0:02:03.70,0:02:06.83,Spica - Main,,0,0,90,,I eamefrMVW waster
-Dialogue: 0,0:02:07.71,0:02:10.33,Spica - Main,,0,0,90,,I drove the rocket by myself.
-Dialogue: 0,0:02:11.54,0:02:16.42,Spica - Main,,0,0,90,,There's just one thing I've always wanted to say to you.
-Dialogue: 0,0:02:17.17,0:02:18.55,Spica - Main,,0,0,90,,11 say it, okay?
-Dialogue: 0,0:02:19.13,0:02:24.56,Spica - Main,,0,0,90,,Mom, thank you for giving birfh to me.
-Dialogue: 0,0:02:25.97,0:02:30.98,Spica - Title,,0,0,90,,Gaze Into Tomorrow
-Dialogue: 0,0:02:54.25,0:02:57.05,Spica - Signs,,0,0,90,,Tokyo National Space School
-Dialogue: 0,0:03:07.47,0:03:08.68,Spica - Main,,0,0,90,,NtehWasemei.
-Dialogue: 0,0:03:08.68,0:03:10.73,Spica - Main,,0,0,90,,Him? What's wrong?
-Dialogue: 0,0:03:12.81,0:03:17.57,Spica - Main,,0,0,90,,There are three others aside from Kamogawa\Nwho are moving away from location A.
-Dialogue: 0,0:03:17.57,0:03:19.03,Spica - Main,,0,0,90,,What did you say9!
-Dialogue: 0,0:03:20.07,0:03:21.15,Spica - Main,,0,0,90,,Who are they?
-Dialogue: 0,0:03:24.82,0:03:29.24,Spica - Main,,0,0,90,,They are Suzuki Shuu, Fuchuuya Shinnosuke, and Oumi Kei.
-Dialogue: 0,0:03:30.00,0:03:32.46,Spica - Main,,0,0,90,,I litougltt it'd be them...
-Dialogue: 0,0:03:32.46,0:03:34.58,Spica - Main,,0,0,90,,(reez! Everyone in that little group going together.
-Dialogue: 0,0:03:37.63,0:03:38.46,Spica - Main,,0,0,90,,Could it be..
-Dialogue: 0,0:03:39.51,0:03:42.59,Spica - Main,,0,0,90,,Could it be that they're looking for me?
-Dialogue: 0,0:03:43.93,0:03:48.01,Spica - Main,,0,0,90,,Anyway go and pick up the rest of the students at location A.
-Dialogue: 0,0:03:48.01,0:03:49.10,Spica - Main,,0,0,90,,I'll see that ffs done.
-Dialogue: 0,0:03:51.60,0:03:54.48,Spica - Main,,0,0,90,,There's someone looking for me*.
-Dialogue: 0,0:03:58.15,0:04:00.73,Spica - Main,,0,0,90,,For something as small as that...
-Dialogue: 0,0:04:04.41,0:04:06.87,Spica - Main,,0,0,90,,to wake we lWt happy...
-Dialogue: 0,0:04:09.58,0:04:11.04,Spica - Main,,0,0,90,,And also...
-Dialogue: 0,0:04:11.04,0:04:13.04,Spica - Main,,0,0,90,,There's still something?
-Dialogue: 0,0:04:13.04,0:04:16.92,Spica - Main,,0,0,90,,Kamogawa Asumi* signal hasn't moved for a while.
-Dialogue: 0,0:04:16.92,0:04:17.79,Spica - Main,,0,0,90,,Whar.
-Dialogue: 0,0:04:19.50,0:04:22.84,Spica - Main,,0,0,90,,H would be all right it she's jest staying bi one plaee~
-Dialogue: 0,0:04:22.84,0:04:26.64,Spica - Main,,0,0,90,,but it could be that she dropped her transmitter.
-Dialogue: 0,0:04:28.35,0:04:28.89,Spica - Main,,0,0,90,,Hey!
-Dialogue: 0,0:04:28.89,0:04:29.72,Spica - Main,,0,0,90,,w
-Dialogue: 0,0:04:29.72,0:04:32.47,Spica - Main,,0,0,90,,Just in case, one of you go to the scene.
-Dialogue: 0,0:04:32.48,0:04:33.10,Spica - Main,,0,0,90,,Yes!
-Dialogue: 0,0:04:34.10,0:04:35.10,Spica - Main,,0,0,90,,Hm*
-Dialogue: 0,0:04:36.48,0:04:38.44,Spica - Main,,0,0,90,,Oo	oh, Ukfta.
-Dialogue: 0,0:04:39.40,0:04:42.61,Spica - Main,,0,0,90,,IH wring all five of your weeks after this, though.
-Dialogue: 0,0:04:55.92,0:04:57.00,Spica - Main,,0,0,90,,Which way should we go?
-Dialogue: 0,0:04:57.00,0:05:00.09,Spica - Main,,0,0,90,,Who knows... ask her feet.
-Dialogue: 0,0:05:00.09,0:05:02.42,Spica - Main,,0,0,90,,If it were you, Fuccht where would you go?
-Dialogue: 0,0:05:02.42,0:05:03.88,Spica - Main,,0,0,90,,What do you mean by where
-Dialogue: 0,0:05:03.88,0:05:08.26,Spica - Main,,0,0,90,,1	have a feeling that the little seagull will\Ndefinitely go baek to UkHa dan's capsule.
-Dialogue: 0,0:05:08.76,0:05:13.10,Spica - Main,,0,0,90,,And then from there* try to find signs of her movement again.
-Dialogue: 0,0:05:13.64,0:05:14.81,Spica - Main,,0,0,90,,That's true!
-Dialogue: 0,0:05:14.81,0:05:16.77,Spica - Main,,0,0,90,,Thai, let's do that as well!
-Dialogue: 0,0:05:16.77,0:05:20.77,Spica - Main,,0,0,90,,The problem is we don't know where the capsule is.
-Dialogue: 0,0:05:20.77,0:05:21.69,Spica - Main,,0,0,90,,That's true, too...
-Dialogue: 0,0:05:22.28,0:05:24.49,Spica - Main,,0,0,90,,Say that first next time, will you?
-Dialogue: 0,0:05:24.49,0:05:26.61,Spica - Main,,0,0,90,,She's always been like this in the past.
-Dialogue: 0,0:05:26.61,0:05:29.49,Spica - Main,,0,0,90,,Whenever I get involved with her, there are always hardships.
-Dialogue: 0,0:05:29.49,0:05:32.53,Spica - Main,,0,0,90,,Thai, why don't you go back to location A alone?
-Dialogue: 0,0:05:32.54,0:05:36.33,Spica - Main,,0,0,90,,Tbafs difficult to do how, too, so I'll continue together with you.
-Dialogue: 0,0:05:36.33,0:05:39.96,Spica - Main,,0,0,90,,It seems Wee you weren't honest with yourself in the past, either.
-Dialogue: 0,0:05:39.96,0:05:41.54,Spica - Main,,0,0,90,,What do you mean by that?!
-Dialogue: 0,0:05:41.54,0:05:43.34,Spica - Main,,0,0,90,,It weans just what I said.
-Dialogue: 0,0:06:01.98,0:06:04.78,Spica - Main,,0,0,90,,If* like a mummy hunter turning into a mummy!
-Dialogue: 0,0:06:04.78,0:06:08.78,Spica - Main,,0,0,90,,WdL walking around aimlessly is definitely a waste of time.
-Dialogue: 0,0:06:08.78,0:06:11.20,Spica - Main,,0,0,90,,Attd there * also the problem of how\Nmuch of this our bodies can endure.
-Dialogue: 0,0:06:11.74,0:06:13.87,Spica - Main,,0,0,90,,Then what are we going to do7!
-Dialogue: 0,0:06:18.83,0:06:21.04,Spica - Main,,0,0,90,,Asumil
-Dialogue: 0,0:06:21.58,0:06:24.09,Spica - Main,,0,0,90,,Marika!
-Dialogue: 0,0:06:26.17,0:06:28.67,Spica - Main,,0,0,90,,Asumi!
-Dialogue: 0,0:06:34.97,0:06:37.10,Spica - Main,,0,0,90,,I have no strength left...
-Dialogue: 0,0:06:37.56,0:06:38.81,Spica - Main,,0,0,90,,let's eat.
-Dialogue: 0,0:06:38.81,0:06:39.64,Spica - Main,,0,0,90,,Huh?
-Dialogue: 0,0:06:39.64,0:06:42.94,Spica - Main,,0,0,90,,Let's start eating the rations we got from Kamogawa.
-Dialogue: 0,0:06:42.94,0:06:43.98,Spica - Main,,0,0,90,,You ean il
-Dialogue: 0,0:06:43.98,0:06:45.15,Spica - Main,,0,0,90,,Whaf 
-Dialogue: 0,0:06:45.15,0:06:46.65,Spica - Main,,0,0,90,,It'd just be a Kttte.
-Dialogue: 0,0:06:46.65,0:06:47.69,Spica - Main,,0,0,90,,No!
-Dialogue: 0,0:06:47.69,0:06:50.15,Spica - Main,,0,0,90,,I'm keeping this for Asumi!
-Dialogue: 0,0:06:50.16,0:06:51.03,Spica - Main,,0,0,90,,Hub?
-Dialogue: 0,0:06:51.03,0:06:53.70,Spica - Main,,0,0,90,,You don't have to keep all of it.
-Dialogue: 0,0:06:53.70,0:06:55.53,Spica - Main,,0,0,90,,l'm keeping al of Hi
-Dialogue: 0,0:06:55.54,0:06:58.29,Spica - Main,,0,0,90,,Fm keeping them all for Asumi and Marika!
-Dialogue: 0,0:06:58.29,0:06:59.91,Spica - Main,,0,0,90,,Whatever, I don't get you at all.
-Dialogue: 0,0:07:01.37,0:07:03.29,Spica - Main,,0,0,90,,Whaf's do funny9
-Dialogue: 0,0:07:03.75,0:07:07.80,Spica - Main,,0,0,90,,It means that even all of us together are no match for the little seagull.
-Dialogue: 0,0:07:07.80,0:07:10.17,Spica - Main,,0,0,90,,Now then, let's get going, Foeehi.
-Dialogue: 0,0:07:15.97,0:07:19.43,Spica - Main,,0,0,90,,What's most important is your heart.
-Dialogue: 0,0:07:20.48,0:07:23.98,Spica - Main,,0,0,90,,What's most important is your heart.
-Dialogue: 0,0:07:28.74,0:07:32.65,Spica - Main,,0,0,90,,What's most important is your heart.
-Dialogue: 0,0:07:43.75,0:07:45.25,Spica - Main,,0,0,90,,What is ttiis
-Dialogue: 0,0:07:45.25,0:07:47.46,Spica - Main,,0,0,90,,It's a landmark that the little seagull put here.
-Dialogue: 0,0:07:47.46,0:07:48.50,Spica - Main,,0,0,90,,Kamogawa did?
-Dialogue: 0,0:07:48.51,0:07:50.05,Spica - Main,,0,0,90,,There's ho mistake.
-Dialogue: 0,0:07:50.05,0:07:52.38,Spica - Main,,0,0,90,,How would you know?
-Dialogue: 0,0:07:52.38,0:07:55.18,Spica - Main,,0,0,90,,The little seagull doesn't have a compass.
-Dialogue: 0,0:07:56.60,0:08:01.73,Spica - Main,,0,0,90,,That's why she placed signs as she moved forward.
-Dialogue: 0,0:08:01.73,0:08:03.02,Spica - Main,,0,0,90,,What do you mean?
-Dialogue: 0,0:08:03.02,0:08:05.52,Spica - Main,,0,0,90,,Anyway, let's follow this sign.
-Dialogue: 0,0:08:24.21,0:08:27.08,Spica - Main,,0,0,90,,Kamogawa-san wifi surely come here.
-Dialogue: 0,0:08:38.93,0:08:42.81,Spica - Main,,0,0,90,,tvt with her speed, she should have already arrived here..
-Dialogue: 0,0:08:50.86,0:08:52.82,Spica - Main,,0,0,90,,Where could you possibly be?
-Dialogue: 0,0:08:56.49,0:08:57.32,Spica - Main,,0,0,90,,There it is.
-Dialogue: 0,0:08:59.87,0:09:00.95,Spica - Main,,0,0,90,,Here, too
-Dialogue: 0,0:09:14.97,0:09:16.26,Spica - Main,,0,0,90,,Kamogawa-san..
-Dialogue: 0,0:09:20.43,0:09:22.56,Spica - Main,,0,0,90,,Kamogawa-san!
-Dialogue: 0,0:10:01.60,0:10:02.72,Spica - Main,,0,0,90,,Marika-chan..
-Dialogue: 0,0:10:18.15,0:10:19.41,Spica - Main,,0,0,90,,Uttle one.
-Dialogue: 0,0:10:25.62,0:10:27.04,Spica - Main,,0,0,90,,A capsule!
-Dialogue: 0,0:10:27.04,0:10:27.96,Spica - Main,,0,0,90,,Whose is ft?
-Dialogue: 0,0:10:34.09,0:10:35.38,Spica - Main,,0,0,90,,This is it.
-Dialogue: 0,0:10:35.38,0:10:37.30,Spica - Main,,0,0,90,,The capsule that ihe RtHe seagull was talking about.
-Dialogue: 0,0:10:38.97,0:10:40.01,Spica - Main,,0,0,90,,Mood...
-Dialogue: 0,0:10:40.01,0:10:41.05,Spica - Main,,0,0,90,,Yeah...
-Dialogue: 0,0:10:41.05,0:10:43.72,Spica - Main,,0,0,90,,I wonder what happened to Marika...
-Dialogue: 0,0:10:43.72,0:10:46.39,Spica - Main,,0,0,90,,in any case, left look for the next arrow.
-Dialogue: 0,0:10:50.73,0:10:52.40,Spica - Main,,0,0,90,,UoMsan...
-Dialogue: 0,0:10:52.86,0:10:55.07,Spica - Main,,0,0,90,,Are you all right, little one?
-Dialogue: 0,0:10:55.07,0:10:57.99,Spica - Main,,0,0,90,,I'm fine-. just a little tired.
-Dialogue: 0,0:10:58.70,0:10:59.70,Spica - Main,,0,0,90,,ltd
-Dialogue: 0,0:11:10.04,0:11:11.83,Spica - Main,,0,0,90,,Hey Uoti sa*
-Dialogue: 0,0:11:11.83,0:11:12.83,Spica - Main,,0,0,90,,Hm?
-Dialogue: 0,0:11:12.83,0:11:15.38,Spica - Main,,0,0,90,,Was I mistaken?
-Dialogue: 0,0:11:15.38,0:11:16.50,Spica - Main,,0,0,90,,About what?
-Dialogue: 0,0:11:16.96,0:11:20.67,Spica - Main,,0,0,90,,I mean, I dropped out of tt»e survival training to come out here...
-Dialogue: 0,0:11:21.09,0:11:25.72,Spica - Main,,0,0,90,,Marika-chan's probably been rescued like Suzuki-kun said.
-Dialogue: 0,0:11:26.22,0:11:28.89,Spica - Main,,0,0,90,,What fnt doing is meaningless, right9
-Dialogue: 0,0:11:30.02,0:11:32.81,Spica - Main,,0,0,90,,Is -that what you really think?
-Dialogue: 0,0:11:34.31,0:11:36.19,Spica - Main,,0,0,90,,Listen to your heart.
-Dialogue: 0,0:11:38.11,0:11:43.61,Spica - Main,,0,0,90,,The actions that you decided to take were never meaningless.
-Dialogue: 0,0:11:44.16,0:11:45.24,Spica - Main,,0,0,90,,But...
-Dialogue: 0,0:11:46.33,0:11:47.41,Spica - Main,,0,0,90,,Listen...
-Dialogue: 0,0:11:48.16,0:11:52.08,Spica - Main,,0,0,90,,The many things you have done up until now...
-Dialogue: 0,0:11:52.08,0:11:55.08,Spica - Main,,0,0,90,,The many people you b've met op until now...
-Dialogue: 0,0:11:55.09,0:12:00.21,Spica - Main,,0,0,90,,They are al stars that shape your universe.
-Dialogue: 0,0:12:01.17,0:12:02.47,Spica - Main,,0,0,90,,tars?
-Dialogue: 0,0:12:04.14,0:12:09.18,Spica - Main,,0,0,90,,Kei-chan, MarHca-chan, Fuchuuya-kun, and Suzuki-kun.
-Dialogue: 0,0:12:09.18,0:12:11.98,Spica - Main,,0,0,90,,To you they are all stars.
-Dialogue: 0,0:12:12.89,0:12:15.69,Spica - Main,,0,0,90,,There aren't any meaningless stars, right?
-Dialogue: 0,0:12:16.65,0:12:17.98,Spica - Main,,0,0,90,,That's right...
-Dialogue: 0,0:12:18.65,0:12:20.36,Spica - Main,,0,0,90,,And now...
-Dialogue: 0,0:12:21.82,0:12:24.99,Spica - Main,,0,0,90,,your friends can surely hear it, too.
-Comment: 0,0:12:27.97,0:12:37.98,Spica - Title,,0,0,0,,Eyecatch
-Dialogue: 0,0:12:54.94,0:12:56.10,Spica - Main,,0,0,90,,What is this?
-Dialogue: 0,0:13:00.90,0:13:04.15,Spica - Main,,0,0,90,,This is probably where the little seagull cheeked her bearings.
-Dialogue: 0,0:13:04.15,0:13:05.24,Spica - Main,,0,0,90,,Bearings?
-Dialogue: 0,0:13:05.24,0:13:09.58,Spica - Main,,0,0,90,,Then, she most likely went straight to the goal from here.
-Dialogue: 0,0:13:09.58,0:13:13.29,Spica - Main,,0,0,90,,This means that following any more arrows would be useless.
-Dialogue: 0,0:13:13.29,0:13:15.50,Spica - Main,,0,0,90,,They would lead to location A.
-Dialogue: 0,0:13:15.50,0:13:17.50,Spica - Main,,0,0,90,,Then, where do we look?
-Dialogue: 0,0:13:21.50,0:13:22.42,Spica - Main,,0,0,90,,Asumi...
-Dialogue: 0,0:13:23.13,0:13:25.84,Spica - Main,,0,0,90,,Asumi where did you go?
-Dialogue: 0,0:13:25.84,0:13:26.72,Spica - Main,,0,0,90,,Geez..
-Dialogue: 0,0:13:30.76,0:13:33.27,Spica - Main,,0,0,90,,I can hear something...
-Dialogue: 0,0:13:41.52,0:13:44.40,Spica - Main,,0,0,90,,It's no use. I can't find her like this.
-Dialogue: 0,0:13:44.40,0:13:46.74,Spica - Main,,0,0,90,,Where are you, Kamogawa-san?
-Dialogue: 0,0:13:57.96,0:13:58.87,Spica - Main,,0,0,90,,What?
-Dialogue: 0,0:14:25.90,0:14:27.57,Spica - Main,,0,0,90,,What was that Just how?
-Dialogue: 0,0:14:30.57,0:14:33.66,Spica - Main,,0,0,90,,Uoh San...?
-Dialogue: 0,0:14:37.16,0:14:38.58,Spica - Main,,0,0,90,,lion san...
-Dialogue: 0,0:14:47.34,0:14:50.97,Spica - Main,,0,0,90,,It's true, I can hear it...
-Dialogue: 0,0:14:52.39,0:14:54.43,Spica - Main,,0,0,90,,The sound of a harmonica...
-Dialogue: 0,0:14:55.72,0:14:57.39,Spica - Main,,0,0,90,,Harmonica?
-Dialogue: 0,0:14:57.39,0:14:59.14,Spica - Main,,0,0,90,,If I remember right...
-Dialogue: 0,0:14:59.14,0:15:02.02,Spica - Main,,0,0,90,,I hear it... the sound of a harmonica...
-Dialogue: 0,0:15:02.02,0:15:03.44,Spica - Main,,0,0,90,,Are you a dummy?
-Dialogue: 0,0:15:03.44,0:15:07.82,Spica - Main,,0,0,90,,in the middle of the mountains?
-Dialogue: 0,0:15:03.44,0:15:07.82,Spica - Main,,0,0,90,,Why would you hear a harmonica
-Dialogue: 0,0:15:07.82,0:15:11.20,Spica - Main,,0,0,90,,I hear it Lioti-san's harmonica!
-Dialogue: 0,0:15:11.20,0:15:12.66,Spica - Main,,0,0,90,,HHeyi
-Dialogue: 0,0:15:15.74,0:15:17.24,Spica - Main,,0,0,90,,Lion-san?
-Dialogue: 0,0:15:17.91,0:15:22.46,Spica - Main,,0,0,90,,my dad and Lion-san wffl get special free rides!
-Dialogue: 0,0:15:24.50,0:15:26.80,Spica - Main,,0,0,90,,Hey let's go to where Kamogawa is.
-Dialogue: 0,0:15:26.80,0:15:27.80,Spica - Main,,0,0,90,,Huh?
-Dialogue: 0,0:15:28.63,0:15:30.01,Spica - Main,,0,0,90,,F Fucchi!
-Dialogue: 0,0:16:08.46,0:16:10.21,Spica - Main,,0,0,90,,It's dose...
-Dialogue: 0,0:16:21.06,0:16:22.10,Spica - Main,,0,0,90,,Kamogawa-san?
-Dialogue: 0,0:16:28.57,0:16:29.90,Spica - Main,,0,0,90,,Asumi!
-Dialogue: 0,0:16:34.16,0:16:36.87,Spica - Main,,0,0,90,,Asumi!
-Dialogue: 0,0:16:42.33,0:16:44.83,Spica - Main,,0,0,90,,Marikacban...
-Dialogue: 0,0:16:44.83,0:16:46.63,Spica - Main,,0,0,90,,I fefl asleep.
-Dialogue: 0,0:16:47.34,0:16:48.75,Spica - Main,,0,0,90,,You're all right?
-Dialogue: 0,0:16:48.75,0:16:49.50,Spica - Main,,0,0,90,,Yeah.
-Dialogue: 0,0:16:50.63,0:16:52.13,Spica - Main,,0,0,90,,Thank goodness.
-Dialogue: 0,0:16:52.13,0:16:54.84,Spica - Main,,0,0,90,,Thank goodness that you're all right, too.
-Dialogue: 0,0:16:57.60,0:17:00.76,Spica - Main,,0,0,90,,You called me Asumi for the first time just now, didn't you?
-Dialogue: 0,0:17:06.10,0:17:09.73,Spica - Main,,0,0,90,,I knew it You look so much cuter when yoo smile,
-Dialogue: 0,0:17:11.03,0:17:11.65,Spica - Main,,0,0,90,,Hm?
-Dialogue: 0,0:17:13.40,0:17:16.61,Spica - Main,,0,0,90,,I said some horrible things to yoo...
-Dialogue: 0,0:17:16.61,0:17:17.03,Spica - Main,,0,0,90,,Huh?
-Dialogue: 0,0:17:18.12,0:17:19.53,Spica - Main,,0,0,90,,I'm sorry...
-Dialogue: 0,0:17:20.74,0:17:22.49,Spica - Main,,0,0,90,,Don't worry about it.
-Dialogue: 0,0:17:22.50,0:17:23.62,Spica - Main,,0,0,90,,But...
-Dialogue: 0,0:17:23.62,0:17:29.42,Spica - Main,,0,0,90,,Hey you don't hate being with everyone, right?
-Dialogue: 0,0:17:29.42,0:17:32.38,Spica - Main,,0,0,90,,You're just not used to it and feel a little uncomfortable, right?
-Dialogue: 0,0:17:34.55,0:17:39.30,Spica - Main,,0,0,90,,I still want to talk wrth you wore about lots and lots of things.
-Dialogue: 0,0:17:40.10,0:17:43.35,Spica - Main,,0,0,90,,Talc about the stars, about space*.
-Dialogue: 0,0:17:44.35,0:17:49.40,Spica - Main,,0,0,90,,And 1 stfl haven't heard your dream.
-Dialogue: 0,0:17:56.32,0:17:57.57,Spica - Main,,0,0,90,,Asumi!
-Dialogue: 0,0:17:57.57,0:17:58.70,Spica - Main,,0,0,90,,Marika!
-Dialogue: 0,0:17:59.62,0:18:00.70,Spica - Main,,0,0,90,,Kei-chan!
-Dialogue: 0,0:18:00.70,0:18:03.29,Spica - Main,,0,0,90,,Fuchuuya-kun and Suzuki-kun, tool
-Dialogue: 0,0:18:03.29,0:18:04.70,Spica - Main,,0,0,90,,Asumil
-Dialogue: 0,0:18:06.29,0:18:07.92,Spica - Main,,0,0,90,,thank goodness!
-Dialogue: 0,0:18:09.29,0:18:12.88,Spica - Main,,0,0,90,,Italy... don't make os worry so moeh abort you.
-Dialogue: 0,0:18:12.88,0:18:16.63,Spica - Main,,0,0,90,,I believed that you two would be fine, though.
-Dialogue: 0,0:18:17.22,0:18:19.51,Spica - Main,,0,0,90,,Thank you, everyone.
-Dialogue: 0,0:18:27.69,0:18:29.65,Spica - Signs,,0,0,90,,Oumi Kei
-Dialogue: 0,0:18:30.77,0:18:32.15,Spica - Main,,0,0,90,,Oumi Kei.
-Dialogue: 0,0:18:33.15,0:18:39.36,Spica - Main,,0,0,90,,spend their lives knowing nothing but the Earth.
-Dialogue: 0,0:18:33.15,0:18:39.36,Spica - Main,,0,0,90,,It's a little frustrating that most people have to
-Dialogue: 0,0:18:39.36,0:18:42.83,Spica - Main,,0,0,90,,When I saw the picture taken from Apoto at the moon...
-Dialogue: 0,0:18:42.83,0:18:45.58,Spica - Main,,0,0,90,,I got such a mysterious feeling inside of me.
-Dialogue: 0,0:18:45.58,0:18:48.87,Spica - Main,,0,0,90,,You can still take pictures, even on the Moon.
-Dialogue: 0,0:18:48.87,0:18:51.33,Spica - Main,,0,0,90,,It's a place that actually exists.
-Dialogue: 0,0:18:52.59,0:18:55.09,Spica - Main,,0,0,90,,I want to go to the Moon, too.
-Dialogue: 0,0:18:55.09,0:18:57.55,Spica - Main,,0,0,90,,I want to take a picture oh tin Moon.
-Dialogue: 0,0:18:57.55,0:19:02.97,Spica - Main,,0,0,90,,I think from those dreams, I have decided\Nto take the path of an astronaut.
-Dialogue: 0,0:19:02.97,0:19:04.97,Spica - Signs,,0,0,90,,\NSuzuki Shuu
-Dialogue: 0,0:19:05.64,0:19:07.39,Spica - Main,,0,0,90,,Suzuki Shoo.
-Dialogue: 0,0:19:08.10,0:19:12.19,Spica - Main,,0,0,90,,The reason I want to go to space is that space is there.
-Dialogue: 0,0:19:12.19,0:19:14.02,Spica - Main,,0,0,90,,Because stars are there.
-Dialogue: 0,0:19:14.57,0:19:16.28,Spica - Main,,0,0,90,,That doesn't count as a reason?
-Dialogue: 0,0:19:16.28,0:19:18.03,Spica - Main,,0,0,90,,That's stfl fbie with me.
-Dialogue: 0,0:19:18.03,0:19:21.66,Spica - Main,,0,0,90,,I don't want the things that are given to me from the start.
-Dialogue: 0,0:19:21.66,0:19:24.70,Spica - Main,,0,0,90,,What I want are the things I don't have yet.
-Dialogue: 0,0:19:24.70,0:19:27.37,Spica - Main,,0,0,90,,Fm just that type of person, so if can't be helped.
-Dialogue: 0,0:19:28.20,0:19:31.33,Spica - Main,,0,0,90,,I want to Me the stars eloser than anyone else.
-Dialogue: 0,0:19:31.33,0:19:33.33,Spica - Signs,,0,0,90,,Fuchuuya Shinnosuke
-Dialogue: 0,0:19:33.75,0:19:35.84,Spica - Main,,0,0,90,,Fuchuuya Shinnosuke.
-Dialogue: 0,0:19:36.71,0:19:39.38,Spica - Main,,0,0,90,,There are always some people who\Nare completely unpredictable*.
-Dialogue: 0,0:19:39.38,0:19:42.26,Spica - Main,,0,0,90,,-and people who are always anxious because of those people.
-Dialogue: 0,0:19:42.26,0:19:45.85,Spica - Main,,0,0,90,,thou, then they're just too unstable.
-Dialogue: 0,0:19:42.26,0:19:45.85,Spica - Main,,0,0,90,,If they don't stick by watching over
-Dialogue: 0,0:19:45.85,0:19:49.27,Spica - Main,,0,0,90,,If that person were to say that they'll become an astronaut...
-Dialogue: 0,0:19:49.27,0:19:52.31,Spica - Main,,0,0,90,,choice but to follow the whole way.
-Dialogue: 0,0:19:49.27,0:19:52.31,Spica - Main,,0,0,90,,then the other person would Have no
-Dialogue: 0,0:19:52.31,0:19:56.69,Spica - Main,,0,0,90,,There way be people who go to space because of such reasons.
-Dialogue: 0,0:19:57.03,0:20:00.24,Spica - Main,,0,0,90,,Ws not saying I'm one of Hiem, though...
-Dialogue: 0,0:20:00.24,0:20:02.20,Spica - Signs,,0,0,90,,Ukita Marika
-Dialogue: 0,0:20:02.78,0:20:04.70,Spica - Main,,0,0,90,,UkHa Marika.
-Dialogue: 0,0:20:05.28,0:20:09.20,Spica - Main,,0,0,90,,I thought there was ho place for me on Earth.
-Dialogue: 0,0:20:09.20,0:20:13.96,Spica - Main,,0,0,90,,To me, who has never played wtth\Nfriends or laughed with family...
-Dialogue: 0,0:20:13.96,0:20:21.42,Spica - Main,,0,0,90,,the starry sky I could see from the window was more\Nkind and friendly than the cold human world.
-Dialogue: 0,0:20:23.64,0:20:26.26,Spica - Main,,0,0,90,,When I think about my other self...
-Dialogue: 0,0:20:26.26,0:20:29.35,Spica - Main,,0,0,90,,my own existence seems like ft's about to fade away.
-Dialogue: 0,0:20:29.35,0:20:31.39,Spica - Main,,0,0,90,,I believed that if this was how I felt...
-Dialogue: 0,0:20:31.39,0:20:35.69,Spica - Main,,0,0,90,,I'd fed more happy if I was in space by myself.
-Dialogue: 0,0:20:36.23,0:20:40.69,Spica - Main,,0,0,90,,At least... until I met Asumi.
-Dialogue: 0,0:20:53.04,0:20:55.12,Spica - Main,,0,0,90,,UoHm. san..
-Dialogue: 0,0:20:58.92,0:21:01.76,Spica - Main,,0,0,90,,There's nothing more for me to tell you.
-Dialogue: 0,0:21:05.76,0:21:10.51,Spica - Main,,0,0,90,,little one, the next age lies in all of your hands.
-Dialogue: 0,0:21:35.62,0:21:37.04,Spica - Main,,0,0,90,,Lion-san..
-Dialogue: 0,0:21:46.51,0:21:47.59,Spica - Main,,0,0,90,,Lion-san..
-Dialogue: 0,0:22:18.54,0:22:21.04,Spica - Signs,,0,0,90,,Kamogawa Asumi
-Dialogue: 0,0:22:18.83,0:22:20.46,Spica - Main,,0,0,90,,Kamogawa Asumi.
-Dialogue: 0,0:22:21.42,0:22:24.63,Spica - Main,,0,0,90,,My dream is to become an astronaut...
-Dialogue: 0,0:22:24.63,0:22:30.89,Spica - Main,,0,0,90,,.and go to space with Kei-chan Suzuld kun\NFuchuuya-kun, and Marika-chan
-Dialogue: 0,0:22:30.89,0:22:35.60,Spica - Main,,0,0,90,,Then talk to my mother in space like this~.
-Dialogue: 0,0:22:35.98,0:22:36.98,Spica - Main,,0,0,90,,Mow.
-Dialogue: 0,0:22:36.98,0:22:39.02,Spica - Main,,0,0,90,,Ifs m* Asumi!
-Dialogue: 0,0:22:39.02,0:22:43.57,Spica - Main,,0,0,90,,There's just oik thing Pve always wanted to say to you.
-Dialogue: 0,0:22:45.40,0:22:46.74,Spica - Main,,0,0,90,,Illsa (tola ?
-Dialogue: 0,0:22:49.41,0:22:54.79,Spica - Main,,0,0,90,,Mom thank you for giving Nrlti to me.
-Dialogue: 0,0:24:50.28,0:24:51.32,Spica - Main,,0,0,90,,HHuh?
+Dialogue: 0,0:01:58.61,0:02:00.24,Default,,0,0,90,,Mom.
+Dialogue: 0,0:02:01.41,0:02:03.70,Default,,0,0,90,,It's me, Asumi.
+Dialogue: 0,0:02:03.70,0:02:06.83,Default,,0,0,90,,I eamefrMVW waster
+Dialogue: 0,0:02:07.71,0:02:10.33,Default,,0,0,90,,I drove the rocket by myself.
+Dialogue: 0,0:02:11.54,0:02:16.42,Default,,0,0,90,,There's just one thing I've always wanted to say to you.
+Dialogue: 0,0:02:17.17,0:02:18.55,Default,,0,0,90,,11 say it, okay?
+Dialogue: 0,0:02:19.13,0:02:24.56,Default,,0,0,90,,Mom, thank you for giving birfh to me.
+Dialogue: 0,0:02:25.97,0:02:30.98,Title,,0,0,90,,Gaze Into Tomorrow
+Dialogue: 0,0:02:54.25,0:02:57.05,Signs,,0,0,90,,Tokyo National Space School
+Dialogue: 0,0:03:07.47,0:03:08.68,Default,,0,0,90,,NtehWasemei.
+Dialogue: 0,0:03:08.68,0:03:10.73,Default,,0,0,90,,Him? What's wrong?
+Dialogue: 0,0:03:12.81,0:03:17.57,Default,,0,0,90,,There are three others aside from Kamogawa\Nwho are moving away from location A.
+Dialogue: 0,0:03:17.57,0:03:19.03,Default,,0,0,90,,What did you say9!
+Dialogue: 0,0:03:20.07,0:03:21.15,Default,,0,0,90,,Who are they?
+Dialogue: 0,0:03:24.82,0:03:29.24,Default,,0,0,90,,They are Suzuki Shuu, Fuchuuya Shinnosuke, and Oumi Kei.
+Dialogue: 0,0:03:30.00,0:03:32.46,Default,,0,0,90,,I litougltt it'd be them...
+Dialogue: 0,0:03:32.46,0:03:34.58,Default,,0,0,90,,(reez! Everyone in that little group going together.
+Dialogue: 0,0:03:37.63,0:03:38.46,Default,,0,0,90,,Could it be..
+Dialogue: 0,0:03:39.51,0:03:42.59,Default,,0,0,90,,Could it be that they're looking for me?
+Dialogue: 0,0:03:43.93,0:03:48.01,Default,,0,0,90,,Anyway go and pick up the rest of the students at location A.
+Dialogue: 0,0:03:48.01,0:03:49.10,Default,,0,0,90,,I'll see that ffs done.
+Dialogue: 0,0:03:51.60,0:03:54.48,Default,,0,0,90,,There's someone looking for me*.
+Dialogue: 0,0:03:58.15,0:04:00.73,Default,,0,0,90,,For something as small as that...
+Dialogue: 0,0:04:04.41,0:04:06.87,Default,,0,0,90,,to wake we lWt happy...
+Dialogue: 0,0:04:09.58,0:04:11.04,Default,,0,0,90,,And also...
+Dialogue: 0,0:04:11.04,0:04:13.04,Default,,0,0,90,,There's still something?
+Dialogue: 0,0:04:13.04,0:04:16.92,Default,,0,0,90,,Kamogawa Asumi* signal hasn't moved for a while.
+Dialogue: 0,0:04:16.92,0:04:17.79,Default,,0,0,90,,Whar.
+Dialogue: 0,0:04:19.50,0:04:22.84,Default,,0,0,90,,H would be all right it she's jest staying bi one plaee~
+Dialogue: 0,0:04:22.84,0:04:26.64,Default,,0,0,90,,but it could be that she dropped her transmitter.
+Dialogue: 0,0:04:28.35,0:04:28.89,Default,,0,0,90,,Hey!
+Dialogue: 0,0:04:28.89,0:04:29.72,Default,,0,0,90,,w
+Dialogue: 0,0:04:29.72,0:04:32.47,Default,,0,0,90,,Just in case, one of you go to the scene.
+Dialogue: 0,0:04:32.48,0:04:33.10,Default,,0,0,90,,Yes!
+Dialogue: 0,0:04:34.10,0:04:35.10,Default,,0,0,90,,Hm*
+Dialogue: 0,0:04:36.48,0:04:38.44,Default,,0,0,90,,Oo	oh, Ukfta.
+Dialogue: 0,0:04:39.40,0:04:42.61,Default,,0,0,90,,IH wring all five of your weeks after this, though.
+Dialogue: 0,0:04:55.92,0:04:57.00,Default,,0,0,90,,Which way should we go?
+Dialogue: 0,0:04:57.00,0:05:00.09,Default,,0,0,90,,Who knows... ask her feet.
+Dialogue: 0,0:05:00.09,0:05:02.42,Default,,0,0,90,,If it were you, Fuccht where would you go?
+Dialogue: 0,0:05:02.42,0:05:03.88,Default,,0,0,90,,What do you mean by where
+Dialogue: 0,0:05:03.88,0:05:08.26,Default,,0,0,90,,1	have a feeling that the little seagull will\Ndefinitely go baek to UkHa dan's capsule.
+Dialogue: 0,0:05:08.76,0:05:13.10,Default,,0,0,90,,And then from there* try to find signs of her movement again.
+Dialogue: 0,0:05:13.64,0:05:14.81,Default,,0,0,90,,That's true!
+Dialogue: 0,0:05:14.81,0:05:16.77,Default,,0,0,90,,Thai, let's do that as well!
+Dialogue: 0,0:05:16.77,0:05:20.77,Default,,0,0,90,,The problem is we don't know where the capsule is.
+Dialogue: 0,0:05:20.77,0:05:21.69,Default,,0,0,90,,That's true, too...
+Dialogue: 0,0:05:22.28,0:05:24.49,Default,,0,0,90,,Say that first next time, will you?
+Dialogue: 0,0:05:24.49,0:05:26.61,Default,,0,0,90,,She's always been like this in the past.
+Dialogue: 0,0:05:26.61,0:05:29.49,Default,,0,0,90,,Whenever I get involved with her, there are always hardships.
+Dialogue: 0,0:05:29.49,0:05:32.53,Default,,0,0,90,,Thai, why don't you go back to location A alone?
+Dialogue: 0,0:05:32.54,0:05:36.33,Default,,0,0,90,,Tbafs difficult to do how, too, so I'll continue together with you.
+Dialogue: 0,0:05:36.33,0:05:39.96,Default,,0,0,90,,It seems Wee you weren't honest with yourself in the past, either.
+Dialogue: 0,0:05:39.96,0:05:41.54,Default,,0,0,90,,What do you mean by that?!
+Dialogue: 0,0:05:41.54,0:05:43.34,Default,,0,0,90,,It weans just what I said.
+Dialogue: 0,0:06:01.98,0:06:04.78,Default,,0,0,90,,If* like a mummy hunter turning into a mummy!
+Dialogue: 0,0:06:04.78,0:06:08.78,Default,,0,0,90,,WdL walking around aimlessly is definitely a waste of time.
+Dialogue: 0,0:06:08.78,0:06:11.20,Default,,0,0,90,,Attd there * also the problem of how\Nmuch of this our bodies can endure.
+Dialogue: 0,0:06:11.74,0:06:13.87,Default,,0,0,90,,Then what are we going to do7!
+Dialogue: 0,0:06:18.83,0:06:21.04,Default,,0,0,90,,Asumil
+Dialogue: 0,0:06:21.58,0:06:24.09,Default,,0,0,90,,Marika!
+Dialogue: 0,0:06:26.17,0:06:28.67,Default,,0,0,90,,Asumi!
+Dialogue: 0,0:06:34.97,0:06:37.10,Default,,0,0,90,,I have no strength left...
+Dialogue: 0,0:06:37.56,0:06:38.81,Default,,0,0,90,,let's eat.
+Dialogue: 0,0:06:38.81,0:06:39.64,Default,,0,0,90,,Huh?
+Dialogue: 0,0:06:39.64,0:06:42.94,Default,,0,0,90,,Let's start eating the rations we got from Kamogawa.
+Dialogue: 0,0:06:42.94,0:06:43.98,Default,,0,0,90,,You ean il
+Dialogue: 0,0:06:43.98,0:06:45.15,Default,,0,0,90,,Whaf 
+Dialogue: 0,0:06:45.15,0:06:46.65,Default,,0,0,90,,It'd just be a Kttte.
+Dialogue: 0,0:06:46.65,0:06:47.69,Default,,0,0,90,,No!
+Dialogue: 0,0:06:47.69,0:06:50.15,Default,,0,0,90,,I'm keeping this for Asumi!
+Dialogue: 0,0:06:50.16,0:06:51.03,Default,,0,0,90,,Hub?
+Dialogue: 0,0:06:51.03,0:06:53.70,Default,,0,0,90,,You don't have to keep all of it.
+Dialogue: 0,0:06:53.70,0:06:55.53,Default,,0,0,90,,l'm keeping al of Hi
+Dialogue: 0,0:06:55.54,0:06:58.29,Default,,0,0,90,,Fm keeping them all for Asumi and Marika!
+Dialogue: 0,0:06:58.29,0:06:59.91,Default,,0,0,90,,Whatever, I don't get you at all.
+Dialogue: 0,0:07:01.37,0:07:03.29,Default,,0,0,90,,Whaf's do funny9
+Dialogue: 0,0:07:03.75,0:07:07.80,Default,,0,0,90,,It means that even all of us together are no match for the little seagull.
+Dialogue: 0,0:07:07.80,0:07:10.17,Default,,0,0,90,,Now then, let's get going, Foeehi.
+Dialogue: 0,0:07:15.97,0:07:19.43,Default,,0,0,90,,What's most important is your heart.
+Dialogue: 0,0:07:20.48,0:07:23.98,Default,,0,0,90,,What's most important is your heart.
+Dialogue: 0,0:07:28.74,0:07:32.65,Default,,0,0,90,,What's most important is your heart.
+Dialogue: 0,0:07:43.75,0:07:45.25,Default,,0,0,90,,What is ttiis
+Dialogue: 0,0:07:45.25,0:07:47.46,Default,,0,0,90,,It's a landmark that the little seagull put here.
+Dialogue: 0,0:07:47.46,0:07:48.50,Default,,0,0,90,,Kamogawa did?
+Dialogue: 0,0:07:48.51,0:07:50.05,Default,,0,0,90,,There's ho mistake.
+Dialogue: 0,0:07:50.05,0:07:52.38,Default,,0,0,90,,How would you know?
+Dialogue: 0,0:07:52.38,0:07:55.18,Default,,0,0,90,,The little seagull doesn't have a compass.
+Dialogue: 0,0:07:56.60,0:08:01.73,Default,,0,0,90,,That's why she placed signs as she moved forward.
+Dialogue: 0,0:08:01.73,0:08:03.02,Default,,0,0,90,,What do you mean?
+Dialogue: 0,0:08:03.02,0:08:05.52,Default,,0,0,90,,Anyway, let's follow this sign.
+Dialogue: 0,0:08:24.21,0:08:27.08,Default,,0,0,90,,Kamogawa-san wifi surely come here.
+Dialogue: 0,0:08:38.93,0:08:42.81,Default,,0,0,90,,tvt with her speed, she should have already arrived here..
+Dialogue: 0,0:08:50.86,0:08:52.82,Default,,0,0,90,,Where could you possibly be?
+Dialogue: 0,0:08:56.49,0:08:57.32,Default,,0,0,90,,There it is.
+Dialogue: 0,0:08:59.87,0:09:00.95,Default,,0,0,90,,Here, too
+Dialogue: 0,0:09:14.97,0:09:16.26,Default,,0,0,90,,Kamogawa-san..
+Dialogue: 0,0:09:20.43,0:09:22.56,Default,,0,0,90,,Kamogawa-san!
+Dialogue: 0,0:10:01.60,0:10:02.72,Default,,0,0,90,,Marika-chan..
+Dialogue: 0,0:10:18.15,0:10:19.41,Default,,0,0,90,,Uttle one.
+Dialogue: 0,0:10:25.62,0:10:27.04,Default,,0,0,90,,A capsule!
+Dialogue: 0,0:10:27.04,0:10:27.96,Default,,0,0,90,,Whose is ft?
+Dialogue: 0,0:10:34.09,0:10:35.38,Default,,0,0,90,,This is it.
+Dialogue: 0,0:10:35.38,0:10:37.30,Default,,0,0,90,,The capsule that ihe RtHe seagull was talking about.
+Dialogue: 0,0:10:38.97,0:10:40.01,Default,,0,0,90,,Mood...
+Dialogue: 0,0:10:40.01,0:10:41.05,Default,,0,0,90,,Yeah...
+Dialogue: 0,0:10:41.05,0:10:43.72,Default,,0,0,90,,I wonder what happened to Marika...
+Dialogue: 0,0:10:43.72,0:10:46.39,Default,,0,0,90,,in any case, left look for the next arrow.
+Dialogue: 0,0:10:50.73,0:10:52.40,Default,,0,0,90,,UoMsan...
+Dialogue: 0,0:10:52.86,0:10:55.07,Default,,0,0,90,,Are you all right, little one?
+Dialogue: 0,0:10:55.07,0:10:57.99,Default,,0,0,90,,I'm fine-. just a little tired.
+Dialogue: 0,0:10:58.70,0:10:59.70,Default,,0,0,90,,ltd
+Dialogue: 0,0:11:10.04,0:11:11.83,Default,,0,0,90,,Hey Uoti sa*
+Dialogue: 0,0:11:11.83,0:11:12.83,Default,,0,0,90,,Hm?
+Dialogue: 0,0:11:12.83,0:11:15.38,Default,,0,0,90,,Was I mistaken?
+Dialogue: 0,0:11:15.38,0:11:16.50,Default,,0,0,90,,About what?
+Dialogue: 0,0:11:16.96,0:11:20.67,Default,,0,0,90,,I mean, I dropped out of tt»e survival training to come out here...
+Dialogue: 0,0:11:21.09,0:11:25.72,Default,,0,0,90,,Marika-chan's probably been rescued like Suzuki-kun said.
+Dialogue: 0,0:11:26.22,0:11:28.89,Default,,0,0,90,,What fnt doing is meaningless, right9
+Dialogue: 0,0:11:30.02,0:11:32.81,Default,,0,0,90,,Is -that what you really think?
+Dialogue: 0,0:11:34.31,0:11:36.19,Default,,0,0,90,,Listen to your heart.
+Dialogue: 0,0:11:38.11,0:11:43.61,Default,,0,0,90,,The actions that you decided to take were never meaningless.
+Dialogue: 0,0:11:44.16,0:11:45.24,Default,,0,0,90,,But...
+Dialogue: 0,0:11:46.33,0:11:47.41,Default,,0,0,90,,Listen...
+Dialogue: 0,0:11:48.16,0:11:52.08,Default,,0,0,90,,The many things you have done up until now...
+Dialogue: 0,0:11:52.08,0:11:55.08,Default,,0,0,90,,The many people you b've met op until now...
+Dialogue: 0,0:11:55.09,0:12:00.21,Default,,0,0,90,,They are al stars that shape your universe.
+Dialogue: 0,0:12:01.17,0:12:02.47,Default,,0,0,90,,tars?
+Dialogue: 0,0:12:04.14,0:12:09.18,Default,,0,0,90,,Kei-chan, MarHca-chan, Fuchuuya-kun, and Suzuki-kun.
+Dialogue: 0,0:12:09.18,0:12:11.98,Default,,0,0,90,,To you they are all stars.
+Dialogue: 0,0:12:12.89,0:12:15.69,Default,,0,0,90,,There aren't any meaningless stars, right?
+Dialogue: 0,0:12:16.65,0:12:17.98,Default,,0,0,90,,That's right...
+Dialogue: 0,0:12:18.65,0:12:20.36,Default,,0,0,90,,And now...
+Dialogue: 0,0:12:21.82,0:12:24.99,Default,,0,0,90,,your friends can surely hear it, too.
+Comment: 0,0:12:27.97,0:12:37.98,Title,,0,0,0,,Eyecatch
+Dialogue: 0,0:12:54.94,0:12:56.10,Default,,0,0,90,,What is this?
+Dialogue: 0,0:13:00.90,0:13:04.15,Default,,0,0,90,,This is probably where the little seagull cheeked her bearings.
+Dialogue: 0,0:13:04.15,0:13:05.24,Default,,0,0,90,,Bearings?
+Dialogue: 0,0:13:05.24,0:13:09.58,Default,,0,0,90,,Then, she most likely went straight to the goal from here.
+Dialogue: 0,0:13:09.58,0:13:13.29,Default,,0,0,90,,This means that following any more arrows would be useless.
+Dialogue: 0,0:13:13.29,0:13:15.50,Default,,0,0,90,,They would lead to location A.
+Dialogue: 0,0:13:15.50,0:13:17.50,Default,,0,0,90,,Then, where do we look?
+Dialogue: 0,0:13:21.50,0:13:22.42,Default,,0,0,90,,Asumi...
+Dialogue: 0,0:13:23.13,0:13:25.84,Default,,0,0,90,,Asumi where did you go?
+Dialogue: 0,0:13:25.84,0:13:26.72,Default,,0,0,90,,Geez..
+Dialogue: 0,0:13:30.76,0:13:33.27,Default,,0,0,90,,I can hear something...
+Dialogue: 0,0:13:41.52,0:13:44.40,Default,,0,0,90,,It's no use. I can't find her like this.
+Dialogue: 0,0:13:44.40,0:13:46.74,Default,,0,0,90,,Where are you, Kamogawa-san?
+Dialogue: 0,0:13:57.96,0:13:58.87,Default,,0,0,90,,What?
+Dialogue: 0,0:14:25.90,0:14:27.57,Default,,0,0,90,,What was that Just how?
+Dialogue: 0,0:14:30.57,0:14:33.66,Default,,0,0,90,,Uoh San...?
+Dialogue: 0,0:14:37.16,0:14:38.58,Default,,0,0,90,,lion san...
+Dialogue: 0,0:14:47.34,0:14:50.97,Default,,0,0,90,,It's true, I can hear it...
+Dialogue: 0,0:14:52.39,0:14:54.43,Default,,0,0,90,,The sound of a harmonica...
+Dialogue: 0,0:14:55.72,0:14:57.39,Default,,0,0,90,,Harmonica?
+Dialogue: 0,0:14:57.39,0:14:59.14,Default,,0,0,90,,If I remember right...
+Dialogue: 0,0:14:59.14,0:15:02.02,Default,,0,0,90,,I hear it... the sound of a harmonica...
+Dialogue: 0,0:15:02.02,0:15:03.44,Default,,0,0,90,,Are you a dummy?
+Dialogue: 0,0:15:03.44,0:15:07.82,Default,,0,0,90,,in the middle of the mountains?
+Dialogue: 0,0:15:03.44,0:15:07.82,Default,,0,0,90,,Why would you hear a harmonica
+Dialogue: 0,0:15:07.82,0:15:11.20,Default,,0,0,90,,I hear it Lioti-san's harmonica!
+Dialogue: 0,0:15:11.20,0:15:12.66,Default,,0,0,90,,HHeyi
+Dialogue: 0,0:15:15.74,0:15:17.24,Default,,0,0,90,,Lion-san?
+Dialogue: 0,0:15:17.91,0:15:22.46,Default,,0,0,90,,my dad and Lion-san wffl get special free rides!
+Dialogue: 0,0:15:24.50,0:15:26.80,Default,,0,0,90,,Hey let's go to where Kamogawa is.
+Dialogue: 0,0:15:26.80,0:15:27.80,Default,,0,0,90,,Huh?
+Dialogue: 0,0:15:28.63,0:15:30.01,Default,,0,0,90,,F Fucchi!
+Dialogue: 0,0:16:08.46,0:16:10.21,Default,,0,0,90,,It's dose...
+Dialogue: 0,0:16:21.06,0:16:22.10,Default,,0,0,90,,Kamogawa-san?
+Dialogue: 0,0:16:28.57,0:16:29.90,Default,,0,0,90,,Asumi!
+Dialogue: 0,0:16:34.16,0:16:36.87,Default,,0,0,90,,Asumi!
+Dialogue: 0,0:16:42.33,0:16:44.83,Default,,0,0,90,,Marikacban...
+Dialogue: 0,0:16:44.83,0:16:46.63,Default,,0,0,90,,I fefl asleep.
+Dialogue: 0,0:16:47.34,0:16:48.75,Default,,0,0,90,,You're all right?
+Dialogue: 0,0:16:48.75,0:16:49.50,Default,,0,0,90,,Yeah.
+Dialogue: 0,0:16:50.63,0:16:52.13,Default,,0,0,90,,Thank goodness.
+Dialogue: 0,0:16:52.13,0:16:54.84,Default,,0,0,90,,Thank goodness that you're all right, too.
+Dialogue: 0,0:16:57.60,0:17:00.76,Default,,0,0,90,,You called me Asumi for the first time just now, didn't you?
+Dialogue: 0,0:17:06.10,0:17:09.73,Default,,0,0,90,,I knew it You look so much cuter when yoo smile,
+Dialogue: 0,0:17:11.03,0:17:11.65,Default,,0,0,90,,Hm?
+Dialogue: 0,0:17:13.40,0:17:16.61,Default,,0,0,90,,I said some horrible things to yoo...
+Dialogue: 0,0:17:16.61,0:17:17.03,Default,,0,0,90,,Huh?
+Dialogue: 0,0:17:18.12,0:17:19.53,Default,,0,0,90,,I'm sorry...
+Dialogue: 0,0:17:20.74,0:17:22.49,Default,,0,0,90,,Don't worry about it.
+Dialogue: 0,0:17:22.50,0:17:23.62,Default,,0,0,90,,But...
+Dialogue: 0,0:17:23.62,0:17:29.42,Default,,0,0,90,,Hey you don't hate being with everyone, right?
+Dialogue: 0,0:17:29.42,0:17:32.38,Default,,0,0,90,,You're just not used to it and feel a little uncomfortable, right?
+Dialogue: 0,0:17:34.55,0:17:39.30,Default,,0,0,90,,I still want to talk wrth you wore about lots and lots of things.
+Dialogue: 0,0:17:40.10,0:17:43.35,Default,,0,0,90,,Talc about the stars, about space*.
+Dialogue: 0,0:17:44.35,0:17:49.40,Default,,0,0,90,,And 1 stfl haven't heard your dream.
+Dialogue: 0,0:17:56.32,0:17:57.57,Default,,0,0,90,,Asumi!
+Dialogue: 0,0:17:57.57,0:17:58.70,Default,,0,0,90,,Marika!
+Dialogue: 0,0:17:59.62,0:18:00.70,Default,,0,0,90,,Kei-chan!
+Dialogue: 0,0:18:00.70,0:18:03.29,Default,,0,0,90,,Fuchuuya-kun and Suzuki-kun, tool
+Dialogue: 0,0:18:03.29,0:18:04.70,Default,,0,0,90,,Asumil
+Dialogue: 0,0:18:06.29,0:18:07.92,Default,,0,0,90,,thank goodness!
+Dialogue: 0,0:18:09.29,0:18:12.88,Default,,0,0,90,,Italy... don't make os worry so moeh abort you.
+Dialogue: 0,0:18:12.88,0:18:16.63,Default,,0,0,90,,I believed that you two would be fine, though.
+Dialogue: 0,0:18:17.22,0:18:19.51,Default,,0,0,90,,Thank you, everyone.
+Dialogue: 0,0:18:27.69,0:18:29.65,Signs,,0,0,90,,Oumi Kei
+Dialogue: 0,0:18:30.77,0:18:32.15,Default,,0,0,90,,Oumi Kei.
+Dialogue: 0,0:18:33.15,0:18:39.36,Default,,0,0,90,,spend their lives knowing nothing but the Earth.
+Dialogue: 0,0:18:33.15,0:18:39.36,Default,,0,0,90,,It's a little frustrating that most people have to
+Dialogue: 0,0:18:39.36,0:18:42.83,Default,,0,0,90,,When I saw the picture taken from Apoto at the moon...
+Dialogue: 0,0:18:42.83,0:18:45.58,Default,,0,0,90,,I got such a mysterious feeling inside of me.
+Dialogue: 0,0:18:45.58,0:18:48.87,Default,,0,0,90,,You can still take pictures, even on the Moon.
+Dialogue: 0,0:18:48.87,0:18:51.33,Default,,0,0,90,,It's a place that actually exists.
+Dialogue: 0,0:18:52.59,0:18:55.09,Default,,0,0,90,,I want to go to the Moon, too.
+Dialogue: 0,0:18:55.09,0:18:57.55,Default,,0,0,90,,I want to take a picture oh tin Moon.
+Dialogue: 0,0:18:57.55,0:19:02.97,Default,,0,0,90,,I think from those dreams, I have decided\Nto take the path of an astronaut.
+Dialogue: 0,0:19:02.97,0:19:04.97,Signs,,0,0,90,,\NSuzuki Shuu
+Dialogue: 0,0:19:05.64,0:19:07.39,Default,,0,0,90,,Suzuki Shoo.
+Dialogue: 0,0:19:08.10,0:19:12.19,Default,,0,0,90,,The reason I want to go to space is that space is there.
+Dialogue: 0,0:19:12.19,0:19:14.02,Default,,0,0,90,,Because stars are there.
+Dialogue: 0,0:19:14.57,0:19:16.28,Default,,0,0,90,,That doesn't count as a reason?
+Dialogue: 0,0:19:16.28,0:19:18.03,Default,,0,0,90,,That's stfl fbie with me.
+Dialogue: 0,0:19:18.03,0:19:21.66,Default,,0,0,90,,I don't want the things that are given to me from the start.
+Dialogue: 0,0:19:21.66,0:19:24.70,Default,,0,0,90,,What I want are the things I don't have yet.
+Dialogue: 0,0:19:24.70,0:19:27.37,Default,,0,0,90,,Fm just that type of person, so if can't be helped.
+Dialogue: 0,0:19:28.20,0:19:31.33,Default,,0,0,90,,I want to Me the stars eloser than anyone else.
+Dialogue: 0,0:19:31.33,0:19:33.33,Signs,,0,0,90,,Fuchuuya Shinnosuke
+Dialogue: 0,0:19:33.75,0:19:35.84,Default,,0,0,90,,Fuchuuya Shinnosuke.
+Dialogue: 0,0:19:36.71,0:19:39.38,Default,,0,0,90,,There are always some people who\Nare completely unpredictable*.
+Dialogue: 0,0:19:39.38,0:19:42.26,Default,,0,0,90,,-and people who are always anxious because of those people.
+Dialogue: 0,0:19:42.26,0:19:45.85,Default,,0,0,90,,thou, then they're just too unstable.
+Dialogue: 0,0:19:42.26,0:19:45.85,Default,,0,0,90,,If they don't stick by watching over
+Dialogue: 0,0:19:45.85,0:19:49.27,Default,,0,0,90,,If that person were to say that they'll become an astronaut...
+Dialogue: 0,0:19:49.27,0:19:52.31,Default,,0,0,90,,choice but to follow the whole way.
+Dialogue: 0,0:19:49.27,0:19:52.31,Default,,0,0,90,,then the other person would Have no
+Dialogue: 0,0:19:52.31,0:19:56.69,Default,,0,0,90,,There way be people who go to space because of such reasons.
+Dialogue: 0,0:19:57.03,0:20:00.24,Default,,0,0,90,,Ws not saying I'm one of Hiem, though...
+Dialogue: 0,0:20:00.24,0:20:02.20,Signs,,0,0,90,,Ukita Marika
+Dialogue: 0,0:20:02.78,0:20:04.70,Default,,0,0,90,,UkHa Marika.
+Dialogue: 0,0:20:05.28,0:20:09.20,Default,,0,0,90,,I thought there was ho place for me on Earth.
+Dialogue: 0,0:20:09.20,0:20:13.96,Default,,0,0,90,,To me, who has never played wtth\Nfriends or laughed with family...
+Dialogue: 0,0:20:13.96,0:20:21.42,Default,,0,0,90,,the starry sky I could see from the window was more\Nkind and friendly than the cold human world.
+Dialogue: 0,0:20:23.64,0:20:26.26,Default,,0,0,90,,When I think about my other self...
+Dialogue: 0,0:20:26.26,0:20:29.35,Default,,0,0,90,,my own existence seems like ft's about to fade away.
+Dialogue: 0,0:20:29.35,0:20:31.39,Default,,0,0,90,,I believed that if this was how I felt...
+Dialogue: 0,0:20:31.39,0:20:35.69,Default,,0,0,90,,I'd fed more happy if I was in space by myself.
+Dialogue: 0,0:20:36.23,0:20:40.69,Default,,0,0,90,,At least... until I met Asumi.
+Dialogue: 0,0:20:53.04,0:20:55.12,Default,,0,0,90,,UoHm. san..
+Dialogue: 0,0:20:58.92,0:21:01.76,Default,,0,0,90,,There's nothing more for me to tell you.
+Dialogue: 0,0:21:05.76,0:21:10.51,Default,,0,0,90,,little one, the next age lies in all of your hands.
+Dialogue: 0,0:21:35.62,0:21:37.04,Default,,0,0,90,,Lion-san..
+Dialogue: 0,0:21:46.51,0:21:47.59,Default,,0,0,90,,Lion-san..
+Dialogue: 0,0:22:18.54,0:22:21.04,Signs,,0,0,90,,Kamogawa Asumi
+Dialogue: 0,0:22:18.83,0:22:20.46,Default,,0,0,90,,Kamogawa Asumi.
+Dialogue: 0,0:22:21.42,0:22:24.63,Default,,0,0,90,,My dream is to become an astronaut...
+Dialogue: 0,0:22:24.63,0:22:30.89,Default,,0,0,90,,.and go to space with Kei-chan Suzuld kun\NFuchuuya-kun, and Marika-chan
+Dialogue: 0,0:22:30.89,0:22:35.60,Default,,0,0,90,,Then talk to my mother in space like this~.
+Dialogue: 0,0:22:35.98,0:22:36.98,Default,,0,0,90,,Mow.
+Dialogue: 0,0:22:36.98,0:22:39.02,Default,,0,0,90,,Ifs m* Asumi!
+Dialogue: 0,0:22:39.02,0:22:43.57,Default,,0,0,90,,There's just oik thing Pve always wanted to say to you.
+Dialogue: 0,0:22:45.40,0:22:46.74,Default,,0,0,90,,Illsa (tola ?
+Dialogue: 0,0:22:49.41,0:22:54.79,Default,,0,0,90,,Mom thank you for giving Nrlti to me.
+Dialogue: 0,0:24:50.28,0:24:51.32,Default,,0,0,90,,HHuh?

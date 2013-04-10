@@ -21,270 +21,274 @@ WrapStyle: 0
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Spica - Main,Avenir LT Std,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
-Style: Spica - Offscreen,Avenir LT Std,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
-Style: Spica - Secondary,Avenir LT Std,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
-Style: Spica - Flashback,Avenir LT Std,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,-1,0,0,95,100,0,0,1,2,0,2,50,50,20,1
-Style: Spica - Italic,Avenir LT Std,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,-1,0,0,95,100,0,0,1,2,0,2,50,50,20,1
-Style: Spica - Notes,Avenir LT Std,24,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,8,50,50,20,1
-Style: Spica - Title,Cabin,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,0,2.5,2,10,10,148,1
-Style: Spica - Signs,Arial,25,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
+Style: Default,Avenir LT Std 55 Roman,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
+Style: Offscreen,Avenir LT Std 55 Roman,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
+Style: Secondary,Avenir LT Std 55 Roman,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,2,50,50,20,1
+Style: Flashback,Avenir LT Std 55 Roman,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,-1,0,0,95,100,0,0,1,2,0,2,50,50,20,1
+Style: Italic,Avenir LT Std 55 Roman,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,-1,0,0,95,100,0,0,1,2,0,2,50,50,20,1
+Style: Notes,Avenir LT Std 55 Roman,24,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,95,100,0,0,1,2,0,8,50,50,20,1
+Style: Title,Cabin,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,0,2.5,2,10,10,148,1
+Style: OP - English,Praxis LT Pro,28,&H00E0F0FB,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,20,1
+Style: OP - Kara,Praxis LT Pro,28,&H00E0F0FB,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,50,50,20,1
+Style: ED - English,Praxis LT Pro,28,&H00EBDDDF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,2,50,50,20,1
+Style: ED - Kara,Praxis LT Pro,28,&H00EBDDDF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,50,50,20,1
+Style: Signs,Avenir LT Std 55 Roman,25,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:29.31,0:02:34.31,Spica - Title,,0,0,90,,Our Star, The Leaf Star
-Dialogue: 0,0:02:48.00,0:02:51.54,Spica - Offscreen,,0,0,90,,After the Shishigou crash that resulted in many casualties...
-Dialogue: 0,0:02:51.54,0:02:55.09,Spica - Offscreen,,0,0,90,,the JAMSF, the Japan Manned\NSpace Flight Bureau, and others...
-Dialogue: 0,0:02:55.09,0:02:58.09,Spica - Offscreen,,0,0,90,,have set up an accident research committee\Non the tenth of the month.
-Dialogue: 0,0:02:58.09,0:03:02.76,Spica - Offscreen,,0,0,90,,They will actively research the cause of the accident...
-Dialogue: 0,0:03:02.76,0:03:07.39,Spica - Offscreen,,0,0,90,,...and allocate resources to compensate the victims of the crash...
-Dialogue: 0,0:03:09.85,0:03:10.89,Spica - Offscreen,,0,0,90,,Kamogawa.
-Dialogue: 0,0:03:10.89,0:03:11.81,Spica - Main,,0,0,90,,Hmm?
-Dialogue: 0,0:03:12.40,0:03:14.81,Spica - Main,,0,0,90,,You've been issued an order.
-Dialogue: 0,0:03:20.20,0:03:23.70,Spica - Italic,,0,0,90,,Accident Research Committee, bereaved family section?
-Dialogue: 0,0:04:09.37,0:04:10.95,Spica - Offscreen,,0,0,90,,Excuse me.
-Dialogue: 0,0:04:10.95,0:04:14.92,Spica - Signs,,0,0,90,,Shibata
-Dialogue: 0,0:04:12.96,0:04:14.92,Spica - Offscreen,,0,0,90,,Could you please leave?
-Dialogue: 0,0:04:15.92,0:04:17.33,Spica - Main,,0,0,90,,But...
-Dialogue: 0,0:04:17.71,0:04:21.88,Spica - Main,,0,0,90,,Every time I listen to it, it's the same thing.
-Dialogue: 0,0:04:21.88,0:04:24.84,Spica - Main,,0,0,90,,My husband won't come back...
-Dialogue: 0,0:04:25.34,0:04:27.85,Spica - Main,,0,0,90,,I can understand that.
-Dialogue: 0,0:04:27.85,0:04:30.85,Spica - Offscreen,,0,0,90,,But in our position of sincerity...
-Dialogue: 0,0:04:30.85,0:04:32.60,Spica - Offscreen,,0,0,90,,What do you mean, sincerity?!
-Dialogue: 0,0:04:32.60,0:04:36.48,Spica - Offscreen,,0,0,90,,If you are sincere, return this girl's body to the way it was!
-Dialogue: 0,0:04:37.40,0:04:38.73,Spica - Main,,0,0,90,,But...
-Dialogue: 0,0:04:38.73,0:04:44.19,Spica - Main,,0,0,90,,caused the accident that killed your father.
-Dialogue: 0,0:04:38.73,0:04:44.19,Spica - Main,,0,0,90,,Kasane, this man works for the company that
-Dialogue: 0,0:04:44.20,0:04:48.16,Spica - Offscreen,,0,0,90,,They're responsible for your arm too.
-Dialogue: 0,0:04:48.16,0:04:52.91,Spica - Offscreen,,0,0,90,,solve this with just a little money!
-Dialogue: 0,0:04:48.16,0:04:52.91,Spica - Offscreen,,0,0,90,,They are bad people who are trying to
-Dialogue: 0,0:04:52.91,0:04:56.42,Spica - Main,,0,0,90,,Kasane, show this man your arm.
-Dialogue: 0,0:04:56.42,0:04:57.42,Spica - Main,,0,0,90,,Ma am...
-Dialogue: 0,0:04:57.42,0:05:00.92,Spica - Offscreen,,0,0,90,,No! I don't want to, Mama!
-Dialogue: 0,0:04:59.79,0:05:00.92,Spica - Secondary,,0,0,90,,It's alright, just show it!
-Dialogue: 0,0:05:00.92,0:05:03.76,Spica - Main,,0,0,90,,Show the bad experience you've had to go through!
-Dialogue: 0,0:05:03.76,0:05:06.09,Spica - Main,,0,0,90,,Stop it No!
-Dialogue: 0,0:05:06.72,0:05:10.01,Spica - Main,,0,0,90,,This is what you people did to this child!
-Dialogue: 0,0:05:12.85,0:05:14.68,Spica - Offscreen,,0,0,90,,S-Stop it...
-Dialogue: 0,0:05:36.71,0:05:39.50,Spica - Flashback,,0,0,90,,Whoa, what's with your arm? Freaky!
-Dialogue: 0,0:05:39.50,0:05:41.88,Spica - Flashback,,0,0,90,,You've got bandages, are you a mummy?
-Dialogue: 0,0:05:42.30,0:05:45.38,Spica - Flashback,,0,0,90,,Sensei! I don't want to sit next to her!
-Dialogue: 0,0:05:45.38,0:05:47.63,Spica - Flashback,,0,0,90,,She smells like medicine!
-Dialogue: 0,0:05:47.63,0:05:49.89,Spica - Flashback,,0,0,90,,Hey! The mummy girl hit me!
-Dialogue: 0,0:05:49.89,0:05:50.76,Spica - Flashback,,0,0,90,,Ow!
-Dialogue: 0,0:05:50.76,0:05:52.05,Spica - Flashback,,0,0,90,,Quit it!
-Dialogue: 0,0:05:52.06,0:05:54.39,Spica - Flashback,,0,0,90,,Hey stop it, Shibata-san!
-Dialogue: 0,0:05:54.39,0:05:57.10,Spica - Flashback,,0,0,90,,Why do you keep doing violent things?
-Dialogue: 0,0:06:00.94,0:06:03.15,Spica - Offscreen,,0,0,90,,I'm exhausted, Kyoko.
-Dialogue: 0,0:06:08.66,0:06:12.07,Spica - Main,,0,0,90,,That girl is the same age as Asumi.
-Dialogue: 0,0:06:12.49,0:06:16.54,Spica - Main,,0,0,90,,Yeah... next year she'll be seven.
-Dialogue: 0,0:06:18.67,0:06:21.04,Spica - Main,,0,0,90,,I'm the same as usual.
-Dialogue: 0,0:06:21.71,0:06:25.05,Spica - Offscreen,,0,0,90,,It's a bad job to settle people's lives with money.
-Dialogue: 0,0:06:25.88,0:06:29.05,Spica - Offscreen,,0,0,90,,I'm being hated and begrudged by the victims.
-Dialogue: 0,0:06:30.09,0:06:34.10,Spica - Offscreen,,0,0,90,,I've spent my life looking at the sky...
-Dialogue: 0,0:06:34.10,0:06:37.77,Spica - Offscreen,,0,0,90,,but after that accident, I've been bowing down my head.
-Dialogue: 0,0:06:38.60,0:06:40.89,Spica - Main,,0,0,90,,It was just a dream.
-Dialogue: 0,0:06:41.73,0:06:44.65,Spica - Main,,0,0,90,,After all it was nothing more than a dream.
-Dialogue: 0,0:06:51.28,0:06:53.07,Spica - Main,,0,0,90,,a a om § mg o o...
-Dialogue: 0,0:06:53.99,0:06:57.08,Spica - Offscreen,,0,0,90,,I'll have to get rid of it next time.
-Dialogue: 0,0:07:40.16,0:07:43.62,Spica - Offscreen,,0,0,90,,All right, this is next!
-Dialogue: 0,0:07:56.43,0:07:57.30,Spica - Offscreen,,0,0,90,,There.
-Dialogue: 0,0:08:09.90,0:08:11.69,Spica - Offscreen,,0,0,90,,It's called a Swing by.
-Dialogue: 0,0:08:11.70,0:08:15.41,Spica - Offscreen,,0,0,90,,When we use the gravity of the Earth or\Nthe Moon to slingshot to our destination.
-Dialogue: 0,0:08:15.41,0:08:17.28,Spica - Offscreen,,0,0,90,,If you're giving up with just this...
-Dialogue: 0,0:08:22.71,0:08:27.42,Spica - Offscreen,,0,0,90,,it'd be hard for you to become a rocket driver, little one!
-Dialogue: 0,0:08:41.31,0:08:42.52,Spica - Offscreen,,0,0,90,,Lion-san!
-Dialogue: 0,0:08:43.85,0:08:45.06,Spica - Main,,0,0,90,,One more time!
-Dialogue: 0,0:08:45.06,0:08:47.69,Spica - Main,,0,0,90,,What? How many times now?
-Dialogue: 0,0:08:52.19,0:08:53.49,Spica - Main,,0,0,90,,Cadet Asumi!
-Dialogue: 0,0:08:53.49,0:08:54.45,Spica - Main,,0,0,90,,Yes.
-Dialogue: 0,0:08:54.90,0:08:57.61,Spica - Main,,0,0,90,,Today's training is now complete.
-Dialogue: 0,0:08:57.62,0:08:58.62,Spica - Main,,0,0,90,,Yes.
-Dialogue: 0,0:08:59.20,0:09:01.95,Spica - Main,,0,0,90,,Then, Lion-san, I'll see you tomorrow!
-Dialogue: 0,0:09:07.17,0:09:08.92,Spica - Main,,0,0,90,,Good grief...
-Dialogue: 0,0:09:08.92,0:09:10.88,Spica - Main,,0,0,90,,It's finally over!
-Dialogue: 0,0:09:14.01,0:09:15.51,Spica - Offscreen,,0,0,90,,Laika!
-Dialogue: 0,0:09:16.38,0:09:17.76,Spica - Main,,0,0,90,,Come here.
-Dialogue: 0,0:09:19.10,0:09:20.55,Spica - Main,,0,0,90,,Laika.
-Dialogue: 0,0:09:23.77,0:09:25.43,Spica - Offscreen,,0,0,90,,Come here, I said!
-Dialogue: 0,0:09:26.64,0:09:28.10,Spica - Main,,0,0,90,,What are you doing?
-Dialogue: 0,0:09:34.11,0:09:37.07,Spica - Main,,0,0,90,,Idiot! Laika ran away!
-Dialogue: 0,0:09:37.07,0:09:38.95,Spica - Main,,0,0,90,,What are you going to do about it?
-Dialogue: 0,0:09:38.95,0:09:40.32,Spica - Main,,0,0,90,,You idiot!
-Dialogue: 0,0:09:41.41,0:09:43.49,Spica - Offscreen,,0,0,90,,Say something!
-Dialogue: 0,0:09:44.75,0:09:46.25,Spica - Main,,0,0,90,,I'll go look!
-Dialogue: 0,0:09:53.34,0:09:55.55,Spica - Main,,0,0,90,,Catch him properly!
-Dialogue: 0,0:10:04.35,0:10:05.60,Spica - Main,,0,0,90,,Really...
-Dialogue: 0,0:10:11.15,0:10:12.90,Spica - Offscreen,,0,0,90,,Laika!
-Dialogue: 0,0:10:16.11,0:10:19.70,Spica - Offscreen,,0,0,90,,Where are you? Come out!
-Dialogue: 0,0:10:28.29,0:10:30.17,Spica - Main,,0,0,90,,Geez, Laika, you...
-Dialogue: 0,0:10:41.34,0:10:43.76,Spica - Main,,0,0,90,,I won't thank you.
-Dialogue: 0,0:10:43.76,0:10:46.43,Spica - Main,,0,0,90,,You're the one who made Mm run wa .
-Dialogue: 0,0:10:46.43,0:10:49.02,Spica - Main,,0,0,90,,Hey come with me for a bit.
-Dialogue: 0,0:10:49.02,0:10:51.65,Spica - Main,,0,0,90,,I just found a really niee place.
-Dialogue: 0,0:10:51.65,0:10:53.11,Spica - Main,,0,0,90,,Huh?
-Dialogue: 0,0:10:57.11,0:11:00.65,Spica - Offscreen,,0,0,90,,Hey, how far do you plan to go?
-Dialogue: 0,0:11:00.66,0:11:02.99,Spica - Offscreen,,0,0,90,,What are you going to do if we don't get back?
-Dialogue: 0,0:11:02.99,0:11:05.37,Spica - Main,,0,0,90,,It's going to be your responsibility!
-Dialogue: 0,0:11:05.74,0:11:07.79,Spica - Main,,0,0,90,,We're here.
-Dialogue: 0,0:11:23.35,0:11:25.30,Spica - Offscreen,,0,0,90,,It's amazing, right?
-Dialogue: 0,0:11:25.31,0:11:27.89,Spica - Offscreen,,0,0,90,,It's yellow wherever you look.
-Dialogue: 0,0:11:33.90,0:11:36.82,Spica - Main,,0,0,90,,that cat fold we about it.
-Dialogue: 0,0:11:38.69,0:11:40.78,Spica - Main,,0,0,90,,Hey whafs your name?
-Dialogue: 0,0:11:40.78,0:11:43.11,Spica - Main,,0,0,90,,I'm Kamogawa Asumi
-Dialogue: 0,0:11:43.95,0:11:45.41,Spica - Main,,0,0,90,,Shibata Kasane...
-Dialogue: 0,0:11:52.00,0:11:53.87,Spica - Main,,0,0,90,,This is Laika.
-Dialogue: 0,0:11:54.71,0:11:57.59,Spica - Main,,0,0,90,,He isn't attached to me so it's annoying sometimes, but...
-Dialogue: 0,0:11:58.21,0:12:00.63,Spica - Main,,0,0,90,,Papa was fond of this cat.
-Dialogue: 0,0:12:00.63,0:12:01.63,Spica - Main,,0,0,90,,Papa?
-Dialogue: 0,0:12:01.63,0:12:06.01,Spica - Main,,0,0,90,,They say Papa died when I was one.
-Dialogue: 0,0:12:06.76,0:12:08.85,Spica - Main,,0,0,90,,Because of the rocket crash.
-Dialogue: 0,0:12:23.24,0:12:26.32,Spica - Flashback,,0,0,90,,This is it! My legs are stuck and I can't move!
-Dialogue: 0,0:12:26.32,0:12:28.12,Spica - Flashback,,0,0,90,,Dear!
-Dialogue: 0,0:12:26.32,0:12:29.83,Spica - Secondary,,0,0,90,,It's dangerous, please stand back!
-Dialogue: 0,0:12:28.12,0:12:29.83,Spica - Flashback,,0,0,90,,Kasane!
-Dialogue: 0,0:12:30.20,0:12:32.41,Spica - Flashback,,0,0,90,,Someone. Help this ehfld!
-Dialogue: 0,0:12:32.41,0:12:33.79,Spica - Flashback,,0,0,90,,Hdp Kasane!
-Dialogue: 0,0:12:43.30,0:12:47.01,Spica - Main,,0,0,90,,Papa would have been alive...
-Dialogue: 0,0:12:43.30,0:12:47.01,Spica - Main,,0,0,90,,If that accident hadn't happened
-Dialogue: 0,0:12:47.01,0:12:49.51,Spica - Main,,0,0,90,,and even my arm would be...
-Dialogue: 0,0:12:57.69,0:12:59.27,Spica - Main,,0,0,90,,Kasanechan!
-Dialogue: 0,0:12:59.90,0:13:02.19,Spica - Offscreen,,0,0,90,,See! Stars!
-Dialogue: 0,0:13:02.65,0:13:05.11,Spica - Main,,0,0,90,,They just fdl from the sky!
-Dialogue: 0,0:13:05.11,0:13:08.66,Spica - Main,,0,0,90,,Are you an idiot?!\NThat's just an ordinary leaf
-Dialogue: 0,0:13:08.66,0:13:10.99,Spica - Main,,0,0,90,,if is, but...
-Dialogue: 0,0:13:11.62,0:13:14.71,Spica - Main,,0,0,90,,Hey Kasane chan, let's play again!
-Dialogue: 0,0:13:17.71,0:13:19.71,Spica - Main,,0,0,90,,Well if $ okay.
-Comment: 0,0:13:20.27,0:13:30.28,Spica - Title,,0,0,0,,Eyecatch
-Dialogue: 0,0:13:37.35,0:13:40.40,Spica - Main,,0,0,90,,Ah, so you're bi class two.
-Dialogue: 0,0:13:40.40,0:13:43.44,Spica - Main,,0,0,90,,You were in the next class, but I didn't notice.
-Dialogue: 0,0:13:43.44,0:13:47.57,Spica - Main,,0,0,90,,I haven't been to school for a while.
-Dialogue: 0,0:13:43.44,0:13:47.57,Spica - Main,,0,0,90,,Of course you wouldn't notice.
-Dialogue: 0,0:13:47.57,0:13:50.78,Spica - Offscreen,,0,0,90,,Why? School is fun after all...
-Dialogue: 0,0:13:50.78,0:13:52.79,Spica - Main,,0,0,90,,I hate that place.
-Dialogue: 0,0:13:52.79,0:13:55.33,Spica - Main,,0,0,90,,There are lots of friends-there.
-Dialogue: 0,0:13:55.33,0:13:57.58,Spica - Main,,0,0,90,,I don't need any friends.
-Dialogue: 0,0:14:02.50,0:14:04.09,Spica - Main,,0,0,90,,Well...
-Dialogue: 0,0:14:04.09,0:14:07.80,Spica - Main,,0,0,90,,If you want to be o*ie, then that would be ftwe.
-Dialogue: 0,0:14:08.89,0:14:11.30,Spica - Main,,0,0,90,,Yeah! Let's be friends.
-Dialogue: 0,0:14:12.01,0:14:17.31,Spica - Offscreen,,0,0,90,,Hey Kasane-chan, what will you be when you grow up?
-Dialogue: 0,0:14:17.31,0:14:20.90,Spica - Main,,0,0,90,,I don't really have any plans.
-Dialogue: 0,0:14:20.90,0:14:21.98,Spica - Main,,0,0,90,,What about you?
-Dialogue: 0,0:14:21.98,0:14:26.15,Spica - Main,,0,0,90,,I'm going to be a rocket driver.
-Dialogue: 0,0:14:26.15,0:14:27.95,Spica - Main,,0,0,90,,Rocket?
-Dialogue: 0,0:14:27.95,0:14:30.74,Spica - Main,,0,0,90,,YeaM lean go to many different stars.
-Dialogue: 0,0:14:30.74,0:14:33.16,Spica - Main,,0,0,90,,Like you can become something like that.
-Dialogue: 0,0:14:33.16,0:14:34.87,Spica - Main,,0,0,90,,I'd become one!
-Dialogue: 0,0:14:34.87,0:14:37.91,Spica - Main,,0,0,90,,Then, I'll let you on the rocket!
-Dialogue: 0,0:14:37.91,0:14:40.25,Spica - Offscreen,,0,0,90,,Let's go to Spica together!
-Dialogue: 0,0:14:40.25,0:14:41.38,Spica - Main,,0,0,90,,Spica?
-Dialogue: 0,0:14:41.38,0:14:46.42,Spica - Main,,0,0,90,,Yeah, my favorite star, it's really pretty!
-Dialogue: 0,0:14:50.30,0:14:51.47,Spica - Offscreen,,0,0,90,,Asumi!
-Dialogue: 0,0:14:53.26,0:14:54.81,Spica - Main,,0,0,90,,Pad!
-Dialogue: 0,0:14:54.81,0:14:56.18,Spica - Main,,0,0,90,,Are you in -the middle of work?
-Dialogue: 0,0:14:56.18,0:14:57.31,Spica - Main,,0,0,90,,Yeah.
-Dialogue: 0,0:14:57.31,0:15:00.98,Spica - Main,,0,0,90,,I was piaybig together wtth Shibata Kasane ehan.
-Dialogue: 0,0:15:00.98,0:15:02.15,Spica - Main,,0,0,90,,Shibata?
-Dialogue: 0,0:15:16.62,0:15:18.41,Spica - Main,,0,0,90,,Kasane-chan...
-Dialogue: 0,0:15:31.89,0:15:35.26,Spica - Signs,,0,0,90,,Shibata
-Dialogue: 0,0:15:35.26,0:15:37.60,Spica - Main,,0,0,90,,Is Kasane-chait here?
-Dialogue: 0,0:15:37.60,0:15:41.27,Spica - Main,,0,0,90,,Cm sorry Kasane said that she didn't want to see you.
-Dialogue: 0,0:15:43.27,0:15:45.77,Spica - Signs,,0,0,90,,Shibata
-Dialogue: 0,0:15:46.82,0:15:48.86,Spica - Main,,0,0,90,,Is Kasane-chait...
-Dialogue: 0,0:15:48.86,0:15:50.69,Spica - Offscreen,,0,0,90,,She's out right now.
-Dialogue: 0,0:15:53.28,0:15:55.78,Spica - Main,,0,0,90,,She's at-the hospital today.
-Dialogue: 0,0:15:55.78,0:15:57.24,Spica - Main,,0,0,90,,I see...
-Dialogue: 0,0:16:01.75,0:16:04.67,Spica - Main,,0,0,90,,Really, what a persistent child.
-Dialogue: 0,0:16:04.67,0:16:06.54,Spica - Main,,0,0,90,,They're certainly alike, parent and child.
-Dialogue: 0,0:16:10.55,0:16:13.47,Spica - Offscreen,,0,0,90,,Kasane* have you cleaned your room?
-Dialogue: 0,0:16:14.09,0:16:19.26,Spica - Main,,0,0,90,,next week, so hurry and tidy up.
-Dialogue: 0,0:16:14.09,0:16:19.26,Spica - Main,,0,0,90,,Well be living at trandpa's place starting
-Dialogue: 0,0:16:20.02,0:16:24.06,Spica - Main,,0,0,90,,Mania, I won't be able to see my friends anymor ?
-Dialogue: 0,0:16:24.06,0:16:25.81,Spica - Offscreen,,0,0,90,,It can't be helped.
-Dialogue: 0,0:16:27.94,0:16:31.32,Spica - Flashback,,0,0,90,,Hey Kasane-chan, let's piay again!
-Dialogue: 0,0:16:50.38,0:16:52.05,Spica - Offscreen,,0,0,90,,Hey, it's Shibata!
-Dialogue: 0,0:16:52.05,0:16:54.38,Spica - Main,,0,0,90,,You're right!
-Dialogue: 0,0:16:54.80,0:16:59.30,Spica - Offscreen,,0,0,90,,What are you doing here when\Nyou haven't been going to school?
-Dialogue: 0,0:16:59.31,0:17:03.06,Spica - Main,,0,0,90,,Hey did you know? Her arm's really weird.
-Dialogue: 0,0:17:03.06,0:17:04.77,Spica - Main,,0,0,90,,Really? What do ya mean?
-Dialogue: 0,0:17:04.77,0:17:05.98,Spica - Main,,0,0,90,,Show it to us.
-Dialogue: 0,0:17:07.65,0:17:09.11,Spica - Offscreen,,0,0,90,,Stop it!
-Dialogue: 0,0:17:09.11,0:17:10.69,Spica - Offscreen,,0,0,90,,C'mon don't hide it from us!
-Dialogue: 0,0:17:10.69,0:17:12.23,Spica - Offscreen,,0,0,90,,Show it!
-Dialogue: 0,0:17:12.90,0:17:15.15,Spica - Main,,0,0,90,,What are you dobigt! Stop it
-Dialogue: 0,0:17:18.41,0:17:20.78,Spica - Offscreen,,0,0,90,,Stop it! No!
-Dialogue: 0,0:17:20.79,0:17:22.20,Spica - Offscreen,,0,0,90,,No!
-Dialogue: 0,0:17:32.88,0:17:34.59,Spica - Offscreen,,0,0,90,,Hey let's go.
-Dialogue: 0,0:17:34.59,0:17:35.88,Spica - Main,,0,0,90,,Y-yeah.
-Dialogue: 0,0:17:36.97,0:17:38.55,Spica - Offscreen,,0,0,90,,Hey wanna come over to my house?
-Dialogue: 0,0:17:38.55,0:17:40.10,Spica - Offscreen,,0,0,90,,Left play that game!
-Dialogue: 0,0:17:40.10,0:17:41.31,Spica - Offscreen,,0,0,90,,Yeah, let's go!
-Dialogue: 0,0:17:48.98,0:17:50.61,Spica - Main,,0,0,90,,Kasaite-chan...
-Dialogue: 0,0:17:56.28,0:17:58.24,Spica - Main,,0,0,90,,Hey Kasane-chan.
-Dialogue: 0,0:17:59.74,0:18:02.24,Spica - Main,,0,0,90,,What is Hf ®o away.
-Dialogue: 0,0:18:02.99,0:18:04.41,Spica - Offscreen,,0,0,90,,Star...
-Dialogue: 0,0:18:05.16,0:18:10.08,Spica - Main,,0,0,90,,be happy if you look at the star.
-Dialogue: 0,0:18:05.16,0:18:10.08,Spica - Main,,0,0,90,,UoH San was saying that you ll
-Dialogue: 0,0:18:10.42,0:18:14.21,Spica - Main,,0,0,90,,So, if you have this leaf, even your injury would...
-Dialogue: 0,0:18:14.21,0:18:15.42,Spica - Offscreen,,0,0,90,,Are you an idiot?!
-Dialogue: 0,0:18:15.42,0:18:17.84,Spica - Main,,0,0,90,,What do you wean, Uon«aiif!
-Dialogue: 0,0:18:17.84,0:18:21.26,Spica - Main,,0,0,90,,You think a bum would go away with a leaf?!
-Dialogue: 0,0:18:21.26,0:18:22.35,Spica - Main,,0,0,90,,Eh?
-Dialogue: 0,0:18:22.35,0:18:23.85,Spica - Main,,0,0,90,,Yoor papa...
-Dialogue: 0,0:18:25.14,0:18:28.10,Spica - Main,,0,0,90,,Your papa killed my papa!
-Dialogue: 0,0:18:28.56,0:18:30.23,Spica - Offscreen,,0,0,90,,I don't want any money!
-Dialogue: 0,0:18:30.23,0:18:34.61,Spica - Offscreen,,0,0,90,,What I want is a kind papa and a beautiful body!
-Dialogue: 0,0:18:34.61,0:18:36.61,Spica - Main,,0,0,90,,You have them!
-Dialogue: 0,0:18:36.61,0:18:38.61,Spica - Offscreen,,0,0,90,,You have all of them.
-Dialogue: 0,0:18:41.45,0:18:44.33,Spica - Main,,0,0,90,,You aren't my friend!
-Dialogue: 0,0:18:44.33,0:18:46.33,Spica - Offscreen,,0,0,90,,•o way*
-Dialogue: 0,0:18:46.33,0:18:48.75,Spica - Main,,0,0,90,,You just go away!
-Dialogue: 0,0:19:19.28,0:19:20.61,Spica - Offscreen,,0,0,90,,Kasane-chan.
-Dialogue: 0,0:19:22.37,0:19:24.95,Spica - Offscreen,,0,0,90,,You aren't the only one who's lonely.
-Dialogue: 0,0:19:24.95,0:19:25.91,Spica - Main,,0,0,90,,Hub?
-Dialogue: 0,0:19:27.91,0:19:29.41,Spica - Main,,0,0,90,,Who* there?
-Dialogue: 0,0:19:33.21,0:19:36.55,Spica - Flashback,,0,0,90,,You aren't the only one who's lonely.
-Dialogue: 0,0:19:52.31,0:19:55.31,Spica - Offscreen,,0,0,90,,Shibata-san? She's not here.
-Dialogue: 0,0:19:52.31,0:19:55.31,Spica - Signs,,0,0,90,,1st Grade Class 2
-Dialogue: 0,0:19:55.32,0:19:57.90,Spica - Main,,0,0,90,,She had moving preparations to do or something.
-Dialogue: 0,0:19:57.90,0:19:59.40,Spica - Main,,0,0,90,,Moving?
-Dialogue: 0,0:19:59.40,0:20:03.57,Spica - Main,,0,0,90,,near a famous hospital.
-Dialogue: 0,0:19:59.40,0:20:03.57,Spica - Main,,0,0,90,,She's going to go live some place far away
-Dialogue: 0,0:20:03.57,0:20:07.58,Spica - Offscreen,,0,0,90,,She gave a goodbye speech at the farewell party yesterday.
-Dialogue: 0,0:20:08.79,0:20:12.04,Spica - Offscreen,,0,0,90,,Seems Mce die's leaving tomorrow.
-Dialogue: 0,0:20:25.51,0:20:29.06,Spica - Main,,0,0,90,,You don't have to go eee Her off, little one?
-Dialogue: 0,0:20:29.93,0:20:32.35,Spica - Offscreen,,0,0,90,,She's leaving today right?
-Dialogue: 0,0:20:33.65,0:20:37.94,Spica - Main,,0,0,90,,Pvt Kasanechan said we're not friends anymore.
-Dialogue: 0,0:20:39.73,0:20:41.53,Spica - Main,,0,0,90,,Hey littleone
-Dialogue: 0,0:20:42.36,0:20:45.86,Spica - Offscreen,,0,0,90,,What people say isn't necessarily the truth.
-Dialogue: 0,0:20:46.66,0:20:50.54,Spica - Offscreen,,0,0,90,,No one can easily say what they fed
-Dialogue: 0,0:20:51.08,0:20:54.21,Spica - Main,,0,0,90,,Saying that they are having fun when they are sad...
-Dialogue: 0,0:20:54.21,0:20:57.04,Spica - Main,,0,0,90,,Saying that they are happy when they're spiteful.
-Dialogue: 0,0:20:58.09,0:21:00.71,Spica - Main,,0,0,90,,Saying that they haft you when they Rice you...
-Dialogue: 0,0:21:00.71,0:21:04.05,Spica - Main,,0,0,90,,Saying that they don't want to see you when they miss you...
-Dialogue: 0,0:21:05.64,0:21:07.34,Spica - Offscreen,,0,0,90,,The most important thing...
-Dialogue: 0,0:21:07.35,0:21:11.35,Spica - Signs,,0,0,90,,Yuigahama Station
-Dialogue: 0,0:21:08.30,0:21:10.39,Spica - Offscreen,,0,0,90,,is your heart little one.
-Dialogue: 0,0:21:24.95,0:21:26.78,Spica - Offscreen,,0,0,90,,Kasane, hurry and gef on.
-Dialogue: 0,0:21:26.78,0:21:27.87,Spica - Offscreen,,0,0,90,,Y-Yeah.
-Dialogue: 0,0:21:34.00,0:21:35.21,Spica - Main,,0,0,90,,Awmichan!
-Dialogue: 0,0:21:35.71,0:21:36.83,Spica - Main,,0,0,90,,Kasafie-eban.
-Dialogue: 0,0:21:36.83,0:21:39.92,Spica - Main,,0,0,90,,Whew you feel sad, look at the star in the sky!
-Dialogue: 0,0:21:39.92,0:21:43.42,Spica - Main,,0,0,90,,I'll look too! let's look at the same star!
-Dialogue: 0,0:21:43.42,0:21:45.92,Spica - Main,,0,0,90,,because we're friends!
-Dialogue: 0,0:21:45.93,0:21:47.22,Spica - Main,,0,0,90,,Here.
-Dialogue: 0,0:21:48.51,0:21:49.68,Spica - Main,,0,0,90,,Asumi ehaiL...
-Dialogue: 0,0:21:55.06,0:21:57.10,Spica - Italic,,0,0,90,,I'm sorry, Asumi-chan.
-Dialogue: 0,0:21:57.10,0:22:03.03,Spica - Italic,,0,0,90,,What I really wanted wasn't Papa nor a beautiful body.
-Dialogue: 0,0:22:03.94,0:22:06.53,Spica - Italic,,0,0,90,,I wanted a real friend...
-Dialogue: 0,0:22:19.42,0:22:21.17,Spica - Main,,0,0,90,,It's cleaned...
-Dialogue: 0,0:24:34.30,0:24:36.55,Spica - Main,,0,0,90,,I who went baek to Space School...
-Dialogue: 0,0:24:34.30,0:24:36.30,Spica - Title,,0,0,90,,Preview
-Dialogue: 0,0:24:36.55,0:24:41.64,Spica - Main,,0,0,90,,.am trying to return to my former life\Neven with bad feelings toward Sano-sensei.
-Dialogue: 0,0:24:41.64,0:24:42.98,Spica - Main,,0,0,90,,between Pad and Sanosewei long ago.
-Dialogue: 0,0:24:41.64,0:24:47.15,Spica - Main,,0,0,90,,I won't think about what happened
-Dialogue: 0,0:24:43.02,0:24:47.15,Spica - Main,,0,0,90,,between Pad and Sano-sensei long ago.
-Dialogue: 0,0:24:47.15,0:24:50.82,Spica - Main,,0,0,90,,Because Kei-chan and everyone is supporting me.
-Dialogue: 0,0:24:50.82,0:24:53.70,Spica - Main,,0,0,90,,And our promise.
-Dialogue: 0,0:24:53.70,0:24:57.03,Spica - Main,,0,0,90,,Next time on Twin Spica: The Promised Five.
-Dialogue: 0,0:24:56.34,0:24:57.03,Spica - Title,,0,0,90,,The Promised Five
+Dialogue: 0,0:02:29.31,0:02:34.31,Title,,0,0,90,,Our Star, The Leaf Star
+Dialogue: 0,0:02:48.00,0:02:51.54,Offscreen,,0,0,90,,After the Shishigou crash that resulted in many casualties...
+Dialogue: 0,0:02:51.54,0:02:55.09,Offscreen,,0,0,90,,the JAMSF, the Japan Manned\NSpace Flight Bureau, and others...
+Dialogue: 0,0:02:55.09,0:02:58.09,Offscreen,,0,0,90,,have set up an accident research committee\Non the tenth of the month.
+Dialogue: 0,0:02:58.09,0:03:02.76,Offscreen,,0,0,90,,They will actively research the cause of the accident...
+Dialogue: 0,0:03:02.76,0:03:07.39,Offscreen,,0,0,90,,...and allocate resources to compensate the victims of the crash...
+Dialogue: 0,0:03:09.85,0:03:10.89,Offscreen,,0,0,90,,Kamogawa.
+Dialogue: 0,0:03:10.89,0:03:11.81,Default,,0,0,90,,Hmm?
+Dialogue: 0,0:03:12.40,0:03:14.81,Default,,0,0,90,,You've been issued an order.
+Dialogue: 0,0:03:20.20,0:03:23.70,Italic,,0,0,90,,Accident Research Committee, bereaved family section?
+Dialogue: 0,0:04:09.37,0:04:10.95,Offscreen,,0,0,90,,Excuse me.
+Dialogue: 0,0:04:10.95,0:04:14.92,Signs,,0,0,90,,Shibata
+Dialogue: 0,0:04:12.96,0:04:14.92,Offscreen,,0,0,90,,Could you please leave?
+Dialogue: 0,0:04:15.92,0:04:17.33,Default,,0,0,90,,But...
+Dialogue: 0,0:04:17.71,0:04:21.88,Default,,0,0,90,,Every time I listen to it, it's the same thing.
+Dialogue: 0,0:04:21.88,0:04:24.84,Default,,0,0,90,,My husband won't come back...
+Dialogue: 0,0:04:25.34,0:04:27.85,Default,,0,0,90,,I can understand that.
+Dialogue: 0,0:04:27.85,0:04:30.85,Offscreen,,0,0,90,,But in our position of sincerity...
+Dialogue: 0,0:04:30.85,0:04:32.60,Offscreen,,0,0,90,,What do you mean, sincerity?!
+Dialogue: 0,0:04:32.60,0:04:36.48,Offscreen,,0,0,90,,If you are sincere, return this girl's body to the way it was!
+Dialogue: 0,0:04:37.40,0:04:38.73,Default,,0,0,90,,But...
+Dialogue: 0,0:04:38.73,0:04:44.19,Default,,0,0,90,,caused the accident that killed your father.
+Dialogue: 0,0:04:38.73,0:04:44.19,Default,,0,0,90,,Kasane, this man works for the company that
+Dialogue: 0,0:04:44.20,0:04:48.16,Offscreen,,0,0,90,,They're responsible for your arm too.
+Dialogue: 0,0:04:48.16,0:04:52.91,Offscreen,,0,0,90,,solve this with just a little money!
+Dialogue: 0,0:04:48.16,0:04:52.91,Offscreen,,0,0,90,,They are bad people who are trying to
+Dialogue: 0,0:04:52.91,0:04:56.42,Default,,0,0,90,,Kasane, show this man your arm.
+Dialogue: 0,0:04:56.42,0:04:57.42,Default,,0,0,90,,Ma am...
+Dialogue: 0,0:04:57.42,0:05:00.92,Offscreen,,0,0,90,,No! I don't want to, Mama!
+Dialogue: 0,0:04:59.79,0:05:00.92,Secondary,,0,0,90,,It's alright, just show it!
+Dialogue: 0,0:05:00.92,0:05:03.76,Default,,0,0,90,,Show the bad experience you've had to go through!
+Dialogue: 0,0:05:03.76,0:05:06.09,Default,,0,0,90,,Stop it No!
+Dialogue: 0,0:05:06.72,0:05:10.01,Default,,0,0,90,,This is what you people did to this child!
+Dialogue: 0,0:05:12.85,0:05:14.68,Offscreen,,0,0,90,,S-Stop it...
+Dialogue: 0,0:05:36.71,0:05:39.50,Flashback,,0,0,90,,Whoa, what's with your arm? Freaky!
+Dialogue: 0,0:05:39.50,0:05:41.88,Flashback,,0,0,90,,You've got bandages, are you a mummy?
+Dialogue: 0,0:05:42.30,0:05:45.38,Flashback,,0,0,90,,Sensei! I don't want to sit next to her!
+Dialogue: 0,0:05:45.38,0:05:47.63,Flashback,,0,0,90,,She smells like medicine!
+Dialogue: 0,0:05:47.63,0:05:49.89,Flashback,,0,0,90,,Hey! The mummy girl hit me!
+Dialogue: 0,0:05:49.89,0:05:50.76,Flashback,,0,0,90,,Ow!
+Dialogue: 0,0:05:50.76,0:05:52.05,Flashback,,0,0,90,,Quit it!
+Dialogue: 0,0:05:52.06,0:05:54.39,Flashback,,0,0,90,,Hey stop it, Shibata-san!
+Dialogue: 0,0:05:54.39,0:05:57.10,Flashback,,0,0,90,,Why do you keep doing violent things?
+Dialogue: 0,0:06:00.94,0:06:03.15,Offscreen,,0,0,90,,I'm exhausted, Kyoko.
+Dialogue: 0,0:06:08.66,0:06:12.07,Default,,0,0,90,,That girl is the same age as Asumi.
+Dialogue: 0,0:06:12.49,0:06:16.54,Default,,0,0,90,,Yeah... next year she'll be seven.
+Dialogue: 0,0:06:18.67,0:06:21.04,Default,,0,0,90,,I'm the same as usual.
+Dialogue: 0,0:06:21.71,0:06:25.05,Offscreen,,0,0,90,,It's a bad job to settle people's lives with money.
+Dialogue: 0,0:06:25.88,0:06:29.05,Offscreen,,0,0,90,,I'm being hated and begrudged by the victims.
+Dialogue: 0,0:06:30.09,0:06:34.10,Offscreen,,0,0,90,,I've spent my life looking at the sky...
+Dialogue: 0,0:06:34.10,0:06:37.77,Offscreen,,0,0,90,,but after that accident, I've been bowing down my head.
+Dialogue: 0,0:06:38.60,0:06:40.89,Default,,0,0,90,,It was just a dream.
+Dialogue: 0,0:06:41.73,0:06:44.65,Default,,0,0,90,,After all it was nothing more than a dream.
+Dialogue: 0,0:06:51.28,0:06:53.07,Default,,0,0,90,,a a om § mg o o...
+Dialogue: 0,0:06:53.99,0:06:57.08,Offscreen,,0,0,90,,I'll have to get rid of it next time.
+Dialogue: 0,0:07:40.16,0:07:43.62,Offscreen,,0,0,90,,All right, this is next!
+Dialogue: 0,0:07:56.43,0:07:57.30,Offscreen,,0,0,90,,There.
+Dialogue: 0,0:08:09.90,0:08:11.69,Offscreen,,0,0,90,,It's called a Swing by.
+Dialogue: 0,0:08:11.70,0:08:15.41,Offscreen,,0,0,90,,When we use the gravity of the Earth or\Nthe Moon to slingshot to our destination.
+Dialogue: 0,0:08:15.41,0:08:17.28,Offscreen,,0,0,90,,If you're giving up with just this...
+Dialogue: 0,0:08:22.71,0:08:27.42,Offscreen,,0,0,90,,it'd be hard for you to become a rocket driver, little one!
+Dialogue: 0,0:08:41.31,0:08:42.52,Offscreen,,0,0,90,,Lion-san!
+Dialogue: 0,0:08:43.85,0:08:45.06,Default,,0,0,90,,One more time!
+Dialogue: 0,0:08:45.06,0:08:47.69,Default,,0,0,90,,What? How many times now?
+Dialogue: 0,0:08:52.19,0:08:53.49,Default,,0,0,90,,Cadet Asumi!
+Dialogue: 0,0:08:53.49,0:08:54.45,Default,,0,0,90,,Yes.
+Dialogue: 0,0:08:54.90,0:08:57.61,Default,,0,0,90,,Today's training is now complete.
+Dialogue: 0,0:08:57.62,0:08:58.62,Default,,0,0,90,,Yes.
+Dialogue: 0,0:08:59.20,0:09:01.95,Default,,0,0,90,,Then, Lion-san, I'll see you tomorrow!
+Dialogue: 0,0:09:07.17,0:09:08.92,Default,,0,0,90,,Good grief...
+Dialogue: 0,0:09:08.92,0:09:10.88,Default,,0,0,90,,It's finally over!
+Dialogue: 0,0:09:14.01,0:09:15.51,Offscreen,,0,0,90,,Laika!
+Dialogue: 0,0:09:16.38,0:09:17.76,Default,,0,0,90,,Come here.
+Dialogue: 0,0:09:19.10,0:09:20.55,Default,,0,0,90,,Laika.
+Dialogue: 0,0:09:23.77,0:09:25.43,Offscreen,,0,0,90,,Come here, I said!
+Dialogue: 0,0:09:26.64,0:09:28.10,Default,,0,0,90,,What are you doing?
+Dialogue: 0,0:09:34.11,0:09:37.07,Default,,0,0,90,,Idiot! Laika ran away!
+Dialogue: 0,0:09:37.07,0:09:38.95,Default,,0,0,90,,What are you going to do about it?
+Dialogue: 0,0:09:38.95,0:09:40.32,Default,,0,0,90,,You idiot!
+Dialogue: 0,0:09:41.41,0:09:43.49,Offscreen,,0,0,90,,Say something!
+Dialogue: 0,0:09:44.75,0:09:46.25,Default,,0,0,90,,I'll go look!
+Dialogue: 0,0:09:53.34,0:09:55.55,Default,,0,0,90,,Catch him properly!
+Dialogue: 0,0:10:04.35,0:10:05.60,Default,,0,0,90,,Really...
+Dialogue: 0,0:10:11.15,0:10:12.90,Offscreen,,0,0,90,,Laika!
+Dialogue: 0,0:10:16.11,0:10:19.70,Offscreen,,0,0,90,,Where are you? Come out!
+Dialogue: 0,0:10:28.29,0:10:30.17,Default,,0,0,90,,Geez, Laika, you...
+Dialogue: 0,0:10:41.34,0:10:43.76,Default,,0,0,90,,I won't thank you.
+Dialogue: 0,0:10:43.76,0:10:46.43,Default,,0,0,90,,You're the one who made Mm run wa .
+Dialogue: 0,0:10:46.43,0:10:49.02,Default,,0,0,90,,Hey come with me for a bit.
+Dialogue: 0,0:10:49.02,0:10:51.65,Default,,0,0,90,,I just found a really niee place.
+Dialogue: 0,0:10:51.65,0:10:53.11,Default,,0,0,90,,Huh?
+Dialogue: 0,0:10:57.11,0:11:00.65,Offscreen,,0,0,90,,Hey, how far do you plan to go?
+Dialogue: 0,0:11:00.66,0:11:02.99,Offscreen,,0,0,90,,What are you going to do if we don't get back?
+Dialogue: 0,0:11:02.99,0:11:05.37,Default,,0,0,90,,It's going to be your responsibility!
+Dialogue: 0,0:11:05.74,0:11:07.79,Default,,0,0,90,,We're here.
+Dialogue: 0,0:11:23.35,0:11:25.30,Offscreen,,0,0,90,,It's amazing, right?
+Dialogue: 0,0:11:25.31,0:11:27.89,Offscreen,,0,0,90,,It's yellow wherever you look.
+Dialogue: 0,0:11:33.90,0:11:36.82,Default,,0,0,90,,that cat fold we about it.
+Dialogue: 0,0:11:38.69,0:11:40.78,Default,,0,0,90,,Hey whafs your name?
+Dialogue: 0,0:11:40.78,0:11:43.11,Default,,0,0,90,,I'm Kamogawa Asumi
+Dialogue: 0,0:11:43.95,0:11:45.41,Default,,0,0,90,,Shibata Kasane...
+Dialogue: 0,0:11:52.00,0:11:53.87,Default,,0,0,90,,This is Laika.
+Dialogue: 0,0:11:54.71,0:11:57.59,Default,,0,0,90,,He isn't attached to me so it's annoying sometimes, but...
+Dialogue: 0,0:11:58.21,0:12:00.63,Default,,0,0,90,,Papa was fond of this cat.
+Dialogue: 0,0:12:00.63,0:12:01.63,Default,,0,0,90,,Papa?
+Dialogue: 0,0:12:01.63,0:12:06.01,Default,,0,0,90,,They say Papa died when I was one.
+Dialogue: 0,0:12:06.76,0:12:08.85,Default,,0,0,90,,Because of the rocket crash.
+Dialogue: 0,0:12:23.24,0:12:26.32,Flashback,,0,0,90,,This is it! My legs are stuck and I can't move!
+Dialogue: 0,0:12:26.32,0:12:28.12,Flashback,,0,0,90,,Dear!
+Dialogue: 0,0:12:26.32,0:12:29.83,Secondary,,0,0,90,,It's dangerous, please stand back!
+Dialogue: 0,0:12:28.12,0:12:29.83,Flashback,,0,0,90,,Kasane!
+Dialogue: 0,0:12:30.20,0:12:32.41,Flashback,,0,0,90,,Someone. Help this ehfld!
+Dialogue: 0,0:12:32.41,0:12:33.79,Flashback,,0,0,90,,Hdp Kasane!
+Dialogue: 0,0:12:43.30,0:12:47.01,Default,,0,0,90,,Papa would have been alive...
+Dialogue: 0,0:12:43.30,0:12:47.01,Default,,0,0,90,,If that accident hadn't happened
+Dialogue: 0,0:12:47.01,0:12:49.51,Default,,0,0,90,,and even my arm would be...
+Dialogue: 0,0:12:57.69,0:12:59.27,Default,,0,0,90,,Kasanechan!
+Dialogue: 0,0:12:59.90,0:13:02.19,Offscreen,,0,0,90,,See! Stars!
+Dialogue: 0,0:13:02.65,0:13:05.11,Default,,0,0,90,,They just fdl from the sky!
+Dialogue: 0,0:13:05.11,0:13:08.66,Default,,0,0,90,,Are you an idiot?!\NThat's just an ordinary leaf
+Dialogue: 0,0:13:08.66,0:13:10.99,Default,,0,0,90,,if is, but...
+Dialogue: 0,0:13:11.62,0:13:14.71,Default,,0,0,90,,Hey Kasane chan, let's play again!
+Dialogue: 0,0:13:17.71,0:13:19.71,Default,,0,0,90,,Well if $ okay.
+Comment: 0,0:13:20.27,0:13:30.28,Title,,0,0,0,,Eyecatch
+Dialogue: 0,0:13:37.35,0:13:40.40,Default,,0,0,90,,Ah, so you're bi class two.
+Dialogue: 0,0:13:40.40,0:13:43.44,Default,,0,0,90,,You were in the next class, but I didn't notice.
+Dialogue: 0,0:13:43.44,0:13:47.57,Default,,0,0,90,,I haven't been to school for a while.
+Dialogue: 0,0:13:43.44,0:13:47.57,Default,,0,0,90,,Of course you wouldn't notice.
+Dialogue: 0,0:13:47.57,0:13:50.78,Offscreen,,0,0,90,,Why? School is fun after all...
+Dialogue: 0,0:13:50.78,0:13:52.79,Default,,0,0,90,,I hate that place.
+Dialogue: 0,0:13:52.79,0:13:55.33,Default,,0,0,90,,There are lots of friends-there.
+Dialogue: 0,0:13:55.33,0:13:57.58,Default,,0,0,90,,I don't need any friends.
+Dialogue: 0,0:14:02.50,0:14:04.09,Default,,0,0,90,,Well...
+Dialogue: 0,0:14:04.09,0:14:07.80,Default,,0,0,90,,If you want to be o*ie, then that would be ftwe.
+Dialogue: 0,0:14:08.89,0:14:11.30,Default,,0,0,90,,Yeah! Let's be friends.
+Dialogue: 0,0:14:12.01,0:14:17.31,Offscreen,,0,0,90,,Hey Kasane-chan, what will you be when you grow up?
+Dialogue: 0,0:14:17.31,0:14:20.90,Default,,0,0,90,,I don't really have any plans.
+Dialogue: 0,0:14:20.90,0:14:21.98,Default,,0,0,90,,What about you?
+Dialogue: 0,0:14:21.98,0:14:26.15,Default,,0,0,90,,I'm going to be a rocket driver.
+Dialogue: 0,0:14:26.15,0:14:27.95,Default,,0,0,90,,Rocket?
+Dialogue: 0,0:14:27.95,0:14:30.74,Default,,0,0,90,,YeaM lean go to many different stars.
+Dialogue: 0,0:14:30.74,0:14:33.16,Default,,0,0,90,,Like you can become something like that.
+Dialogue: 0,0:14:33.16,0:14:34.87,Default,,0,0,90,,I'd become one!
+Dialogue: 0,0:14:34.87,0:14:37.91,Default,,0,0,90,,Then, I'll let you on the rocket!
+Dialogue: 0,0:14:37.91,0:14:40.25,Offscreen,,0,0,90,,Let's go to Spica together!
+Dialogue: 0,0:14:40.25,0:14:41.38,Default,,0,0,90,,Spica?
+Dialogue: 0,0:14:41.38,0:14:46.42,Default,,0,0,90,,Yeah, my favorite star, it's really pretty!
+Dialogue: 0,0:14:50.30,0:14:51.47,Offscreen,,0,0,90,,Asumi!
+Dialogue: 0,0:14:53.26,0:14:54.81,Default,,0,0,90,,Pad!
+Dialogue: 0,0:14:54.81,0:14:56.18,Default,,0,0,90,,Are you in -the middle of work?
+Dialogue: 0,0:14:56.18,0:14:57.31,Default,,0,0,90,,Yeah.
+Dialogue: 0,0:14:57.31,0:15:00.98,Default,,0,0,90,,I was piaybig together wtth Shibata Kasane ehan.
+Dialogue: 0,0:15:00.98,0:15:02.15,Default,,0,0,90,,Shibata?
+Dialogue: 0,0:15:16.62,0:15:18.41,Default,,0,0,90,,Kasane-chan...
+Dialogue: 0,0:15:31.89,0:15:35.26,Signs,,0,0,90,,Shibata
+Dialogue: 0,0:15:35.26,0:15:37.60,Default,,0,0,90,,Is Kasane-chait here?
+Dialogue: 0,0:15:37.60,0:15:41.27,Default,,0,0,90,,Cm sorry Kasane said that she didn't want to see you.
+Dialogue: 0,0:15:43.27,0:15:45.77,Signs,,0,0,90,,Shibata
+Dialogue: 0,0:15:46.82,0:15:48.86,Default,,0,0,90,,Is Kasane-chait...
+Dialogue: 0,0:15:48.86,0:15:50.69,Offscreen,,0,0,90,,She's out right now.
+Dialogue: 0,0:15:53.28,0:15:55.78,Default,,0,0,90,,She's at-the hospital today.
+Dialogue: 0,0:15:55.78,0:15:57.24,Default,,0,0,90,,I see...
+Dialogue: 0,0:16:01.75,0:16:04.67,Default,,0,0,90,,Really, what a persistent child.
+Dialogue: 0,0:16:04.67,0:16:06.54,Default,,0,0,90,,They're certainly alike, parent and child.
+Dialogue: 0,0:16:10.55,0:16:13.47,Offscreen,,0,0,90,,Kasane* have you cleaned your room?
+Dialogue: 0,0:16:14.09,0:16:19.26,Default,,0,0,90,,next week, so hurry and tidy up.
+Dialogue: 0,0:16:14.09,0:16:19.26,Default,,0,0,90,,Well be living at trandpa's place starting
+Dialogue: 0,0:16:20.02,0:16:24.06,Default,,0,0,90,,Mania, I won't be able to see my friends anymor ?
+Dialogue: 0,0:16:24.06,0:16:25.81,Offscreen,,0,0,90,,It can't be helped.
+Dialogue: 0,0:16:27.94,0:16:31.32,Flashback,,0,0,90,,Hey Kasane-chan, let's piay again!
+Dialogue: 0,0:16:50.38,0:16:52.05,Offscreen,,0,0,90,,Hey, it's Shibata!
+Dialogue: 0,0:16:52.05,0:16:54.38,Default,,0,0,90,,You're right!
+Dialogue: 0,0:16:54.80,0:16:59.30,Offscreen,,0,0,90,,What are you doing here when\Nyou haven't been going to school?
+Dialogue: 0,0:16:59.31,0:17:03.06,Default,,0,0,90,,Hey did you know? Her arm's really weird.
+Dialogue: 0,0:17:03.06,0:17:04.77,Default,,0,0,90,,Really? What do ya mean?
+Dialogue: 0,0:17:04.77,0:17:05.98,Default,,0,0,90,,Show it to us.
+Dialogue: 0,0:17:07.65,0:17:09.11,Offscreen,,0,0,90,,Stop it!
+Dialogue: 0,0:17:09.11,0:17:10.69,Offscreen,,0,0,90,,C'mon don't hide it from us!
+Dialogue: 0,0:17:10.69,0:17:12.23,Offscreen,,0,0,90,,Show it!
+Dialogue: 0,0:17:12.90,0:17:15.15,Default,,0,0,90,,What are you dobigt! Stop it
+Dialogue: 0,0:17:18.41,0:17:20.78,Offscreen,,0,0,90,,Stop it! No!
+Dialogue: 0,0:17:20.79,0:17:22.20,Offscreen,,0,0,90,,No!
+Dialogue: 0,0:17:32.88,0:17:34.59,Offscreen,,0,0,90,,Hey let's go.
+Dialogue: 0,0:17:34.59,0:17:35.88,Default,,0,0,90,,Y-yeah.
+Dialogue: 0,0:17:36.97,0:17:38.55,Offscreen,,0,0,90,,Hey wanna come over to my house?
+Dialogue: 0,0:17:38.55,0:17:40.10,Offscreen,,0,0,90,,Left play that game!
+Dialogue: 0,0:17:40.10,0:17:41.31,Offscreen,,0,0,90,,Yeah, let's go!
+Dialogue: 0,0:17:48.98,0:17:50.61,Default,,0,0,90,,Kasaite-chan...
+Dialogue: 0,0:17:56.28,0:17:58.24,Default,,0,0,90,,Hey Kasane-chan.
+Dialogue: 0,0:17:59.74,0:18:02.24,Default,,0,0,90,,What is Hf ®o away.
+Dialogue: 0,0:18:02.99,0:18:04.41,Offscreen,,0,0,90,,Star...
+Dialogue: 0,0:18:05.16,0:18:10.08,Default,,0,0,90,,be happy if you look at the star.
+Dialogue: 0,0:18:05.16,0:18:10.08,Default,,0,0,90,,UoH San was saying that you ll
+Dialogue: 0,0:18:10.42,0:18:14.21,Default,,0,0,90,,So, if you have this leaf, even your injury would...
+Dialogue: 0,0:18:14.21,0:18:15.42,Offscreen,,0,0,90,,Are you an idiot?!
+Dialogue: 0,0:18:15.42,0:18:17.84,Default,,0,0,90,,What do you wean, Uon«aiif!
+Dialogue: 0,0:18:17.84,0:18:21.26,Default,,0,0,90,,You think a bum would go away with a leaf?!
+Dialogue: 0,0:18:21.26,0:18:22.35,Default,,0,0,90,,Eh?
+Dialogue: 0,0:18:22.35,0:18:23.85,Default,,0,0,90,,Yoor papa...
+Dialogue: 0,0:18:25.14,0:18:28.10,Default,,0,0,90,,Your papa killed my papa!
+Dialogue: 0,0:18:28.56,0:18:30.23,Offscreen,,0,0,90,,I don't want any money!
+Dialogue: 0,0:18:30.23,0:18:34.61,Offscreen,,0,0,90,,What I want is a kind papa and a beautiful body!
+Dialogue: 0,0:18:34.61,0:18:36.61,Default,,0,0,90,,You have them!
+Dialogue: 0,0:18:36.61,0:18:38.61,Offscreen,,0,0,90,,You have all of them.
+Dialogue: 0,0:18:41.45,0:18:44.33,Default,,0,0,90,,You aren't my friend!
+Dialogue: 0,0:18:44.33,0:18:46.33,Offscreen,,0,0,90,,•o way*
+Dialogue: 0,0:18:46.33,0:18:48.75,Default,,0,0,90,,You just go away!
+Dialogue: 0,0:19:19.28,0:19:20.61,Offscreen,,0,0,90,,Kasane-chan.
+Dialogue: 0,0:19:22.37,0:19:24.95,Offscreen,,0,0,90,,You aren't the only one who's lonely.
+Dialogue: 0,0:19:24.95,0:19:25.91,Default,,0,0,90,,Hub?
+Dialogue: 0,0:19:27.91,0:19:29.41,Default,,0,0,90,,Who* there?
+Dialogue: 0,0:19:33.21,0:19:36.55,Flashback,,0,0,90,,You aren't the only one who's lonely.
+Dialogue: 0,0:19:52.31,0:19:55.31,Offscreen,,0,0,90,,Shibata-san? She's not here.
+Dialogue: 0,0:19:52.31,0:19:55.31,Signs,,0,0,90,,1st Grade Class 2
+Dialogue: 0,0:19:55.32,0:19:57.90,Default,,0,0,90,,She had moving preparations to do or something.
+Dialogue: 0,0:19:57.90,0:19:59.40,Default,,0,0,90,,Moving?
+Dialogue: 0,0:19:59.40,0:20:03.57,Default,,0,0,90,,near a famous hospital.
+Dialogue: 0,0:19:59.40,0:20:03.57,Default,,0,0,90,,She's going to go live some place far away
+Dialogue: 0,0:20:03.57,0:20:07.58,Offscreen,,0,0,90,,She gave a goodbye speech at the farewell party yesterday.
+Dialogue: 0,0:20:08.79,0:20:12.04,Offscreen,,0,0,90,,Seems Mce die's leaving tomorrow.
+Dialogue: 0,0:20:25.51,0:20:29.06,Default,,0,0,90,,You don't have to go eee Her off, little one?
+Dialogue: 0,0:20:29.93,0:20:32.35,Offscreen,,0,0,90,,She's leaving today right?
+Dialogue: 0,0:20:33.65,0:20:37.94,Default,,0,0,90,,Pvt Kasanechan said we're not friends anymore.
+Dialogue: 0,0:20:39.73,0:20:41.53,Default,,0,0,90,,Hey littleone
+Dialogue: 0,0:20:42.36,0:20:45.86,Offscreen,,0,0,90,,What people say isn't necessarily the truth.
+Dialogue: 0,0:20:46.66,0:20:50.54,Offscreen,,0,0,90,,No one can easily say what they fed
+Dialogue: 0,0:20:51.08,0:20:54.21,Default,,0,0,90,,Saying that they are having fun when they are sad...
+Dialogue: 0,0:20:54.21,0:20:57.04,Default,,0,0,90,,Saying that they are happy when they're spiteful.
+Dialogue: 0,0:20:58.09,0:21:00.71,Default,,0,0,90,,Saying that they haft you when they Rice you...
+Dialogue: 0,0:21:00.71,0:21:04.05,Default,,0,0,90,,Saying that they don't want to see you when they miss you...
+Dialogue: 0,0:21:05.64,0:21:07.34,Offscreen,,0,0,90,,The most important thing...
+Dialogue: 0,0:21:07.35,0:21:11.35,Signs,,0,0,90,,Yuigahama Station
+Dialogue: 0,0:21:08.30,0:21:10.39,Offscreen,,0,0,90,,is your heart little one.
+Dialogue: 0,0:21:24.95,0:21:26.78,Offscreen,,0,0,90,,Kasane, hurry and gef on.
+Dialogue: 0,0:21:26.78,0:21:27.87,Offscreen,,0,0,90,,Y-Yeah.
+Dialogue: 0,0:21:34.00,0:21:35.21,Default,,0,0,90,,Awmichan!
+Dialogue: 0,0:21:35.71,0:21:36.83,Default,,0,0,90,,Kasafie-eban.
+Dialogue: 0,0:21:36.83,0:21:39.92,Default,,0,0,90,,Whew you feel sad, look at the star in the sky!
+Dialogue: 0,0:21:39.92,0:21:43.42,Default,,0,0,90,,I'll look too! let's look at the same star!
+Dialogue: 0,0:21:43.42,0:21:45.92,Default,,0,0,90,,because we're friends!
+Dialogue: 0,0:21:45.93,0:21:47.22,Default,,0,0,90,,Here.
+Dialogue: 0,0:21:48.51,0:21:49.68,Default,,0,0,90,,Asumi ehaiL...
+Dialogue: 0,0:21:55.06,0:21:57.10,Italic,,0,0,90,,I'm sorry, Asumi-chan.
+Dialogue: 0,0:21:57.10,0:22:03.03,Italic,,0,0,90,,What I really wanted wasn't Papa nor a beautiful body.
+Dialogue: 0,0:22:03.94,0:22:06.53,Italic,,0,0,90,,I wanted a real friend...
+Dialogue: 0,0:22:19.42,0:22:21.17,Default,,0,0,90,,It's cleaned...
+Dialogue: 0,0:24:34.30,0:24:36.55,Default,,0,0,90,,I who went baek to Space School...
+Dialogue: 0,0:24:34.30,0:24:36.30,Title,,0,0,90,,Preview
+Dialogue: 0,0:24:36.55,0:24:41.64,Default,,0,0,90,,.am trying to return to my former life\Neven with bad feelings toward Sano-sensei.
+Dialogue: 0,0:24:41.64,0:24:42.98,Default,,0,0,90,,between Pad and Sanosewei long ago.
+Dialogue: 0,0:24:41.64,0:24:47.15,Default,,0,0,90,,I won't think about what happened
+Dialogue: 0,0:24:43.02,0:24:47.15,Default,,0,0,90,,between Pad and Sano-sensei long ago.
+Dialogue: 0,0:24:47.15,0:24:50.82,Default,,0,0,90,,Because Kei-chan and everyone is supporting me.
+Dialogue: 0,0:24:50.82,0:24:53.70,Default,,0,0,90,,And our promise.
+Dialogue: 0,0:24:53.70,0:24:57.03,Default,,0,0,90,,Next time on Twin Spica: The Promised Five.
+Dialogue: 0,0:24:56.34,0:24:57.03,Title,,0,0,90,,The Promised Five
